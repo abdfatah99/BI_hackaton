@@ -1,0 +1,5002 @@
+[
+  {
+    "name": "paperweight",
+    "price": "$61.66",
+    "market_price": "$94.65"
+  },
+  {
+    "name": "file folders",
+    "price": "$59.10",
+    "market_price": "$36.21"
+  },
+  {
+    "name": "stapler",
+    "price": "$15.45",
+    "market_price": "$23.62"
+  },
+  {
+    "name": "sharpener",
+    "price": "$19.87",
+    "market_price": "$36.71"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$89.30",
+    "market_price": "$78.25"
+  },
+  {
+    "name": "staple remover",
+    "price": "$59.17",
+    "market_price": "$67.68"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$26.97",
+    "market_price": "$64.53"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$12.88",
+    "market_price": "$79.57"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$7.67",
+    "market_price": "$87.44"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$29.27",
+    "market_price": "$43.53"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$94.65",
+    "market_price": "$12.58"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$5.98",
+    "market_price": "$61.59"
+  },
+  {
+    "name": "tape",
+    "price": "$96.35",
+    "market_price": "$17.09"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$73.57",
+    "market_price": "$95.98"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$88.24",
+    "market_price": "$87.95"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$69.46",
+    "market_price": "$72.18"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$3.47",
+    "market_price": "$38.81"
+  },
+  {
+    "name": "push pins",
+    "price": "$64.83",
+    "market_price": "$95.43"
+  },
+  {
+    "name": "paper clips",
+    "price": "$60.57",
+    "market_price": "$40.39"
+  },
+  {
+    "name": "binder clips",
+    "price": "$96.79",
+    "market_price": "$47.33"
+  },
+  {
+    "name": "pens",
+    "price": "$51.80",
+    "market_price": "$55.36"
+  },
+  {
+    "name": "rulers",
+    "price": "$21.94",
+    "market_price": "$87.79"
+  },
+  {
+    "name": "desk mat",
+    "price": "$58.57",
+    "market_price": "$29.63"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$85.13",
+    "market_price": "$22.91"
+  },
+  {
+    "name": "rulers",
+    "price": "$6.51",
+    "market_price": "$49.79"
+  },
+  {
+    "name": "stapler",
+    "price": "$51.71",
+    "market_price": "$88.16"
+  },
+  {
+    "name": "label maker",
+    "price": "$62.71",
+    "market_price": "$57.45"
+  },
+  {
+    "name": "index cards",
+    "price": "$99.24",
+    "market_price": "$5.47"
+  },
+  {
+    "name": "USB drive",
+    "price": "$4.36",
+    "market_price": "$6.93"
+  },
+  {
+    "name": "index cards",
+    "price": "$96.76",
+    "market_price": "$33.48"
+  },
+  {
+    "name": "scissors",
+    "price": "$33.82",
+    "market_price": "$70.73"
+  },
+  {
+    "name": "writing pad",
+    "price": "$5.34",
+    "market_price": "$70.39"
+  },
+  {
+    "name": "label maker",
+    "price": "$38.17",
+    "market_price": "$46.16"
+  },
+  {
+    "name": "erasers",
+    "price": "$83.58",
+    "market_price": "$66.58"
+  },
+  {
+    "name": "erasers",
+    "price": "$64.25",
+    "market_price": "$97.52"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$97.48",
+    "market_price": "$5.24"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$22.11",
+    "market_price": "$64.85"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$42.22",
+    "market_price": "$38.26"
+  },
+  {
+    "name": "calculator",
+    "price": "$98.15",
+    "market_price": "$30.88"
+  },
+  {
+    "name": "printer ink",
+    "price": "$33.26",
+    "market_price": "$50.91"
+  },
+  {
+    "name": "push pins",
+    "price": "$91.22",
+    "market_price": "$33.75"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$20.99",
+    "market_price": "$66.30"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$82.54",
+    "market_price": "$25.86"
+  },
+  {
+    "name": "USB drive",
+    "price": "$53.73",
+    "market_price": "$26.61"
+  },
+  {
+    "name": "pencil case",
+    "price": "$45.65",
+    "market_price": "$61.65"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$51.85",
+    "market_price": "$73.18"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$24.32",
+    "market_price": "$17.89"
+  },
+  {
+    "name": "index cards",
+    "price": "$27.61",
+    "market_price": "$18.15"
+  },
+  {
+    "name": "stapler",
+    "price": "$37.10",
+    "market_price": "$15.42"
+  },
+  {
+    "name": "label maker",
+    "price": "$5.17",
+    "market_price": "$31.69"
+  },
+  {
+    "name": "pens",
+    "price": "$39.32",
+    "market_price": "$66.66"
+  },
+  {
+    "name": "paper towels",
+    "price": "$15.54",
+    "market_price": "$15.10"
+  },
+  {
+    "name": "paper clips",
+    "price": "$55.76",
+    "market_price": "$75.37"
+  },
+  {
+    "name": "sharpener",
+    "price": "$37.71",
+    "market_price": "$17.52"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$16.39",
+    "market_price": "$47.63"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$52.62",
+    "market_price": "$48.94"
+  },
+  {
+    "name": "notebooks",
+    "price": "$17.28",
+    "market_price": "$22.79"
+  },
+  {
+    "name": "sharpener",
+    "price": "$54.51",
+    "market_price": "$58.64"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$45.25",
+    "market_price": "$46.40"
+  },
+  {
+    "name": "label maker",
+    "price": "$47.71",
+    "market_price": "$46.35"
+  },
+  {
+    "name": "pencil case",
+    "price": "$97.03",
+    "market_price": "$26.39"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$14.96",
+    "market_price": "$45.83"
+  },
+  {
+    "name": "stapler",
+    "price": "$39.25",
+    "market_price": "$23.62"
+  },
+  {
+    "name": "erasers",
+    "price": "$47.91",
+    "market_price": "$9.84"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$79.37",
+    "market_price": "$20.69"
+  },
+  {
+    "name": "pens",
+    "price": "$62.47",
+    "market_price": "$21.47"
+  },
+  {
+    "name": "printer ink",
+    "price": "$86.96",
+    "market_price": "$65.37"
+  },
+  {
+    "name": "file folders",
+    "price": "$90.03",
+    "market_price": "$44.13"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$13.52",
+    "market_price": "$28.11"
+  },
+  {
+    "name": "folders",
+    "price": "$41.37",
+    "market_price": "$97.40"
+  },
+  {
+    "name": "paperweight",
+    "price": "$31.88",
+    "market_price": "$62.88"
+  },
+  {
+    "name": "staple remover",
+    "price": "$22.50",
+    "market_price": "$95.14"
+  },
+  {
+    "name": "erasers",
+    "price": "$81.62",
+    "market_price": "$76.76"
+  },
+  {
+    "name": "pencil case",
+    "price": "$43.97",
+    "market_price": "$46.96"
+  },
+  {
+    "name": "erasers",
+    "price": "$54.19",
+    "market_price": "$4.64"
+  },
+  {
+    "name": "desk mat",
+    "price": "$46.44",
+    "market_price": "$70.33"
+  },
+  {
+    "name": "stamps",
+    "price": "$83.91",
+    "market_price": "$63.22"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$11.65",
+    "market_price": "$25.23"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$2.96",
+    "market_price": "$2.74"
+  },
+  {
+    "name": "printer ink",
+    "price": "$66.29",
+    "market_price": "$12.79"
+  },
+  {
+    "name": "paper clips",
+    "price": "$98.99",
+    "market_price": "$9.13"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$48.55",
+    "market_price": "$30.92"
+  },
+  {
+    "name": "file folders",
+    "price": "$64.84",
+    "market_price": "$67.44"
+  },
+  {
+    "name": "writing pad",
+    "price": "$12.93",
+    "market_price": "$45.10"
+  },
+  {
+    "name": "tape",
+    "price": "$40.75",
+    "market_price": "$1.42"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$41.00",
+    "market_price": "$8.52"
+  },
+  {
+    "name": "erasers",
+    "price": "$75.67",
+    "market_price": "$20.83"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$77.76",
+    "market_price": "$45.65"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$99.71",
+    "market_price": "$99.60"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$91.46",
+    "market_price": "$58.95"
+  },
+  {
+    "name": "label maker",
+    "price": "$41.24",
+    "market_price": "$16.37"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$53.39",
+    "market_price": "$61.52"
+  },
+  {
+    "name": "stapler",
+    "price": "$23.65",
+    "market_price": "$48.19"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$22.74",
+    "market_price": "$47.60"
+  },
+  {
+    "name": "file folders",
+    "price": "$36.74",
+    "market_price": "$23.34"
+  },
+  {
+    "name": "business cards",
+    "price": "$50.87",
+    "market_price": "$74.24"
+  },
+  {
+    "name": "paper clips",
+    "price": "$19.82",
+    "market_price": "$77.39"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$57.67",
+    "market_price": "$99.90"
+  },
+  {
+    "name": "hole punch",
+    "price": "$50.75",
+    "market_price": "$10.13"
+  },
+  {
+    "name": "printer ink",
+    "price": "$41.61",
+    "market_price": "$13.98"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$29.19",
+    "market_price": "$64.12"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$73.03",
+    "market_price": "$27.90"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$18.29",
+    "market_price": "$23.53"
+  },
+  {
+    "name": "erasers",
+    "price": "$99.24",
+    "market_price": "$96.97"
+  },
+  {
+    "name": "label maker",
+    "price": "$29.76",
+    "market_price": "$53.74"
+  },
+  {
+    "name": "stamps",
+    "price": "$2.34",
+    "market_price": "$29.21"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$66.23",
+    "market_price": "$59.03"
+  },
+  {
+    "name": "printer ink",
+    "price": "$76.49",
+    "market_price": "$19.10"
+  },
+  {
+    "name": "label maker",
+    "price": "$25.81",
+    "market_price": "$65.24"
+  },
+  {
+    "name": "sharpener",
+    "price": "$48.36",
+    "market_price": "$32.12"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$75.93",
+    "market_price": "$24.38"
+  },
+  {
+    "name": "staple remover",
+    "price": "$82.56",
+    "market_price": "$9.38"
+  },
+  {
+    "name": "file folders",
+    "price": "$44.89",
+    "market_price": "$99.51"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$59.42",
+    "market_price": "$38.11"
+  },
+  {
+    "name": "pencil case",
+    "price": "$39.86",
+    "market_price": "$87.93"
+  },
+  {
+    "name": "envelopes",
+    "price": "$32.02",
+    "market_price": "$73.16"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$69.12",
+    "market_price": "$15.12"
+  },
+  {
+    "name": "markers",
+    "price": "$7.30",
+    "market_price": "$73.75"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$10.18",
+    "market_price": "$61.88"
+  },
+  {
+    "name": "erasers",
+    "price": "$86.03",
+    "market_price": "$53.88"
+  },
+  {
+    "name": "push pins",
+    "price": "$2.54",
+    "market_price": "$90.61"
+  },
+  {
+    "name": "tape",
+    "price": "$96.88",
+    "market_price": "$8.48"
+  },
+  {
+    "name": "markers",
+    "price": "$88.26",
+    "market_price": "$95.36"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$24.17",
+    "market_price": "$26.25"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$94.43",
+    "market_price": "$79.75"
+  },
+  {
+    "name": "binder clips",
+    "price": "$72.68",
+    "market_price": "$65.29"
+  },
+  {
+    "name": "stamps",
+    "price": "$51.69",
+    "market_price": "$91.87"
+  },
+  {
+    "name": "writing pad",
+    "price": "$93.20",
+    "market_price": "$36.85"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$25.43",
+    "market_price": "$56.14"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$64.71",
+    "market_price": "$99.89"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$18.90",
+    "market_price": "$8.08"
+  },
+  {
+    "name": "paper clips",
+    "price": "$73.77",
+    "market_price": "$31.31"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$53.17",
+    "market_price": "$99.61"
+  },
+  {
+    "name": "markers",
+    "price": "$74.89",
+    "market_price": "$67.11"
+  },
+  {
+    "name": "USB drive",
+    "price": "$35.73",
+    "market_price": "$56.28"
+  },
+  {
+    "name": "paper clips",
+    "price": "$60.01",
+    "market_price": "$76.08"
+  },
+  {
+    "name": "envelopes",
+    "price": "$66.75",
+    "market_price": "$48.10"
+  },
+  {
+    "name": "desk mat",
+    "price": "$55.36",
+    "market_price": "$9.72"
+  },
+  {
+    "name": "folders",
+    "price": "$79.19",
+    "market_price": "$64.54"
+  },
+  {
+    "name": "binder clips",
+    "price": "$54.04",
+    "market_price": "$38.96"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$90.14",
+    "market_price": "$72.77"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$58.31",
+    "market_price": "$86.47"
+  },
+  {
+    "name": "staple remover",
+    "price": "$82.03",
+    "market_price": "$64.38"
+  },
+  {
+    "name": "notebooks",
+    "price": "$86.47",
+    "market_price": "$1.79"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$38.49",
+    "market_price": "$45.70"
+  },
+  {
+    "name": "stapler",
+    "price": "$39.61",
+    "market_price": "$31.03"
+  },
+  {
+    "name": "pencil case",
+    "price": "$1.29",
+    "market_price": "$90.88"
+  },
+  {
+    "name": "folders",
+    "price": "$86.08",
+    "market_price": "$6.23"
+  },
+  {
+    "name": "business cards",
+    "price": "$95.66",
+    "market_price": "$21.28"
+  },
+  {
+    "name": "stapler",
+    "price": "$75.11",
+    "market_price": "$19.96"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$66.47",
+    "market_price": "$77.01"
+  },
+  {
+    "name": "paper towels",
+    "price": "$44.10",
+    "market_price": "$86.99"
+  },
+  {
+    "name": "index cards",
+    "price": "$71.46",
+    "market_price": "$77.59"
+  },
+  {
+    "name": "erasers",
+    "price": "$76.47",
+    "market_price": "$50.51"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$66.10",
+    "market_price": "$94.58"
+  },
+  {
+    "name": "business cards",
+    "price": "$19.43",
+    "market_price": "$63.68"
+  },
+  {
+    "name": "desk mat",
+    "price": "$21.31",
+    "market_price": "$5.63"
+  },
+  {
+    "name": "pencil case",
+    "price": "$11.79",
+    "market_price": "$81.48"
+  },
+  {
+    "name": "paper clips",
+    "price": "$31.01",
+    "market_price": "$62.20"
+  },
+  {
+    "name": "paper towels",
+    "price": "$97.02",
+    "market_price": "$84.83"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$58.19",
+    "market_price": "$27.42"
+  },
+  {
+    "name": "folders",
+    "price": "$7.26",
+    "market_price": "$77.27"
+  },
+  {
+    "name": "paper clips",
+    "price": "$21.59",
+    "market_price": "$32.75"
+  },
+  {
+    "name": "notebooks",
+    "price": "$14.47",
+    "market_price": "$37.24"
+  },
+  {
+    "name": "printer ink",
+    "price": "$77.78",
+    "market_price": "$99.78"
+  },
+  {
+    "name": "printer ink",
+    "price": "$6.94",
+    "market_price": "$56.94"
+  },
+  {
+    "name": "paper towels",
+    "price": "$80.63",
+    "market_price": "$97.29"
+  },
+  {
+    "name": "rulers",
+    "price": "$83.98",
+    "market_price": "$62.07"
+  },
+  {
+    "name": "envelopes",
+    "price": "$50.16",
+    "market_price": "$33.42"
+  },
+  {
+    "name": "scissors",
+    "price": "$10.81",
+    "market_price": "$58.16"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$57.70",
+    "market_price": "$12.09"
+  },
+  {
+    "name": "stapler",
+    "price": "$6.87",
+    "market_price": "$5.71"
+  },
+  {
+    "name": "pencil case",
+    "price": "$93.47",
+    "market_price": "$18.07"
+  },
+  {
+    "name": "paper clips",
+    "price": "$7.32",
+    "market_price": "$46.22"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$87.56",
+    "market_price": "$57.09"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$62.96",
+    "market_price": "$11.88"
+  },
+  {
+    "name": "printer ink",
+    "price": "$89.75",
+    "market_price": "$30.68"
+  },
+  {
+    "name": "tape",
+    "price": "$10.61",
+    "market_price": "$41.12"
+  },
+  {
+    "name": "notebooks",
+    "price": "$7.85",
+    "market_price": "$26.43"
+  },
+  {
+    "name": "desk chair",
+    "price": "$27.91",
+    "market_price": "$73.44"
+  },
+  {
+    "name": "rulers",
+    "price": "$82.35",
+    "market_price": "$40.60"
+  },
+  {
+    "name": "paperweight",
+    "price": "$60.95",
+    "market_price": "$86.69"
+  },
+  {
+    "name": "calculator",
+    "price": "$96.28",
+    "market_price": "$56.70"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$48.73",
+    "market_price": "$53.45"
+  },
+  {
+    "name": "label maker",
+    "price": "$23.22",
+    "market_price": "$38.27"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$74.82",
+    "market_price": "$10.91"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$26.78",
+    "market_price": "$85.48"
+  },
+  {
+    "name": "paperweight",
+    "price": "$92.39",
+    "market_price": "$97.78"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$30.73",
+    "market_price": "$23.11"
+  },
+  {
+    "name": "printer ink",
+    "price": "$62.53",
+    "market_price": "$70.57"
+  },
+  {
+    "name": "pencil case",
+    "price": "$67.44",
+    "market_price": "$62.55"
+  },
+  {
+    "name": "tape",
+    "price": "$3.59",
+    "market_price": "$10.92"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$58.43",
+    "market_price": "$50.29"
+  },
+  {
+    "name": "paperweight",
+    "price": "$97.55",
+    "market_price": "$48.61"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$50.18",
+    "market_price": "$68.85"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$20.61",
+    "market_price": "$78.31"
+  },
+  {
+    "name": "highlighters",
+    "price": "$18.83",
+    "market_price": "$28.24"
+  },
+  {
+    "name": "file folders",
+    "price": "$52.92",
+    "market_price": "$72.08"
+  },
+  {
+    "name": "calculator",
+    "price": "$4.99",
+    "market_price": "$15.88"
+  },
+  {
+    "name": "pencils",
+    "price": "$93.08",
+    "market_price": "$61.46"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$80.11",
+    "market_price": "$35.95"
+  },
+  {
+    "name": "paper towels",
+    "price": "$92.82",
+    "market_price": "$42.52"
+  },
+  {
+    "name": "desk mat",
+    "price": "$21.88",
+    "market_price": "$98.46"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$70.78",
+    "market_price": "$15.66"
+  },
+  {
+    "name": "stamps",
+    "price": "$18.58",
+    "market_price": "$17.73"
+  },
+  {
+    "name": "sharpener",
+    "price": "$98.96",
+    "market_price": "$34.63"
+  },
+  {
+    "name": "erasers",
+    "price": "$8.29",
+    "market_price": "$16.88"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$35.74",
+    "market_price": "$8.53"
+  },
+  {
+    "name": "writing pad",
+    "price": "$91.34",
+    "market_price": "$77.44"
+  },
+  {
+    "name": "printer ink",
+    "price": "$7.84",
+    "market_price": "$37.65"
+  },
+  {
+    "name": "notebooks",
+    "price": "$34.02",
+    "market_price": "$49.44"
+  },
+  {
+    "name": "push pins",
+    "price": "$68.19",
+    "market_price": "$18.35"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$22.90",
+    "market_price": "$79.07"
+  },
+  {
+    "name": "folders",
+    "price": "$16.26",
+    "market_price": "$10.97"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$20.66",
+    "market_price": "$89.23"
+  },
+  {
+    "name": "USB drive",
+    "price": "$2.94",
+    "market_price": "$44.69"
+  },
+  {
+    "name": "label maker",
+    "price": "$50.70",
+    "market_price": "$27.16"
+  },
+  {
+    "name": "paper towels",
+    "price": "$51.62",
+    "market_price": "$26.43"
+  },
+  {
+    "name": "tape",
+    "price": "$68.31",
+    "market_price": "$80.21"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$74.77",
+    "market_price": "$71.84"
+  },
+  {
+    "name": "erasers",
+    "price": "$66.13",
+    "market_price": "$17.91"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$76.18",
+    "market_price": "$25.77"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$61.00",
+    "market_price": "$84.26"
+  },
+  {
+    "name": "hole punch",
+    "price": "$69.57",
+    "market_price": "$64.21"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$27.29",
+    "market_price": "$18.37"
+  },
+  {
+    "name": "scissors",
+    "price": "$43.07",
+    "market_price": "$56.65"
+  },
+  {
+    "name": "pencils",
+    "price": "$12.74",
+    "market_price": "$43.04"
+  },
+  {
+    "name": "printer ink",
+    "price": "$91.98",
+    "market_price": "$93.26"
+  },
+  {
+    "name": "stamps",
+    "price": "$21.95",
+    "market_price": "$5.72"
+  },
+  {
+    "name": "index cards",
+    "price": "$15.84",
+    "market_price": "$26.41"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$75.03",
+    "market_price": "$95.34"
+  },
+  {
+    "name": "paper clips",
+    "price": "$31.29",
+    "market_price": "$57.58"
+  },
+  {
+    "name": "desk mat",
+    "price": "$72.58",
+    "market_price": "$9.42"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$48.60",
+    "market_price": "$46.25"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$91.25",
+    "market_price": "$79.67"
+  },
+  {
+    "name": "pencils",
+    "price": "$15.43",
+    "market_price": "$57.35"
+  },
+  {
+    "name": "index cards",
+    "price": "$11.56",
+    "market_price": "$56.50"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$10.29",
+    "market_price": "$96.90"
+  },
+  {
+    "name": "pens",
+    "price": "$53.00",
+    "market_price": "$21.90"
+  },
+  {
+    "name": "staple remover",
+    "price": "$53.48",
+    "market_price": "$58.79"
+  },
+  {
+    "name": "notebooks",
+    "price": "$61.05",
+    "market_price": "$47.01"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$83.91",
+    "market_price": "$29.07"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$50.45",
+    "market_price": "$57.74"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$11.89",
+    "market_price": "$5.27"
+  },
+  {
+    "name": "desk chair",
+    "price": "$77.65",
+    "market_price": "$58.59"
+  },
+  {
+    "name": "paper clips",
+    "price": "$40.86",
+    "market_price": "$65.80"
+  },
+  {
+    "name": "erasers",
+    "price": "$80.01",
+    "market_price": "$91.68"
+  },
+  {
+    "name": "pencil case",
+    "price": "$53.97",
+    "market_price": "$37.57"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$62.28",
+    "market_price": "$34.55"
+  },
+  {
+    "name": "tape",
+    "price": "$34.82",
+    "market_price": "$36.02"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$52.00",
+    "market_price": "$63.68"
+  },
+  {
+    "name": "paper towels",
+    "price": "$33.03",
+    "market_price": "$91.49"
+  },
+  {
+    "name": "push pins",
+    "price": "$11.53",
+    "market_price": "$96.69"
+  },
+  {
+    "name": "binder clips",
+    "price": "$7.32",
+    "market_price": "$53.90"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$20.23",
+    "market_price": "$57.39"
+  },
+  {
+    "name": "file folders",
+    "price": "$33.28",
+    "market_price": "$96.43"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$34.88",
+    "market_price": "$13.37"
+  },
+  {
+    "name": "pencils",
+    "price": "$31.16",
+    "market_price": "$93.75"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$99.31",
+    "market_price": "$61.03"
+  },
+  {
+    "name": "paper clips",
+    "price": "$62.38",
+    "market_price": "$16.53"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$73.14",
+    "market_price": "$95.52"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$23.53",
+    "market_price": "$55.61"
+  },
+  {
+    "name": "calculator",
+    "price": "$19.16",
+    "market_price": "$60.02"
+  },
+  {
+    "name": "staple remover",
+    "price": "$34.76",
+    "market_price": "$74.34"
+  },
+  {
+    "name": "scissors",
+    "price": "$34.74",
+    "market_price": "$79.61"
+  },
+  {
+    "name": "staple remover",
+    "price": "$48.77",
+    "market_price": "$46.20"
+  },
+  {
+    "name": "notebooks",
+    "price": "$73.42",
+    "market_price": "$1.64"
+  },
+  {
+    "name": "paperweight",
+    "price": "$49.58",
+    "market_price": "$3.80"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$4.06",
+    "market_price": "$37.04"
+  },
+  {
+    "name": "index cards",
+    "price": "$84.98",
+    "market_price": "$58.39"
+  },
+  {
+    "name": "calculator",
+    "price": "$88.33",
+    "market_price": "$37.33"
+  },
+  {
+    "name": "pencils",
+    "price": "$86.85",
+    "market_price": "$43.81"
+  },
+  {
+    "name": "notebooks",
+    "price": "$2.27",
+    "market_price": "$75.63"
+  },
+  {
+    "name": "label maker",
+    "price": "$43.77",
+    "market_price": "$65.58"
+  },
+  {
+    "name": "tape",
+    "price": "$13.74",
+    "market_price": "$29.41"
+  },
+  {
+    "name": "business cards",
+    "price": "$97.36",
+    "market_price": "$3.82"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$12.50",
+    "market_price": "$53.14"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$90.94",
+    "market_price": "$43.98"
+  },
+  {
+    "name": "erasers",
+    "price": "$95.08",
+    "market_price": "$74.06"
+  },
+  {
+    "name": "hole punch",
+    "price": "$39.36",
+    "market_price": "$97.87"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$96.52",
+    "market_price": "$27.00"
+  },
+  {
+    "name": "calculator",
+    "price": "$64.87",
+    "market_price": "$22.87"
+  },
+  {
+    "name": "stapler",
+    "price": "$53.10",
+    "market_price": "$94.85"
+  },
+  {
+    "name": "envelopes",
+    "price": "$89.48",
+    "market_price": "$19.51"
+  },
+  {
+    "name": "desk mat",
+    "price": "$32.20",
+    "market_price": "$99.08"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$28.16",
+    "market_price": "$53.68"
+  },
+  {
+    "name": "highlighters",
+    "price": "$71.76",
+    "market_price": "$80.60"
+  },
+  {
+    "name": "pencil case",
+    "price": "$36.34",
+    "market_price": "$43.60"
+  },
+  {
+    "name": "pencil case",
+    "price": "$7.40",
+    "market_price": "$49.13"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$67.50",
+    "market_price": "$31.49"
+  },
+  {
+    "name": "markers",
+    "price": "$39.25",
+    "market_price": "$66.44"
+  },
+  {
+    "name": "calculator",
+    "price": "$99.66",
+    "market_price": "$26.92"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$41.54",
+    "market_price": "$17.73"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$27.89",
+    "market_price": "$21.26"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$34.22",
+    "market_price": "$24.92"
+  },
+  {
+    "name": "staple remover",
+    "price": "$44.53",
+    "market_price": "$5.32"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$59.11",
+    "market_price": "$98.11"
+  },
+  {
+    "name": "writing pad",
+    "price": "$84.72",
+    "market_price": "$33.31"
+  },
+  {
+    "name": "hole punch",
+    "price": "$81.99",
+    "market_price": "$32.01"
+  },
+  {
+    "name": "desk mat",
+    "price": "$9.66",
+    "market_price": "$10.92"
+  },
+  {
+    "name": "pencils",
+    "price": "$59.51",
+    "market_price": "$46.15"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$29.29",
+    "market_price": "$69.00"
+  },
+  {
+    "name": "file folders",
+    "price": "$6.11",
+    "market_price": "$96.80"
+  },
+  {
+    "name": "envelopes",
+    "price": "$38.66",
+    "market_price": "$32.77"
+  },
+  {
+    "name": "desk mat",
+    "price": "$1.63",
+    "market_price": "$25.19"
+  },
+  {
+    "name": "staple remover",
+    "price": "$38.58",
+    "market_price": "$60.24"
+  },
+  {
+    "name": "label maker",
+    "price": "$85.75",
+    "market_price": "$20.22"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$54.82",
+    "market_price": "$72.07"
+  },
+  {
+    "name": "rulers",
+    "price": "$61.57",
+    "market_price": "$43.23"
+  },
+  {
+    "name": "push pins",
+    "price": "$7.51",
+    "market_price": "$30.06"
+  },
+  {
+    "name": "push pins",
+    "price": "$9.77",
+    "market_price": "$96.15"
+  },
+  {
+    "name": "erasers",
+    "price": "$47.57",
+    "market_price": "$83.65"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$47.23",
+    "market_price": "$29.23"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$70.95",
+    "market_price": "$94.32"
+  },
+  {
+    "name": "notebooks",
+    "price": "$18.56",
+    "market_price": "$72.90"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$19.53",
+    "market_price": "$30.37"
+  },
+  {
+    "name": "push pins",
+    "price": "$51.84",
+    "market_price": "$11.26"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$6.55",
+    "market_price": "$4.69"
+  },
+  {
+    "name": "rulers",
+    "price": "$86.51",
+    "market_price": "$12.84"
+  },
+  {
+    "name": "push pins",
+    "price": "$45.71",
+    "market_price": "$7.14"
+  },
+  {
+    "name": "pens",
+    "price": "$36.67",
+    "market_price": "$91.91"
+  },
+  {
+    "name": "sharpener",
+    "price": "$5.21",
+    "market_price": "$23.29"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$22.57",
+    "market_price": "$86.27"
+  },
+  {
+    "name": "stapler",
+    "price": "$98.11",
+    "market_price": "$39.99"
+  },
+  {
+    "name": "printer ink",
+    "price": "$29.13",
+    "market_price": "$85.52"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$35.15",
+    "market_price": "$82.49"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$74.27",
+    "market_price": "$69.67"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$81.99",
+    "market_price": "$95.10"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$5.03",
+    "market_price": "$11.10"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$28.21",
+    "market_price": "$79.31"
+  },
+  {
+    "name": "USB drive",
+    "price": "$9.15",
+    "market_price": "$22.27"
+  },
+  {
+    "name": "printer ink",
+    "price": "$51.39",
+    "market_price": "$77.14"
+  },
+  {
+    "name": "file folders",
+    "price": "$13.57",
+    "market_price": "$84.18"
+  },
+  {
+    "name": "rulers",
+    "price": "$10.02",
+    "market_price": "$92.01"
+  },
+  {
+    "name": "calculator",
+    "price": "$38.44",
+    "market_price": "$4.54"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$4.07",
+    "market_price": "$98.70"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$42.34",
+    "market_price": "$52.04"
+  },
+  {
+    "name": "staple remover",
+    "price": "$21.60",
+    "market_price": "$70.25"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$17.24",
+    "market_price": "$27.85"
+  },
+  {
+    "name": "desk chair",
+    "price": "$9.88",
+    "market_price": "$94.14"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$45.05",
+    "market_price": "$15.44"
+  },
+  {
+    "name": "highlighters",
+    "price": "$87.91",
+    "market_price": "$16.09"
+  },
+  {
+    "name": "rulers",
+    "price": "$44.60",
+    "market_price": "$9.87"
+  },
+  {
+    "name": "desk mat",
+    "price": "$28.62",
+    "market_price": "$84.91"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$95.16",
+    "market_price": "$5.65"
+  },
+  {
+    "name": "writing pad",
+    "price": "$39.93",
+    "market_price": "$36.31"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$34.64",
+    "market_price": "$16.71"
+  },
+  {
+    "name": "markers",
+    "price": "$55.45",
+    "market_price": "$97.46"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$57.59",
+    "market_price": "$55.00"
+  },
+  {
+    "name": "printer ink",
+    "price": "$6.74",
+    "market_price": "$98.46"
+  },
+  {
+    "name": "notebooks",
+    "price": "$30.56",
+    "market_price": "$45.21"
+  },
+  {
+    "name": "desk chair",
+    "price": "$29.86",
+    "market_price": "$31.84"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$47.19",
+    "market_price": "$74.85"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$45.95",
+    "market_price": "$73.78"
+  },
+  {
+    "name": "paperweight",
+    "price": "$75.36",
+    "market_price": "$1.20"
+  },
+  {
+    "name": "desk mat",
+    "price": "$5.37",
+    "market_price": "$44.66"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$94.44",
+    "market_price": "$74.44"
+  },
+  {
+    "name": "pencils",
+    "price": "$76.11",
+    "market_price": "$23.92"
+  },
+  {
+    "name": "USB drive",
+    "price": "$63.60",
+    "market_price": "$20.12"
+  },
+  {
+    "name": "paperweight",
+    "price": "$26.11",
+    "market_price": "$1.98"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$73.20",
+    "market_price": "$54.79"
+  },
+  {
+    "name": "business cards",
+    "price": "$39.10",
+    "market_price": "$95.53"
+  },
+  {
+    "name": "hole punch",
+    "price": "$18.54",
+    "market_price": "$26.58"
+  },
+  {
+    "name": "envelopes",
+    "price": "$94.34",
+    "market_price": "$29.41"
+  },
+  {
+    "name": "staple remover",
+    "price": "$92.37",
+    "market_price": "$61.69"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$40.45",
+    "market_price": "$51.95"
+  },
+  {
+    "name": "desk chair",
+    "price": "$23.05",
+    "market_price": "$37.14"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$18.04",
+    "market_price": "$14.93"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$69.62",
+    "market_price": "$69.37"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$7.11",
+    "market_price": "$65.84"
+  },
+  {
+    "name": "writing pad",
+    "price": "$8.76",
+    "market_price": "$71.61"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$85.06",
+    "market_price": "$85.18"
+  },
+  {
+    "name": "pencils",
+    "price": "$24.95",
+    "market_price": "$34.95"
+  },
+  {
+    "name": "index cards",
+    "price": "$98.48",
+    "market_price": "$83.02"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$68.72",
+    "market_price": "$90.26"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$16.48",
+    "market_price": "$77.75"
+  },
+  {
+    "name": "folders",
+    "price": "$93.43",
+    "market_price": "$29.87"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$27.03",
+    "market_price": "$89.39"
+  },
+  {
+    "name": "notebooks",
+    "price": "$64.72",
+    "market_price": "$73.78"
+  },
+  {
+    "name": "desk chair",
+    "price": "$5.03",
+    "market_price": "$5.15"
+  },
+  {
+    "name": "label maker",
+    "price": "$53.56",
+    "market_price": "$34.60"
+  },
+  {
+    "name": "desk mat",
+    "price": "$13.62",
+    "market_price": "$60.00"
+  },
+  {
+    "name": "desk mat",
+    "price": "$38.53",
+    "market_price": "$25.59"
+  },
+  {
+    "name": "paper clips",
+    "price": "$56.14",
+    "market_price": "$40.98"
+  },
+  {
+    "name": "index cards",
+    "price": "$55.52",
+    "market_price": "$23.53"
+  },
+  {
+    "name": "paper towels",
+    "price": "$73.94",
+    "market_price": "$96.58"
+  },
+  {
+    "name": "paperweight",
+    "price": "$78.27",
+    "market_price": "$49.54"
+  },
+  {
+    "name": "printer ink",
+    "price": "$12.32",
+    "market_price": "$21.65"
+  },
+  {
+    "name": "envelopes",
+    "price": "$37.78",
+    "market_price": "$58.02"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$22.79",
+    "market_price": "$29.63"
+  },
+  {
+    "name": "tape",
+    "price": "$68.15",
+    "market_price": "$95.11"
+  },
+  {
+    "name": "desk chair",
+    "price": "$34.25",
+    "market_price": "$23.88"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$28.22",
+    "market_price": "$65.66"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$95.69",
+    "market_price": "$21.98"
+  },
+  {
+    "name": "binder clips",
+    "price": "$16.23",
+    "market_price": "$7.88"
+  },
+  {
+    "name": "envelopes",
+    "price": "$76.97",
+    "market_price": "$47.66"
+  },
+  {
+    "name": "paper towels",
+    "price": "$45.13",
+    "market_price": "$44.60"
+  },
+  {
+    "name": "business cards",
+    "price": "$51.14",
+    "market_price": "$6.12"
+  },
+  {
+    "name": "envelopes",
+    "price": "$19.80",
+    "market_price": "$15.35"
+  },
+  {
+    "name": "scissors",
+    "price": "$62.86",
+    "market_price": "$31.79"
+  },
+  {
+    "name": "tape",
+    "price": "$25.93",
+    "market_price": "$18.67"
+  },
+  {
+    "name": "staple remover",
+    "price": "$87.12",
+    "market_price": "$81.02"
+  },
+  {
+    "name": "staple remover",
+    "price": "$99.78",
+    "market_price": "$24.26"
+  },
+  {
+    "name": "calculator",
+    "price": "$33.72",
+    "market_price": "$99.63"
+  },
+  {
+    "name": "paper towels",
+    "price": "$67.32",
+    "market_price": "$71.69"
+  },
+  {
+    "name": "paper clips",
+    "price": "$67.99",
+    "market_price": "$79.72"
+  },
+  {
+    "name": "markers",
+    "price": "$52.10",
+    "market_price": "$92.80"
+  },
+  {
+    "name": "printer ink",
+    "price": "$67.85",
+    "market_price": "$83.97"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$10.18",
+    "market_price": "$62.70"
+  },
+  {
+    "name": "desk chair",
+    "price": "$53.58",
+    "market_price": "$20.93"
+  },
+  {
+    "name": "binder clips",
+    "price": "$14.10",
+    "market_price": "$83.59"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$98.55",
+    "market_price": "$6.50"
+  },
+  {
+    "name": "envelopes",
+    "price": "$5.81",
+    "market_price": "$19.82"
+  },
+  {
+    "name": "highlighters",
+    "price": "$85.77",
+    "market_price": "$43.97"
+  },
+  {
+    "name": "highlighters",
+    "price": "$7.35",
+    "market_price": "$72.75"
+  },
+  {
+    "name": "folders",
+    "price": "$32.81",
+    "market_price": "$12.76"
+  },
+  {
+    "name": "USB drive",
+    "price": "$84.68",
+    "market_price": "$42.99"
+  },
+  {
+    "name": "business cards",
+    "price": "$54.10",
+    "market_price": "$38.45"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$24.43",
+    "market_price": "$23.42"
+  },
+  {
+    "name": "erasers",
+    "price": "$36.35",
+    "market_price": "$81.89"
+  },
+  {
+    "name": "pens",
+    "price": "$95.52",
+    "market_price": "$82.43"
+  },
+  {
+    "name": "erasers",
+    "price": "$34.70",
+    "market_price": "$74.96"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$25.92",
+    "market_price": "$53.37"
+  },
+  {
+    "name": "calculator",
+    "price": "$25.66",
+    "market_price": "$56.80"
+  },
+  {
+    "name": "folders",
+    "price": "$94.21",
+    "market_price": "$8.16"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$45.01",
+    "market_price": "$74.84"
+  },
+  {
+    "name": "binder clips",
+    "price": "$69.10",
+    "market_price": "$45.55"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$78.07",
+    "market_price": "$67.97"
+  },
+  {
+    "name": "rulers",
+    "price": "$4.58",
+    "market_price": "$25.90"
+  },
+  {
+    "name": "writing pad",
+    "price": "$81.74",
+    "market_price": "$93.79"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$87.43",
+    "market_price": "$3.75"
+  },
+  {
+    "name": "envelopes",
+    "price": "$1.86",
+    "market_price": "$71.39"
+  },
+  {
+    "name": "erasers",
+    "price": "$26.47",
+    "market_price": "$53.54"
+  },
+  {
+    "name": "markers",
+    "price": "$77.24",
+    "market_price": "$27.78"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$99.30",
+    "market_price": "$24.74"
+  },
+  {
+    "name": "binder clips",
+    "price": "$10.84",
+    "market_price": "$98.30"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$68.45",
+    "market_price": "$71.31"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$9.30",
+    "market_price": "$67.70"
+  },
+  {
+    "name": "calculator",
+    "price": "$70.67",
+    "market_price": "$80.56"
+  },
+  {
+    "name": "stamps",
+    "price": "$84.02",
+    "market_price": "$26.64"
+  },
+  {
+    "name": "desk chair",
+    "price": "$46.20",
+    "market_price": "$21.13"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$30.57",
+    "market_price": "$23.73"
+  },
+  {
+    "name": "notebooks",
+    "price": "$68.51",
+    "market_price": "$86.19"
+  },
+  {
+    "name": "index cards",
+    "price": "$37.85",
+    "market_price": "$71.21"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$4.99",
+    "market_price": "$24.61"
+  },
+  {
+    "name": "desk chair",
+    "price": "$47.52",
+    "market_price": "$9.78"
+  },
+  {
+    "name": "notebooks",
+    "price": "$18.37",
+    "market_price": "$94.24"
+  },
+  {
+    "name": "markers",
+    "price": "$50.52",
+    "market_price": "$90.08"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$29.42",
+    "market_price": "$9.72"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$92.08",
+    "market_price": "$75.44"
+  },
+  {
+    "name": "rulers",
+    "price": "$9.95",
+    "market_price": "$6.81"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$23.08",
+    "market_price": "$48.77"
+  },
+  {
+    "name": "scissors",
+    "price": "$60.81",
+    "market_price": "$69.38"
+  },
+  {
+    "name": "envelopes",
+    "price": "$67.41",
+    "market_price": "$15.35"
+  },
+  {
+    "name": "paper towels",
+    "price": "$75.61",
+    "market_price": "$48.81"
+  },
+  {
+    "name": "pencil case",
+    "price": "$87.90",
+    "market_price": "$39.87"
+  },
+  {
+    "name": "markers",
+    "price": "$54.63",
+    "market_price": "$57.69"
+  },
+  {
+    "name": "index cards",
+    "price": "$53.44",
+    "market_price": "$21.25"
+  },
+  {
+    "name": "pencils",
+    "price": "$43.40",
+    "market_price": "$30.83"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$13.38",
+    "market_price": "$23.58"
+  },
+  {
+    "name": "binder clips",
+    "price": "$40.56",
+    "market_price": "$50.24"
+  },
+  {
+    "name": "envelopes",
+    "price": "$19.94",
+    "market_price": "$26.83"
+  },
+  {
+    "name": "highlighters",
+    "price": "$47.12",
+    "market_price": "$54.60"
+  },
+  {
+    "name": "scissors",
+    "price": "$75.74",
+    "market_price": "$21.30"
+  },
+  {
+    "name": "notebooks",
+    "price": "$94.96",
+    "market_price": "$83.01"
+  },
+  {
+    "name": "paperweight",
+    "price": "$97.45",
+    "market_price": "$17.66"
+  },
+  {
+    "name": "stapler",
+    "price": "$66.06",
+    "market_price": "$29.18"
+  },
+  {
+    "name": "sharpener",
+    "price": "$77.02",
+    "market_price": "$29.50"
+  },
+  {
+    "name": "label maker",
+    "price": "$44.50",
+    "market_price": "$58.23"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$37.50",
+    "market_price": "$53.54"
+  },
+  {
+    "name": "markers",
+    "price": "$9.33",
+    "market_price": "$49.67"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$71.07",
+    "market_price": "$88.87"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$47.67",
+    "market_price": "$9.44"
+  },
+  {
+    "name": "highlighters",
+    "price": "$48.95",
+    "market_price": "$58.29"
+  },
+  {
+    "name": "desk mat",
+    "price": "$16.10",
+    "market_price": "$49.98"
+  },
+  {
+    "name": "scissors",
+    "price": "$94.28",
+    "market_price": "$57.54"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$49.84",
+    "market_price": "$11.02"
+  },
+  {
+    "name": "scissors",
+    "price": "$69.80",
+    "market_price": "$75.91"
+  },
+  {
+    "name": "stamps",
+    "price": "$3.62",
+    "market_price": "$38.20"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$70.10",
+    "market_price": "$98.45"
+  },
+  {
+    "name": "label maker",
+    "price": "$87.11",
+    "market_price": "$63.63"
+  },
+  {
+    "name": "index cards",
+    "price": "$72.46",
+    "market_price": "$66.01"
+  },
+  {
+    "name": "label maker",
+    "price": "$70.79",
+    "market_price": "$49.99"
+  },
+  {
+    "name": "USB drive",
+    "price": "$55.52",
+    "market_price": "$63.24"
+  },
+  {
+    "name": "printer ink",
+    "price": "$42.52",
+    "market_price": "$86.91"
+  },
+  {
+    "name": "rulers",
+    "price": "$29.77",
+    "market_price": "$26.34"
+  },
+  {
+    "name": "desk mat",
+    "price": "$90.15",
+    "market_price": "$48.01"
+  },
+  {
+    "name": "tape",
+    "price": "$8.28",
+    "market_price": "$40.30"
+  },
+  {
+    "name": "pencil case",
+    "price": "$36.43",
+    "market_price": "$11.75"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$31.28",
+    "market_price": "$35.52"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$66.91",
+    "market_price": "$86.43"
+  },
+  {
+    "name": "sharpener",
+    "price": "$56.16",
+    "market_price": "$4.98"
+  },
+  {
+    "name": "label maker",
+    "price": "$27.36",
+    "market_price": "$35.27"
+  },
+  {
+    "name": "business cards",
+    "price": "$54.50",
+    "market_price": "$37.95"
+  },
+  {
+    "name": "notebooks",
+    "price": "$77.76",
+    "market_price": "$14.75"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$89.08",
+    "market_price": "$54.93"
+  },
+  {
+    "name": "erasers",
+    "price": "$99.87",
+    "market_price": "$5.85"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$57.35",
+    "market_price": "$17.04"
+  },
+  {
+    "name": "paper towels",
+    "price": "$38.05",
+    "market_price": "$48.76"
+  },
+  {
+    "name": "pencil case",
+    "price": "$99.83",
+    "market_price": "$56.01"
+  },
+  {
+    "name": "paper towels",
+    "price": "$44.50",
+    "market_price": "$24.93"
+  },
+  {
+    "name": "business cards",
+    "price": "$55.42",
+    "market_price": "$29.58"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$23.38",
+    "market_price": "$95.26"
+  },
+  {
+    "name": "USB drive",
+    "price": "$90.90",
+    "market_price": "$93.26"
+  },
+  {
+    "name": "printer ink",
+    "price": "$1.27",
+    "market_price": "$92.49"
+  },
+  {
+    "name": "pencils",
+    "price": "$83.78",
+    "market_price": "$61.17"
+  },
+  {
+    "name": "tape",
+    "price": "$38.49",
+    "market_price": "$15.87"
+  },
+  {
+    "name": "pens",
+    "price": "$19.27",
+    "market_price": "$85.69"
+  },
+  {
+    "name": "scissors",
+    "price": "$13.03",
+    "market_price": "$95.91"
+  },
+  {
+    "name": "markers",
+    "price": "$3.98",
+    "market_price": "$97.89"
+  },
+  {
+    "name": "tape",
+    "price": "$24.34",
+    "market_price": "$74.65"
+  },
+  {
+    "name": "binder clips",
+    "price": "$34.14",
+    "market_price": "$65.01"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$39.05",
+    "market_price": "$14.25"
+  },
+  {
+    "name": "hole punch",
+    "price": "$56.18",
+    "market_price": "$77.96"
+  },
+  {
+    "name": "scissors",
+    "price": "$74.95",
+    "market_price": "$51.08"
+  },
+  {
+    "name": "pens",
+    "price": "$62.47",
+    "market_price": "$84.51"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$25.86",
+    "market_price": "$5.53"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$5.20",
+    "market_price": "$56.48"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$41.16",
+    "market_price": "$71.29"
+  },
+  {
+    "name": "USB drive",
+    "price": "$82.48",
+    "market_price": "$19.90"
+  },
+  {
+    "name": "erasers",
+    "price": "$94.80",
+    "market_price": "$85.15"
+  },
+  {
+    "name": "push pins",
+    "price": "$95.49",
+    "market_price": "$39.75"
+  },
+  {
+    "name": "writing pad",
+    "price": "$59.77",
+    "market_price": "$40.32"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$96.68",
+    "market_price": "$90.56"
+  },
+  {
+    "name": "calculator",
+    "price": "$95.63",
+    "market_price": "$41.72"
+  },
+  {
+    "name": "paper clips",
+    "price": "$99.28",
+    "market_price": "$43.48"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$77.67",
+    "market_price": "$20.98"
+  },
+  {
+    "name": "markers",
+    "price": "$49.52",
+    "market_price": "$29.63"
+  },
+  {
+    "name": "calculator",
+    "price": "$83.32",
+    "market_price": "$4.81"
+  },
+  {
+    "name": "staple remover",
+    "price": "$7.80",
+    "market_price": "$65.61"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$41.07",
+    "market_price": "$33.36"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$80.25",
+    "market_price": "$98.27"
+  },
+  {
+    "name": "stamps",
+    "price": "$54.40",
+    "market_price": "$11.06"
+  },
+  {
+    "name": "stamps",
+    "price": "$85.38",
+    "market_price": "$83.14"
+  },
+  {
+    "name": "rulers",
+    "price": "$34.86",
+    "market_price": "$91.82"
+  },
+  {
+    "name": "staple remover",
+    "price": "$97.66",
+    "market_price": "$26.69"
+  },
+  {
+    "name": "pens",
+    "price": "$2.29",
+    "market_price": "$36.07"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$97.01",
+    "market_price": "$66.19"
+  },
+  {
+    "name": "writing pad",
+    "price": "$21.00",
+    "market_price": "$36.69"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$41.22",
+    "market_price": "$86.96"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$16.06",
+    "market_price": "$18.14"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$9.62",
+    "market_price": "$75.24"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$8.03",
+    "market_price": "$8.37"
+  },
+  {
+    "name": "highlighters",
+    "price": "$27.36",
+    "market_price": "$13.33"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$88.25",
+    "market_price": "$34.42"
+  },
+  {
+    "name": "folders",
+    "price": "$32.29",
+    "market_price": "$49.42"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$92.62",
+    "market_price": "$61.17"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$24.04",
+    "market_price": "$34.55"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$19.69",
+    "market_price": "$53.71"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$19.24",
+    "market_price": "$89.92"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$86.89",
+    "market_price": "$95.27"
+  },
+  {
+    "name": "label maker",
+    "price": "$34.09",
+    "market_price": "$77.20"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$56.14",
+    "market_price": "$6.95"
+  },
+  {
+    "name": "paper towels",
+    "price": "$99.22",
+    "market_price": "$98.56"
+  },
+  {
+    "name": "label maker",
+    "price": "$71.31",
+    "market_price": "$17.95"
+  },
+  {
+    "name": "pencil case",
+    "price": "$44.71",
+    "market_price": "$88.57"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$5.74",
+    "market_price": "$5.52"
+  },
+  {
+    "name": "envelopes",
+    "price": "$36.33",
+    "market_price": "$87.48"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$59.23",
+    "market_price": "$6.17"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$10.08",
+    "market_price": "$76.04"
+  },
+  {
+    "name": "writing pad",
+    "price": "$10.78",
+    "market_price": "$87.18"
+  },
+  {
+    "name": "paperweight",
+    "price": "$94.08",
+    "market_price": "$71.31"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$57.02",
+    "market_price": "$14.24"
+  },
+  {
+    "name": "hole punch",
+    "price": "$35.70",
+    "market_price": "$64.86"
+  },
+  {
+    "name": "scissors",
+    "price": "$24.34",
+    "market_price": "$34.63"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$23.03",
+    "market_price": "$74.51"
+  },
+  {
+    "name": "hole punch",
+    "price": "$19.76",
+    "market_price": "$79.66"
+  },
+  {
+    "name": "notebooks",
+    "price": "$5.20",
+    "market_price": "$73.80"
+  },
+  {
+    "name": "calculator",
+    "price": "$64.65",
+    "market_price": "$44.56"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$54.84",
+    "market_price": "$94.24"
+  },
+  {
+    "name": "binder clips",
+    "price": "$75.13",
+    "market_price": "$80.02"
+  },
+  {
+    "name": "pencils",
+    "price": "$92.41",
+    "market_price": "$44.92"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$59.09",
+    "market_price": "$44.95"
+  },
+  {
+    "name": "label maker",
+    "price": "$34.20",
+    "market_price": "$23.96"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$74.61",
+    "market_price": "$13.79"
+  },
+  {
+    "name": "pencil case",
+    "price": "$75.23",
+    "market_price": "$13.93"
+  },
+  {
+    "name": "binder clips",
+    "price": "$49.47",
+    "market_price": "$51.89"
+  },
+  {
+    "name": "business cards",
+    "price": "$96.61",
+    "market_price": "$40.87"
+  },
+  {
+    "name": "notebooks",
+    "price": "$64.71",
+    "market_price": "$1.05"
+  },
+  {
+    "name": "paper clips",
+    "price": "$81.41",
+    "market_price": "$71.59"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$46.38",
+    "market_price": "$79.73"
+  },
+  {
+    "name": "hole punch",
+    "price": "$53.11",
+    "market_price": "$54.86"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$10.64",
+    "market_price": "$99.48"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$90.20",
+    "market_price": "$34.22"
+  },
+  {
+    "name": "push pins",
+    "price": "$18.09",
+    "market_price": "$50.34"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$71.22",
+    "market_price": "$68.63"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$75.16",
+    "market_price": "$48.10"
+  },
+  {
+    "name": "desk chair",
+    "price": "$83.15",
+    "market_price": "$97.06"
+  },
+  {
+    "name": "erasers",
+    "price": "$94.29",
+    "market_price": "$60.01"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$45.92",
+    "market_price": "$39.86"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$52.39",
+    "market_price": "$93.31"
+  },
+  {
+    "name": "highlighters",
+    "price": "$4.41",
+    "market_price": "$1.39"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$13.00",
+    "market_price": "$35.14"
+  },
+  {
+    "name": "printer ink",
+    "price": "$13.99",
+    "market_price": "$11.58"
+  },
+  {
+    "name": "markers",
+    "price": "$62.83",
+    "market_price": "$72.13"
+  },
+  {
+    "name": "stapler",
+    "price": "$65.48",
+    "market_price": "$49.56"
+  },
+  {
+    "name": "folders",
+    "price": "$12.28",
+    "market_price": "$82.39"
+  },
+  {
+    "name": "envelopes",
+    "price": "$15.99",
+    "market_price": "$65.11"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$22.71",
+    "market_price": "$94.59"
+  },
+  {
+    "name": "folders",
+    "price": "$28.38",
+    "market_price": "$96.39"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$13.03",
+    "market_price": "$39.35"
+  },
+  {
+    "name": "stamps",
+    "price": "$42.18",
+    "market_price": "$49.64"
+  },
+  {
+    "name": "writing pad",
+    "price": "$56.43",
+    "market_price": "$97.02"
+  },
+  {
+    "name": "pens",
+    "price": "$40.73",
+    "market_price": "$97.23"
+  },
+  {
+    "name": "paper clips",
+    "price": "$89.02",
+    "market_price": "$63.74"
+  },
+  {
+    "name": "push pins",
+    "price": "$90.41",
+    "market_price": "$72.28"
+  },
+  {
+    "name": "label maker",
+    "price": "$66.83",
+    "market_price": "$94.88"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$83.73",
+    "market_price": "$24.47"
+  },
+  {
+    "name": "desk chair",
+    "price": "$71.94",
+    "market_price": "$88.47"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$27.21",
+    "market_price": "$88.86"
+  },
+  {
+    "name": "hole punch",
+    "price": "$50.14",
+    "market_price": "$16.10"
+  },
+  {
+    "name": "notebooks",
+    "price": "$67.19",
+    "market_price": "$78.82"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$76.29",
+    "market_price": "$50.97"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$4.52",
+    "market_price": "$31.09"
+  },
+  {
+    "name": "paper towels",
+    "price": "$10.34",
+    "market_price": "$18.55"
+  },
+  {
+    "name": "calculator",
+    "price": "$58.63",
+    "market_price": "$5.66"
+  },
+  {
+    "name": "printer ink",
+    "price": "$91.16",
+    "market_price": "$35.19"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$41.27",
+    "market_price": "$87.68"
+  },
+  {
+    "name": "calculator",
+    "price": "$44.48",
+    "market_price": "$69.55"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$45.25",
+    "market_price": "$79.18"
+  },
+  {
+    "name": "markers",
+    "price": "$92.07",
+    "market_price": "$82.16"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$72.81",
+    "market_price": "$94.56"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$69.32",
+    "market_price": "$85.97"
+  },
+  {
+    "name": "paper clips",
+    "price": "$68.77",
+    "market_price": "$22.48"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$13.17",
+    "market_price": "$31.42"
+  },
+  {
+    "name": "stapler",
+    "price": "$30.91",
+    "market_price": "$38.77"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$62.41",
+    "market_price": "$32.81"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$59.48",
+    "market_price": "$47.89"
+  },
+  {
+    "name": "business cards",
+    "price": "$69.44",
+    "market_price": "$23.50"
+  },
+  {
+    "name": "desk chair",
+    "price": "$11.16",
+    "market_price": "$7.00"
+  },
+  {
+    "name": "hole punch",
+    "price": "$63.85",
+    "market_price": "$25.32"
+  },
+  {
+    "name": "pencil case",
+    "price": "$66.40",
+    "market_price": "$84.87"
+  },
+  {
+    "name": "highlighters",
+    "price": "$22.08",
+    "market_price": "$69.52"
+  },
+  {
+    "name": "hole punch",
+    "price": "$14.51",
+    "market_price": "$47.11"
+  },
+  {
+    "name": "highlighters",
+    "price": "$76.05",
+    "market_price": "$84.56"
+  },
+  {
+    "name": "stapler",
+    "price": "$82.60",
+    "market_price": "$36.29"
+  },
+  {
+    "name": "staple remover",
+    "price": "$15.70",
+    "market_price": "$75.65"
+  },
+  {
+    "name": "sharpener",
+    "price": "$39.57",
+    "market_price": "$5.23"
+  },
+  {
+    "name": "paper clips",
+    "price": "$46.35",
+    "market_price": "$90.40"
+  },
+  {
+    "name": "paper clips",
+    "price": "$70.10",
+    "market_price": "$9.40"
+  },
+  {
+    "name": "erasers",
+    "price": "$13.09",
+    "market_price": "$27.21"
+  },
+  {
+    "name": "hole punch",
+    "price": "$94.61",
+    "market_price": "$87.00"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$7.66",
+    "market_price": "$96.66"
+  },
+  {
+    "name": "markers",
+    "price": "$63.83",
+    "market_price": "$4.28"
+  },
+  {
+    "name": "paperweight",
+    "price": "$8.77",
+    "market_price": "$18.94"
+  },
+  {
+    "name": "desk mat",
+    "price": "$78.61",
+    "market_price": "$41.01"
+  },
+  {
+    "name": "business cards",
+    "price": "$66.73",
+    "market_price": "$63.16"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$32.66",
+    "market_price": "$97.66"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$7.81",
+    "market_price": "$83.43"
+  },
+  {
+    "name": "pencil case",
+    "price": "$20.91",
+    "market_price": "$82.63"
+  },
+  {
+    "name": "pens",
+    "price": "$85.84",
+    "market_price": "$77.91"
+  },
+  {
+    "name": "business cards",
+    "price": "$94.97",
+    "market_price": "$1.01"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$67.69",
+    "market_price": "$21.92"
+  },
+  {
+    "name": "writing pad",
+    "price": "$20.33",
+    "market_price": "$89.09"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$96.23",
+    "market_price": "$98.06"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$22.68",
+    "market_price": "$18.16"
+  },
+  {
+    "name": "stapler",
+    "price": "$60.05",
+    "market_price": "$3.51"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$18.81",
+    "market_price": "$72.30"
+  },
+  {
+    "name": "paperweight",
+    "price": "$33.36",
+    "market_price": "$82.90"
+  },
+  {
+    "name": "sharpener",
+    "price": "$19.83",
+    "market_price": "$32.39"
+  },
+  {
+    "name": "calculator",
+    "price": "$33.43",
+    "market_price": "$91.02"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$63.96",
+    "market_price": "$96.79"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$43.23",
+    "market_price": "$63.24"
+  },
+  {
+    "name": "scissors",
+    "price": "$22.33",
+    "market_price": "$75.10"
+  },
+  {
+    "name": "markers",
+    "price": "$90.52",
+    "market_price": "$5.98"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$21.06",
+    "market_price": "$57.72"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$97.62",
+    "market_price": "$84.39"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$79.77",
+    "market_price": "$90.96"
+  },
+  {
+    "name": "notebooks",
+    "price": "$79.46",
+    "market_price": "$49.89"
+  },
+  {
+    "name": "highlighters",
+    "price": "$98.48",
+    "market_price": "$98.47"
+  },
+  {
+    "name": "notebooks",
+    "price": "$4.73",
+    "market_price": "$69.98"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$60.09",
+    "market_price": "$32.70"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$29.43",
+    "market_price": "$75.30"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$34.61",
+    "market_price": "$3.36"
+  },
+  {
+    "name": "highlighters",
+    "price": "$80.84",
+    "market_price": "$18.13"
+  },
+  {
+    "name": "rulers",
+    "price": "$72.67",
+    "market_price": "$41.11"
+  },
+  {
+    "name": "sharpener",
+    "price": "$51.60",
+    "market_price": "$10.26"
+  },
+  {
+    "name": "printer ink",
+    "price": "$91.47",
+    "market_price": "$16.37"
+  },
+  {
+    "name": "paperweight",
+    "price": "$58.39",
+    "market_price": "$89.96"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$71.03",
+    "market_price": "$9.14"
+  },
+  {
+    "name": "desk chair",
+    "price": "$44.77",
+    "market_price": "$60.65"
+  },
+  {
+    "name": "label maker",
+    "price": "$72.31",
+    "market_price": "$54.89"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$78.07",
+    "market_price": "$45.54"
+  },
+  {
+    "name": "highlighters",
+    "price": "$94.74",
+    "market_price": "$59.90"
+  },
+  {
+    "name": "pencils",
+    "price": "$19.47",
+    "market_price": "$94.22"
+  },
+  {
+    "name": "folders",
+    "price": "$15.54",
+    "market_price": "$47.45"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$28.43",
+    "market_price": "$36.17"
+  },
+  {
+    "name": "pencils",
+    "price": "$53.09",
+    "market_price": "$48.03"
+  },
+  {
+    "name": "printer ink",
+    "price": "$44.66",
+    "market_price": "$4.49"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$66.80",
+    "market_price": "$9.49"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$78.44",
+    "market_price": "$43.16"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$25.47",
+    "market_price": "$1.62"
+  },
+  {
+    "name": "folders",
+    "price": "$46.04",
+    "market_price": "$5.11"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$40.22",
+    "market_price": "$54.82"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$39.24",
+    "market_price": "$94.44"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$2.02",
+    "market_price": "$73.01"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$63.48",
+    "market_price": "$10.16"
+  },
+  {
+    "name": "pens",
+    "price": "$27.02",
+    "market_price": "$57.74"
+  },
+  {
+    "name": "pencils",
+    "price": "$25.69",
+    "market_price": "$3.33"
+  },
+  {
+    "name": "pencil case",
+    "price": "$31.14",
+    "market_price": "$13.09"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$47.08",
+    "market_price": "$84.20"
+  },
+  {
+    "name": "hole punch",
+    "price": "$10.92",
+    "market_price": "$45.59"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$39.77",
+    "market_price": "$78.58"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$43.25",
+    "market_price": "$70.66"
+  },
+  {
+    "name": "writing pad",
+    "price": "$30.69",
+    "market_price": "$61.34"
+  },
+  {
+    "name": "erasers",
+    "price": "$79.39",
+    "market_price": "$98.26"
+  },
+  {
+    "name": "index cards",
+    "price": "$83.27",
+    "market_price": "$17.47"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$47.70",
+    "market_price": "$21.15"
+  },
+  {
+    "name": "markers",
+    "price": "$91.22",
+    "market_price": "$86.39"
+  },
+  {
+    "name": "scissors",
+    "price": "$63.98",
+    "market_price": "$20.98"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$55.68",
+    "market_price": "$33.60"
+  },
+  {
+    "name": "sharpener",
+    "price": "$37.66",
+    "market_price": "$19.63"
+  },
+  {
+    "name": "markers",
+    "price": "$30.50",
+    "market_price": "$59.06"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$25.87",
+    "market_price": "$24.46"
+  },
+  {
+    "name": "pencil case",
+    "price": "$57.23",
+    "market_price": "$21.63"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$49.15",
+    "market_price": "$27.79"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$18.13",
+    "market_price": "$31.96"
+  },
+  {
+    "name": "notebooks",
+    "price": "$12.34",
+    "market_price": "$69.79"
+  },
+  {
+    "name": "desk mat",
+    "price": "$32.93",
+    "market_price": "$80.17"
+  },
+  {
+    "name": "push pins",
+    "price": "$72.09",
+    "market_price": "$11.57"
+  },
+  {
+    "name": "desk mat",
+    "price": "$81.24",
+    "market_price": "$41.14"
+  },
+  {
+    "name": "stamps",
+    "price": "$93.87",
+    "market_price": "$5.41"
+  },
+  {
+    "name": "highlighters",
+    "price": "$37.00",
+    "market_price": "$25.07"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$83.25",
+    "market_price": "$97.27"
+  },
+  {
+    "name": "desk mat",
+    "price": "$24.53",
+    "market_price": "$75.88"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$36.67",
+    "market_price": "$68.69"
+  },
+  {
+    "name": "paper clips",
+    "price": "$13.09",
+    "market_price": "$86.17"
+  },
+  {
+    "name": "paper clips",
+    "price": "$30.42",
+    "market_price": "$98.62"
+  },
+  {
+    "name": "printer ink",
+    "price": "$13.39",
+    "market_price": "$94.03"
+  },
+  {
+    "name": "desk chair",
+    "price": "$78.86",
+    "market_price": "$79.13"
+  },
+  {
+    "name": "erasers",
+    "price": "$93.35",
+    "market_price": "$3.16"
+  },
+  {
+    "name": "pens",
+    "price": "$45.90",
+    "market_price": "$19.30"
+  },
+  {
+    "name": "pencils",
+    "price": "$29.57",
+    "market_price": "$19.97"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$90.49",
+    "market_price": "$6.62"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$90.80",
+    "market_price": "$95.87"
+  },
+  {
+    "name": "folders",
+    "price": "$5.56",
+    "market_price": "$66.73"
+  },
+  {
+    "name": "staple remover",
+    "price": "$57.14",
+    "market_price": "$83.61"
+  },
+  {
+    "name": "push pins",
+    "price": "$62.21",
+    "market_price": "$40.32"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$68.40",
+    "market_price": "$85.31"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$23.24",
+    "market_price": "$40.03"
+  },
+  {
+    "name": "desk mat",
+    "price": "$91.68",
+    "market_price": "$63.61"
+  },
+  {
+    "name": "label maker",
+    "price": "$48.53",
+    "market_price": "$87.81"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$31.17",
+    "market_price": "$20.73"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$37.22",
+    "market_price": "$33.41"
+  },
+  {
+    "name": "staple remover",
+    "price": "$96.56",
+    "market_price": "$98.81"
+  },
+  {
+    "name": "binder clips",
+    "price": "$34.75",
+    "market_price": "$5.83"
+  },
+  {
+    "name": "paper towels",
+    "price": "$36.09",
+    "market_price": "$73.03"
+  },
+  {
+    "name": "binder clips",
+    "price": "$38.19",
+    "market_price": "$51.74"
+  },
+  {
+    "name": "desk chair",
+    "price": "$78.98",
+    "market_price": "$35.65"
+  },
+  {
+    "name": "paper towels",
+    "price": "$16.19",
+    "market_price": "$88.65"
+  },
+  {
+    "name": "printer ink",
+    "price": "$81.33",
+    "market_price": "$88.72"
+  },
+  {
+    "name": "pens",
+    "price": "$86.34",
+    "market_price": "$82.63"
+  },
+  {
+    "name": "hole punch",
+    "price": "$79.40",
+    "market_price": "$32.53"
+  },
+  {
+    "name": "highlighters",
+    "price": "$67.90",
+    "market_price": "$24.49"
+  },
+  {
+    "name": "binder clips",
+    "price": "$75.90",
+    "market_price": "$63.56"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$87.23",
+    "market_price": "$27.85"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$79.60",
+    "market_price": "$74.72"
+  },
+  {
+    "name": "scissors",
+    "price": "$20.46",
+    "market_price": "$4.51"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$96.44",
+    "market_price": "$55.98"
+  },
+  {
+    "name": "hole punch",
+    "price": "$45.86",
+    "market_price": "$23.51"
+  },
+  {
+    "name": "rulers",
+    "price": "$10.37",
+    "market_price": "$29.99"
+  },
+  {
+    "name": "desk chair",
+    "price": "$56.29",
+    "market_price": "$71.80"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$15.45",
+    "market_price": "$65.83"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$23.05",
+    "market_price": "$17.54"
+  },
+  {
+    "name": "envelopes",
+    "price": "$50.05",
+    "market_price": "$96.49"
+  },
+  {
+    "name": "binder clips",
+    "price": "$41.90",
+    "market_price": "$38.38"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$24.67",
+    "market_price": "$33.43"
+  },
+  {
+    "name": "pencils",
+    "price": "$57.74",
+    "market_price": "$27.74"
+  },
+  {
+    "name": "USB drive",
+    "price": "$22.69",
+    "market_price": "$99.16"
+  },
+  {
+    "name": "pencils",
+    "price": "$51.90",
+    "market_price": "$40.53"
+  },
+  {
+    "name": "stamps",
+    "price": "$73.32",
+    "market_price": "$2.91"
+  },
+  {
+    "name": "binder clips",
+    "price": "$66.31",
+    "market_price": "$56.45"
+  },
+  {
+    "name": "erasers",
+    "price": "$30.44",
+    "market_price": "$35.75"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$83.27",
+    "market_price": "$12.58"
+  },
+  {
+    "name": "rulers",
+    "price": "$32.83",
+    "market_price": "$78.52"
+  },
+  {
+    "name": "tape",
+    "price": "$36.99",
+    "market_price": "$81.51"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$9.67",
+    "market_price": "$26.19"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$60.04",
+    "market_price": "$29.42"
+  },
+  {
+    "name": "pens",
+    "price": "$11.77",
+    "market_price": "$86.44"
+  },
+  {
+    "name": "USB drive",
+    "price": "$96.83",
+    "market_price": "$51.18"
+  },
+  {
+    "name": "stapler",
+    "price": "$10.37",
+    "market_price": "$1.17"
+  },
+  {
+    "name": "erasers",
+    "price": "$7.88",
+    "market_price": "$66.53"
+  },
+  {
+    "name": "rulers",
+    "price": "$14.92",
+    "market_price": "$23.73"
+  },
+  {
+    "name": "paperweight",
+    "price": "$96.69",
+    "market_price": "$14.38"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$17.24",
+    "market_price": "$83.32"
+  },
+  {
+    "name": "envelopes",
+    "price": "$20.43",
+    "market_price": "$23.35"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$81.62",
+    "market_price": "$42.00"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$8.36",
+    "market_price": "$25.29"
+  },
+  {
+    "name": "folders",
+    "price": "$20.66",
+    "market_price": "$71.16"
+  },
+  {
+    "name": "USB drive",
+    "price": "$62.29",
+    "market_price": "$1.79"
+  },
+  {
+    "name": "desk chair",
+    "price": "$23.54",
+    "market_price": "$87.05"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$19.36",
+    "market_price": "$25.33"
+  },
+  {
+    "name": "paper towels",
+    "price": "$39.29",
+    "market_price": "$82.37"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$14.95",
+    "market_price": "$64.01"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$62.27",
+    "market_price": "$60.03"
+  },
+  {
+    "name": "pencil case",
+    "price": "$35.10",
+    "market_price": "$95.94"
+  },
+  {
+    "name": "erasers",
+    "price": "$86.25",
+    "market_price": "$26.36"
+  },
+  {
+    "name": "pencil case",
+    "price": "$71.75",
+    "market_price": "$93.39"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$8.58",
+    "market_price": "$20.03"
+  },
+  {
+    "name": "hole punch",
+    "price": "$93.66",
+    "market_price": "$37.81"
+  },
+  {
+    "name": "pens",
+    "price": "$6.73",
+    "market_price": "$97.73"
+  },
+  {
+    "name": "USB drive",
+    "price": "$77.13",
+    "market_price": "$97.67"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$56.09",
+    "market_price": "$82.77"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$4.09",
+    "market_price": "$42.05"
+  },
+  {
+    "name": "paper towels",
+    "price": "$61.77",
+    "market_price": "$45.36"
+  },
+  {
+    "name": "pencils",
+    "price": "$18.32",
+    "market_price": "$36.81"
+  },
+  {
+    "name": "pens",
+    "price": "$31.93",
+    "market_price": "$23.82"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$59.94",
+    "market_price": "$28.32"
+  },
+  {
+    "name": "hole punch",
+    "price": "$86.13",
+    "market_price": "$18.32"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$17.49",
+    "market_price": "$14.04"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$50.07",
+    "market_price": "$40.96"
+  },
+  {
+    "name": "label maker",
+    "price": "$73.04",
+    "market_price": "$96.03"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$49.54",
+    "market_price": "$1.38"
+  },
+  {
+    "name": "label maker",
+    "price": "$10.65",
+    "market_price": "$48.01"
+  },
+  {
+    "name": "printer ink",
+    "price": "$43.42",
+    "market_price": "$66.67"
+  },
+  {
+    "name": "pencil case",
+    "price": "$12.69",
+    "market_price": "$88.31"
+  },
+  {
+    "name": "label maker",
+    "price": "$99.41",
+    "market_price": "$43.36"
+  },
+  {
+    "name": "label maker",
+    "price": "$13.13",
+    "market_price": "$67.30"
+  },
+  {
+    "name": "stamps",
+    "price": "$26.83",
+    "market_price": "$95.80"
+  },
+  {
+    "name": "staple remover",
+    "price": "$96.62",
+    "market_price": "$95.42"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$8.39",
+    "market_price": "$87.88"
+  },
+  {
+    "name": "highlighters",
+    "price": "$21.19",
+    "market_price": "$56.75"
+  },
+  {
+    "name": "label maker",
+    "price": "$38.29",
+    "market_price": "$64.29"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$60.79",
+    "market_price": "$41.05"
+  },
+  {
+    "name": "binder clips",
+    "price": "$23.62",
+    "market_price": "$43.66"
+  },
+  {
+    "name": "binder clips",
+    "price": "$20.38",
+    "market_price": "$8.10"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$58.63",
+    "market_price": "$63.96"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$13.40",
+    "market_price": "$34.95"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$5.12",
+    "market_price": "$21.79"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$57.02",
+    "market_price": "$85.76"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$46.42",
+    "market_price": "$40.18"
+  },
+  {
+    "name": "push pins",
+    "price": "$14.37",
+    "market_price": "$72.74"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$35.42",
+    "market_price": "$90.01"
+  },
+  {
+    "name": "calculator",
+    "price": "$10.17",
+    "market_price": "$66.89"
+  },
+  {
+    "name": "envelopes",
+    "price": "$70.82",
+    "market_price": "$69.15"
+  },
+  {
+    "name": "folders",
+    "price": "$69.54",
+    "market_price": "$76.91"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$13.69",
+    "market_price": "$97.57"
+  },
+  {
+    "name": "sharpener",
+    "price": "$26.74",
+    "market_price": "$74.92"
+  },
+  {
+    "name": "writing pad",
+    "price": "$19.34",
+    "market_price": "$1.20"
+  },
+  {
+    "name": "highlighters",
+    "price": "$61.01",
+    "market_price": "$93.89"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$85.92",
+    "market_price": "$30.01"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$64.67",
+    "market_price": "$16.77"
+  },
+  {
+    "name": "push pins",
+    "price": "$65.72",
+    "market_price": "$98.58"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$90.21",
+    "market_price": "$77.96"
+  },
+  {
+    "name": "stamps",
+    "price": "$94.31",
+    "market_price": "$7.26"
+  },
+  {
+    "name": "desk mat",
+    "price": "$99.10",
+    "market_price": "$86.10"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$47.15",
+    "market_price": "$79.32"
+  },
+  {
+    "name": "paper clips",
+    "price": "$61.52",
+    "market_price": "$57.52"
+  },
+  {
+    "name": "desk chair",
+    "price": "$61.70",
+    "market_price": "$71.50"
+  },
+  {
+    "name": "folders",
+    "price": "$78.34",
+    "market_price": "$34.60"
+  },
+  {
+    "name": "rubber bands",
+    "price": "$83.64",
+    "market_price": "$47.10"
+  },
+  {
+    "name": "paper towels",
+    "price": "$83.05",
+    "market_price": "$34.81"
+  },
+  {
+    "name": "hole punch",
+    "price": "$90.55",
+    "market_price": "$69.11"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$49.32",
+    "market_price": "$82.80"
+  },
+  {
+    "name": "pens",
+    "price": "$78.93",
+    "market_price": "$19.01"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$65.14",
+    "market_price": "$76.77"
+  },
+  {
+    "name": "staple remover",
+    "price": "$4.30",
+    "market_price": "$29.66"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$72.17",
+    "market_price": "$52.88"
+  },
+  {
+    "name": "push pins",
+    "price": "$17.38",
+    "market_price": "$10.28"
+  },
+  {
+    "name": "envelopes",
+    "price": "$32.79",
+    "market_price": "$82.16"
+  },
+  {
+    "name": "notebooks",
+    "price": "$37.95",
+    "market_price": "$47.65"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$63.07",
+    "market_price": "$39.24"
+  },
+  {
+    "name": "stapler",
+    "price": "$70.37",
+    "market_price": "$73.10"
+  },
+  {
+    "name": "notebooks",
+    "price": "$15.23",
+    "market_price": "$5.92"
+  },
+  {
+    "name": "rulers",
+    "price": "$85.37",
+    "market_price": "$25.44"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$77.92",
+    "market_price": "$86.68"
+  },
+  {
+    "name": "paper clips",
+    "price": "$50.73",
+    "market_price": "$21.33"
+  },
+  {
+    "name": "tape",
+    "price": "$49.70",
+    "market_price": "$16.54"
+  },
+  {
+    "name": "folders",
+    "price": "$10.82",
+    "market_price": "$18.02"
+  },
+  {
+    "name": "folders",
+    "price": "$75.30",
+    "market_price": "$40.75"
+  },
+  {
+    "name": "glue sticks",
+    "price": "$44.77",
+    "market_price": "$57.69"
+  },
+  {
+    "name": "pens",
+    "price": "$52.50",
+    "market_price": "$85.66"
+  },
+  {
+    "name": "USB drive",
+    "price": "$70.26",
+    "market_price": "$8.84"
+  },
+  {
+    "name": "tape",
+    "price": "$4.20",
+    "market_price": "$97.63"
+  },
+  {
+    "name": "tape",
+    "price": "$5.20",
+    "market_price": "$88.09"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$75.80",
+    "market_price": "$2.13"
+  },
+  {
+    "name": "writing pad",
+    "price": "$62.24",
+    "market_price": "$78.72"
+  },
+  {
+    "name": "file folders",
+    "price": "$44.44",
+    "market_price": "$15.74"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$5.25",
+    "market_price": "$57.00"
+  },
+  {
+    "name": "binder clips",
+    "price": "$13.78",
+    "market_price": "$41.95"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$44.05",
+    "market_price": "$52.45"
+  },
+  {
+    "name": "pencils",
+    "price": "$63.87",
+    "market_price": "$72.83"
+  },
+  {
+    "name": "markers",
+    "price": "$24.80",
+    "market_price": "$60.81"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$64.17",
+    "market_price": "$45.84"
+  },
+  {
+    "name": "stamps",
+    "price": "$52.47",
+    "market_price": "$9.20"
+  },
+  {
+    "name": "rulers",
+    "price": "$99.36",
+    "market_price": "$36.01"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$80.28",
+    "market_price": "$66.97"
+  },
+  {
+    "name": "label maker",
+    "price": "$78.04",
+    "market_price": "$53.60"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$25.46",
+    "market_price": "$32.12"
+  },
+  {
+    "name": "erasers",
+    "price": "$52.60",
+    "market_price": "$65.32"
+  },
+  {
+    "name": "erasers",
+    "price": "$70.71",
+    "market_price": "$67.09"
+  },
+  {
+    "name": "pencil case",
+    "price": "$89.14",
+    "market_price": "$94.15"
+  },
+  {
+    "name": "paper clips",
+    "price": "$22.55",
+    "market_price": "$22.76"
+  },
+  {
+    "name": "scissors",
+    "price": "$20.42",
+    "market_price": "$29.15"
+  },
+  {
+    "name": "pencils",
+    "price": "$2.47",
+    "market_price": "$82.79"
+  },
+  {
+    "name": "desk chair",
+    "price": "$70.88",
+    "market_price": "$98.00"
+  },
+  {
+    "name": "desk calendar",
+    "price": "$14.44",
+    "market_price": "$73.06"
+  },
+  {
+    "name": "sharpener",
+    "price": "$95.13",
+    "market_price": "$93.78"
+  },
+  {
+    "name": "notebooks",
+    "price": "$16.54",
+    "market_price": "$27.12"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$90.08",
+    "market_price": "$30.71"
+  },
+  {
+    "name": "erasers",
+    "price": "$28.37",
+    "market_price": "$51.01"
+  },
+  {
+    "name": "hole punch",
+    "price": "$78.85",
+    "market_price": "$21.24"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$15.17",
+    "market_price": "$10.55"
+  },
+  {
+    "name": "desk mat",
+    "price": "$38.70",
+    "market_price": "$27.51"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$50.61",
+    "market_price": "$91.56"
+  },
+  {
+    "name": "notebooks",
+    "price": "$33.05",
+    "market_price": "$92.17"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$52.60",
+    "market_price": "$15.22"
+  },
+  {
+    "name": "erasers",
+    "price": "$20.52",
+    "market_price": "$30.41"
+  },
+  {
+    "name": "scissors",
+    "price": "$32.02",
+    "market_price": "$66.25"
+  },
+  {
+    "name": "sharpener",
+    "price": "$99.86",
+    "market_price": "$71.49"
+  },
+  {
+    "name": "printer ink",
+    "price": "$25.70",
+    "market_price": "$30.30"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$74.33",
+    "market_price": "$4.65"
+  },
+  {
+    "name": "desk mat",
+    "price": "$74.27",
+    "market_price": "$76.07"
+  },
+  {
+    "name": "rulers",
+    "price": "$17.78",
+    "market_price": "$12.44"
+  },
+  {
+    "name": "markers",
+    "price": "$38.91",
+    "market_price": "$32.39"
+  },
+  {
+    "name": "whiteboard markers",
+    "price": "$93.37",
+    "market_price": "$88.11"
+  },
+  {
+    "name": "tape",
+    "price": "$92.48",
+    "market_price": "$24.55"
+  },
+  {
+    "name": "paper clips",
+    "price": "$39.61",
+    "market_price": "$50.31"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$66.74",
+    "market_price": "$33.72"
+  },
+  {
+    "name": "paper cutter",
+    "price": "$56.53",
+    "market_price": "$30.74"
+  },
+  {
+    "name": "scissors",
+    "price": "$1.91",
+    "market_price": "$70.58"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$29.24",
+    "market_price": "$22.59"
+  },
+  {
+    "name": "paper shredder",
+    "price": "$32.44",
+    "market_price": "$7.76"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$74.45",
+    "market_price": "$63.50"
+  },
+  {
+    "name": "markers",
+    "price": "$20.40",
+    "market_price": "$22.49"
+  },
+  {
+    "name": "business cards",
+    "price": "$81.35",
+    "market_price": "$69.73"
+  },
+  {
+    "name": "paper clips",
+    "price": "$70.80",
+    "market_price": "$70.97"
+  },
+  {
+    "name": "writing pad",
+    "price": "$58.96",
+    "market_price": "$68.01"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$99.74",
+    "market_price": "$58.25"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$39.96",
+    "market_price": "$62.27"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$29.83",
+    "market_price": "$95.49"
+  },
+  {
+    "name": "label maker",
+    "price": "$93.93",
+    "market_price": "$42.19"
+  },
+  {
+    "name": "sharpener",
+    "price": "$98.43",
+    "market_price": "$80.45"
+  },
+  {
+    "name": "binder dividers",
+    "price": "$51.95",
+    "market_price": "$59.67"
+  },
+  {
+    "name": "pencils",
+    "price": "$98.28",
+    "market_price": "$94.81"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$72.01",
+    "market_price": "$27.44"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$10.05",
+    "market_price": "$17.14"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$50.70",
+    "market_price": "$40.86"
+  },
+  {
+    "name": "label maker",
+    "price": "$87.61",
+    "market_price": "$83.94"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$26.51",
+    "market_price": "$26.53"
+  },
+  {
+    "name": "staple remover",
+    "price": "$32.37",
+    "market_price": "$59.54"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$38.09",
+    "market_price": "$93.60"
+  },
+  {
+    "name": "erasers",
+    "price": "$42.39",
+    "market_price": "$13.83"
+  },
+  {
+    "name": "binder clips",
+    "price": "$69.23",
+    "market_price": "$68.77"
+  },
+  {
+    "name": "hole punch",
+    "price": "$35.60",
+    "market_price": "$3.86"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$38.36",
+    "market_price": "$18.17"
+  },
+  {
+    "name": "staple remover",
+    "price": "$65.42",
+    "market_price": "$67.32"
+  },
+  {
+    "name": "folders",
+    "price": "$64.68",
+    "market_price": "$66.47"
+  },
+  {
+    "name": "rulers",
+    "price": "$43.87",
+    "market_price": "$17.41"
+  },
+  {
+    "name": "business cards",
+    "price": "$67.43",
+    "market_price": "$74.59"
+  },
+  {
+    "name": "pencil sharpener",
+    "price": "$7.55",
+    "market_price": "$65.30"
+  },
+  {
+    "name": "scotch tape",
+    "price": "$26.77",
+    "market_price": "$94.38"
+  },
+  {
+    "name": "pens",
+    "price": "$48.75",
+    "market_price": "$60.95"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$7.83",
+    "market_price": "$32.02"
+  },
+  {
+    "name": "dry erase board",
+    "price": "$96.41",
+    "market_price": "$88.76"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$28.48",
+    "market_price": "$48.56"
+  },
+  {
+    "name": "pencils",
+    "price": "$5.50",
+    "market_price": "$55.57"
+  },
+  {
+    "name": "erasers",
+    "price": "$87.33",
+    "market_price": "$92.70"
+  },
+  {
+    "name": "pens",
+    "price": "$56.65",
+    "market_price": "$1.07"
+  },
+  {
+    "name": "calculator",
+    "price": "$76.03",
+    "market_price": "$62.45"
+  },
+  {
+    "name": "staple remover",
+    "price": "$68.36",
+    "market_price": "$51.55"
+  },
+  {
+    "name": "pens",
+    "price": "$37.97",
+    "market_price": "$96.17"
+  },
+  {
+    "name": "staple remover",
+    "price": "$21.04",
+    "market_price": "$35.00"
+  },
+  {
+    "name": "highlighters",
+    "price": "$46.23",
+    "market_price": "$38.54"
+  },
+  {
+    "name": "push pins",
+    "price": "$67.96",
+    "market_price": "$22.51"
+  },
+  {
+    "name": "rubber stamps",
+    "price": "$89.85",
+    "market_price": "$54.64"
+  },
+  {
+    "name": "sharpener",
+    "price": "$79.68",
+    "market_price": "$24.80"
+  },
+  {
+    "name": "push pins",
+    "price": "$84.79",
+    "market_price": "$81.37"
+  },
+  {
+    "name": "writing pad",
+    "price": "$27.43",
+    "market_price": "$96.74"
+  },
+  {
+    "name": "desk chair",
+    "price": "$11.92",
+    "market_price": "$6.59"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$52.35",
+    "market_price": "$17.58"
+  },
+  {
+    "name": "rulers",
+    "price": "$22.42",
+    "market_price": "$10.98"
+  },
+  {
+    "name": "desk lamp",
+    "price": "$87.62",
+    "market_price": "$86.54"
+  },
+  {
+    "name": "stapler",
+    "price": "$24.57",
+    "market_price": "$40.07"
+  },
+  {
+    "name": "binder clips",
+    "price": "$92.43",
+    "market_price": "$96.46"
+  },
+  {
+    "name": "erasers",
+    "price": "$47.58",
+    "market_price": "$89.05"
+  },
+  {
+    "name": "scissors",
+    "price": "$16.56",
+    "market_price": "$98.52"
+  },
+  {
+    "name": "rulers",
+    "price": "$66.25",
+    "market_price": "$44.71"
+  },
+  {
+    "name": "desk mat",
+    "price": "$63.15",
+    "market_price": "$93.71"
+  },
+  {
+    "name": "business cards",
+    "price": "$28.33",
+    "market_price": "$19.66"
+  },
+  {
+    "name": "stamps",
+    "price": "$39.80",
+    "market_price": "$18.01"
+  },
+  {
+    "name": "desk organizer",
+    "price": "$38.15",
+    "market_price": "$1.99"
+  },
+  {
+    "name": "sticky notes",
+    "price": "$54.20",
+    "market_price": "$5.06"
+  },
+  {
+    "name": "hole punch",
+    "price": "$51.22",
+    "market_price": "$14.07"
+  },
+  {
+    "name": "push pins",
+    "price": "$42.60",
+    "market_price": "$19.95"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$58.61",
+    "market_price": "$94.98"
+  },
+  {
+    "name": "stamps",
+    "price": "$8.02",
+    "market_price": "$8.61"
+  },
+  {
+    "name": "desk chair",
+    "price": "$25.95",
+    "market_price": "$55.72"
+  },
+  {
+    "name": "push pins",
+    "price": "$63.58",
+    "market_price": "$47.42"
+  },
+  {
+    "name": "scissors",
+    "price": "$13.98",
+    "market_price": "$28.78"
+  },
+  {
+    "name": "mouse pad",
+    "price": "$31.99",
+    "market_price": "$98.39"
+  },
+  {
+    "name": "paperweight",
+    "price": "$70.46",
+    "market_price": "$12.19"
+  },
+  {
+    "name": "printer ink",
+    "price": "$4.49",
+    "market_price": "$69.37"
+  },
+  {
+    "name": "stapler",
+    "price": "$93.88",
+    "market_price": "$17.22"
+  },
+  {
+    "name": "post-it notes",
+    "price": "$29.98",
+    "market_price": "$62.94"
+  },
+  {
+    "name": "tape",
+    "price": "$27.93",
+    "market_price": "$87.05"
+  },
+  {
+    "name": "tape dispenser",
+    "price": "$83.49",
+    "market_price": "$58.40"
+  },
+  {
+    "name": "markers",
+    "price": "$72.80",
+    "market_price": "$77.67"
+  },
+  {
+    "name": "erasers",
+    "price": "$30.38",
+    "market_price": "$14.24"
+  },
+  {
+    "name": "calculator",
+    "price": "$99.87",
+    "market_price": "$20.66"
+  }
+]

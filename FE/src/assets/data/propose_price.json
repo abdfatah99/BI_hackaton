@@ -1,0 +1,252 @@
+[
+    {
+        "product_name": "highlighter",
+        "proposed_price": "3957",
+        "avrg_price": "31403"
+    },
+    {
+        "product_name": "notebook",
+        "proposed_price": "13789",
+        "avrg_price": "4567"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "36933",
+        "avrg_price": "11069"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "25273",
+        "avrg_price": "13836"
+    },
+    {
+        "product_name": "highlighter",
+        "proposed_price": "12840",
+        "avrg_price": "10810"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "48528",
+        "avrg_price": "11325"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "47858",
+        "avrg_price": "8718"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "23903",
+        "avrg_price": "15903"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "17851",
+        "avrg_price": "34642"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "25081",
+        "avrg_price": "1221"
+    },
+    {
+        "product_name": "highlighter",
+        "proposed_price": "42352",
+        "avrg_price": "41242"
+    },
+    {
+        "product_name": "highlighter",
+        "proposed_price": "19460",
+        "avrg_price": "36948"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "2930",
+        "avrg_price": "16316"
+    },
+    {
+        "product_name": "highlighter",
+        "proposed_price": "17907",
+        "avrg_price": "1108"
+    },
+    {
+        "product_name": "pencil",
+        "proposed_price": "28967",
+        "avrg_price": "46464"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "11836",
+        "avrg_price": "46082"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "10442",
+        "avrg_price": "26754"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "16682",
+        "avrg_price": "28157"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "1968",
+        "avrg_price": "8074"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "8395",
+        "avrg_price": "15086"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "38222",
+        "avrg_price": "45172"
+    },
+    {
+        "product_name": "highlighter",
+        "proposed_price": "42145",
+        "avrg_price": "6010"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "40397",
+        "avrg_price": "13010"
+    },
+    {
+        "product_name": "highlighter",
+        "proposed_price": "22875",
+        "avrg_price": "40612"
+    },
+    {
+        "product_name": "highlighter",
+        "proposed_price": "23030",
+        "avrg_price": "49065"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "6642",
+        "avrg_price": "19818"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "1799",
+        "avrg_price": "8399"
+    },
+    {
+        "product_name": "notebook",
+        "proposed_price": "25314",
+        "avrg_price": "45439"
+    },
+    {
+        "product_name": "notebook",
+        "proposed_price": "1240",
+        "avrg_price": "29628"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "32120",
+        "avrg_price": "21455"
+    },
+    {
+        "product_name": "notebook",
+        "proposed_price": "15206",
+        "avrg_price": "2076"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "36542",
+        "avrg_price": "39874"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "25804",
+        "avrg_price": "4870"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "35271",
+        "avrg_price": "39706"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "23974",
+        "avrg_price": "5101"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "28653",
+        "avrg_price": "23831"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "17135",
+        "avrg_price": "47111"
+    },
+    {
+        "product_name": "pencil",
+        "proposed_price": "9324",
+        "avrg_price": "11358"
+    },
+    {
+        "product_name": "pencil",
+        "proposed_price": "15588",
+        "avrg_price": "5638"
+    },
+    {
+        "product_name": "notebook",
+        "proposed_price": "6695",
+        "avrg_price": "11633"
+    },
+    {
+        "product_name": "notebook",
+        "proposed_price": "11971",
+        "avrg_price": "45135"
+    },
+    {
+        "product_name": "notebook",
+        "proposed_price": "36000",
+        "avrg_price": "1320"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "6585",
+        "avrg_price": "30760"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "13680",
+        "avrg_price": "10507"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "5131",
+        "avrg_price": "28790"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "23877",
+        "avrg_price": "26753"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "7010",
+        "avrg_price": "29926"
+    },
+    {
+        "product_name": "pen",
+        "proposed_price": "24266",
+        "avrg_price": "10297"
+    },
+    {
+        "product_name": "stapler",
+        "proposed_price": "39052",
+        "avrg_price": "34849"
+    },
+    {
+        "product_name": "paper clips",
+        "proposed_price": "33379",
+        "avrg_price": "40973"
+    }
+]

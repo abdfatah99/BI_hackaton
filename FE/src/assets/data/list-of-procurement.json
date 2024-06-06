@@ -1,0 +1,6002 @@
+[
+    {
+        "id": "77622746-270f-4b31-9830-224c8b545768",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$42280.63"
+    },
+    {
+        "id": "52b6cca0-2d77-47aa-b85a-b6d5bbfd5731",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$44707.18"
+    },
+    {
+        "id": "5630f6ef-2a63-451a-9096-61e1ac55eeb6",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$48867.19"
+    },
+    {
+        "id": "f820707a-62f9-4434-9068-96ba9d4af75d",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$61934.50"
+    },
+    {
+        "id": "014a5483-037a-4f07-a0a6-3c04e045b1d3",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$18409.40"
+    },
+    {
+        "id": "9a352078-c73e-448c-b888-21a992a7de73",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$61591.05"
+    },
+    {
+        "id": "3e56949d-a6df-4791-9083-196babb81729",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$52812.01"
+    },
+    {
+        "id": "da5e1007-8275-4334-90d2-ed454cf1a6a5",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$38206.27"
+    },
+    {
+        "id": "36e12c4c-bdb8-47fb-93a5-37fb3b0c59b9",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$46048.29"
+    },
+    {
+        "id": "c9ac4bd1-8a38-442b-a12a-956bf6afc279",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$57698.77"
+    },
+    {
+        "id": "8745e587-27e9-49bc-86cd-4dcdcc59d032",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$13481.91"
+    },
+    {
+        "id": "7f0626ba-6c79-47d1-af9c-c23c5600bc4d",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$73039.75"
+    },
+    {
+        "id": "ca1b04a5-15c3-46f5-b018-fedeea37310a",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$11658.93"
+    },
+    {
+        "id": "bd57c60f-109e-438f-92cb-f074ba9edde4",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$29224.63"
+    },
+    {
+        "id": "49dc31da-6f6c-4b6e-a40b-2c479c159080",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$63773.54"
+    },
+    {
+        "id": "0e0fbe0a-0f64-4ad0-8ea4-3980e06cabb5",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$13443.18"
+    },
+    {
+        "id": "41abfcd0-4a0f-46bc-9066-9b6393ad4c80",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$78139.65"
+    },
+    {
+        "id": "9e871088-7574-4519-87de-045afa1343c1",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$31575.87"
+    },
+    {
+        "id": "14015816-c667-4dc8-a8d0-1946d6ee334a",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$22980.36"
+    },
+    {
+        "id": "e6bdb9b1-da3c-45ed-a531-55a1a0034e3e",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$31175.29"
+    },
+    {
+        "id": "9e2022f7-479d-4d99-b5a1-d51449dafaa1",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$14457.97"
+    },
+    {
+        "id": "5bf5bc02-869f-4d38-ba68-bca9b29d1dee",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$69663.33"
+    },
+    {
+        "id": "56f0ffd1-36d5-4313-ab36-00408156fd3b",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$61881.26"
+    },
+    {
+        "id": "e1cf712a-b1f8-4acb-bbce-41017062f782",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$36971.86"
+    },
+    {
+        "id": "9ae55eb6-780d-49d3-9279-b73393ff7899",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$55226.39"
+    },
+    {
+        "id": "bc393ab2-f3d8-44b0-9388-b832e38035b4",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$31501.35"
+    },
+    {
+        "id": "659930f5-cb54-4dc0-a148-b589e0d88b22",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$63670.18"
+    },
+    {
+        "id": "681eefe1-5568-40b6-8955-233fa840a46d",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$17914.30"
+    },
+    {
+        "id": "8ed7f3a3-78cd-4f26-bfff-a8912e926c49",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$40676.39"
+    },
+    {
+        "id": "2a86b5a3-7dca-4005-951f-857cf500317d",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$57562.36"
+    },
+    {
+        "id": "3b24fc98-3324-44d5-8009-41f916d6ecd6",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$37042.63"
+    },
+    {
+        "id": "c6ab2c74-781b-4f3d-ba0a-d9065190197f",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$13756.02"
+    },
+    {
+        "id": "7945d51b-4769-413e-a55a-3aebebdaa1aa",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$46335.94"
+    },
+    {
+        "id": "564b66fe-5e71-42b7-8355-199aad56169a",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$7175.61"
+    },
+    {
+        "id": "ec5be3e8-0f87-407f-b020-b97793f6824e",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$37932.60"
+    },
+    {
+        "id": "0c84cc2e-3560-409d-b5ec-3cb7228b1524",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$70283.25"
+    },
+    {
+        "id": "b9fa5fce-0a08-48f3-903a-a4b3f57fea14",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$78334.55"
+    },
+    {
+        "id": "052b9354-4156-4857-ba3c-8ee81dd656a6",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$60872.29"
+    },
+    {
+        "id": "67141010-16cc-4139-bc43-c1a909167505",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$15464.53"
+    },
+    {
+        "id": "7469f111-f4f2-4cf1-b935-e76a02c60faa",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$17702.42"
+    },
+    {
+        "id": "356987ac-8fbf-49a6-970f-9ec32e5d0198",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$44889.46"
+    },
+    {
+        "id": "d644e9f3-2c18-4f18-b6d3-c568fd1b9702",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$22280.35"
+    },
+    {
+        "id": "e68d61c7-3b1d-4f86-8201-f647c4a6aec0",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$53303.75"
+    },
+    {
+        "id": "3aa71cda-b878-4343-94a6-ad8c01faa90b",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$12821.53"
+    },
+    {
+        "id": "7ecc267f-788d-4535-9922-882746f705e9",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$42317.84"
+    },
+    {
+        "id": "5c29254f-45f1-4e71-9fee-02e85d72ead6",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$22909.29"
+    },
+    {
+        "id": "1b35ee84-1321-4fb8-8f89-37ad3b7aa321",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$24749.67"
+    },
+    {
+        "id": "c02c998b-8655-4f62-8f24-8dda26a6de65",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$49394.76"
+    },
+    {
+        "id": "aff14b8c-0544-4ed6-90eb-b23a5b24d398",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$58128.16"
+    },
+    {
+        "id": "cf51d9d6-69d5-484e-917c-fa7bc946d588",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$58710.72"
+    },
+    {
+        "id": "59223c3e-6318-47de-9d4d-6c62468f567a",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$11658.40"
+    },
+    {
+        "id": "01791f4a-1439-4a8c-8efd-42189eeff394",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$42633.59"
+    },
+    {
+        "id": "83d2cc6d-3f35-4e87-a883-132fd5b4926d",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$14456.13"
+    },
+    {
+        "id": "8f525b99-90db-49d2-9dc3-c7d742972f72",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$26446.60"
+    },
+    {
+        "id": "eef414d7-51a6-4549-99da-f4606cb02dc7",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$22736.83"
+    },
+    {
+        "id": "2ed28c76-dd92-4ca4-b8bd-bf43d29f8e85",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$10100.89"
+    },
+    {
+        "id": "5f77e374-5330-471e-9135-daf1cb1ddbc8",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$70125.81"
+    },
+    {
+        "id": "5dd6f963-d33f-4645-9c47-8b3cea613074",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$68001.01"
+    },
+    {
+        "id": "5330906d-6cd0-4eca-a77c-cdcce929d8f7",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$6828.06"
+    },
+    {
+        "id": "3b7252f3-33b5-4fc2-8faf-509ac745f23e",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$54842.91"
+    },
+    {
+        "id": "22f79f7b-5e04-44f6-98d6-833d08747800",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$43407.55"
+    },
+    {
+        "id": "e54e7d5b-2c3b-466a-8342-fbb23c3ac0e0",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$57005.72"
+    },
+    {
+        "id": "eca9de76-4ebe-4c6b-bf44-b3c5716ff8e9",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$53154.43"
+    },
+    {
+        "id": "3a6cb51d-a1c3-44e3-8539-b3b2d1b1ec8d",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$62293.86"
+    },
+    {
+        "id": "569488cc-8a23-4964-b3ba-dbb8ad4d3b5b",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$37870.57"
+    },
+    {
+        "id": "e482e67d-5bf8-4c05-a8ae-23a206a142b0",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$27406.25"
+    },
+    {
+        "id": "cfb951cf-38a1-47eb-b4b0-dcd22e043493",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$24957.12"
+    },
+    {
+        "id": "6347972a-faae-4a67-98e5-3ad97d6df67b",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$79821.94"
+    },
+    {
+        "id": "d7cf0e60-5394-4dd4-a590-3663b87deac2",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$33725.88"
+    },
+    {
+        "id": "15f4cef9-00bc-46f1-956d-4cac9634d196",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$23520.85"
+    },
+    {
+        "id": "db6c2a0d-13d0-43b3-9d0f-34f5de85da07",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$46244.24"
+    },
+    {
+        "id": "1be9dc8f-b7b9-4e4b-af14-56912ff78b15",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$18279.34"
+    },
+    {
+        "id": "6f9c7bcb-1ba3-481a-bf96-a19fe0e7ad72",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$8072.55"
+    },
+    {
+        "id": "33d3c0ce-96f6-44f2-983a-82a3f8878aaa",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$7866.04"
+    },
+    {
+        "id": "c5764801-b307-4566-a542-6aab528c1034",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$77400.01"
+    },
+    {
+        "id": "5c541753-11f0-447e-ab46-2ae5048dc348",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$44933.86"
+    },
+    {
+        "id": "6e5121e6-1a96-4d80-9ad2-815599f8315b",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$15691.01"
+    },
+    {
+        "id": "b4c49383-22f9-4eda-b75e-05826c79c7b8",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$24508.37"
+    },
+    {
+        "id": "5b4e2be0-6169-42d1-b079-cd375ba5216e",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$76828.16"
+    },
+    {
+        "id": "110c32e7-12e3-4a3e-926f-8e7c70147d25",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$51581.45"
+    },
+    {
+        "id": "e9628430-022a-49c2-80f6-22abfa2cd2d3",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$13752.64"
+    },
+    {
+        "id": "21822c53-4ec4-40c6-9268-baba09e200e2",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$11192.51"
+    },
+    {
+        "id": "dfd2df3e-e45f-432e-a104-31fe6038ee06",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$63095.01"
+    },
+    {
+        "id": "7e61ce3b-a86b-4852-893c-539c2f4d60d4",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$18952.89"
+    },
+    {
+        "id": "5cd5adaa-6060-49e5-be80-159f946597b2",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$26419.25"
+    },
+    {
+        "id": "4af5c51d-4e10-476f-88c7-9a52adb67fe4",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$7353.34"
+    },
+    {
+        "id": "032f9c4a-ed6a-4244-ac85-021cec6a2661",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$39367.43"
+    },
+    {
+        "id": "e2100958-4e9f-4b16-89f8-e6d91078dfff",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$18339.13"
+    },
+    {
+        "id": "333da998-87fd-48e2-b65e-bd04e3bec8d9",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$69405.39"
+    },
+    {
+        "id": "0d510e97-9a22-4b08-8c92-2040b84a7d75",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$61365.95"
+    },
+    {
+        "id": "177a1466-54bd-44f0-98a5-2614947d91af",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$55518.30"
+    },
+    {
+        "id": "7f939b52-91e2-4680-8dfd-cfd821cf33b3",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$76332.06"
+    },
+    {
+        "id": "0366feb9-5cf1-41d5-8928-5834d2ccec22",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$12700.78"
+    },
+    {
+        "id": "8b244d8e-044c-4c00-b142-d5707c8616ba",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$33899.04"
+    },
+    {
+        "id": "e0e53eff-621f-4393-b629-bb9a5115c023",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$15902.33"
+    },
+    {
+        "id": "090c042e-4750-44b5-a15a-5f2f9b61a889",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$24182.71"
+    },
+    {
+        "id": "bc2ec36f-41b1-4399-bbe4-4a801f45cdb1",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$23658.73"
+    },
+    {
+        "id": "57f2c0d1-69ed-4651-b8fa-a3b1d7fa81ac",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$23770.88"
+    },
+    {
+        "id": "a0f7720b-6dc5-4f62-89a1-83c7f71f5256",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$74892.51"
+    },
+    {
+        "id": "b39f78f1-1494-460a-b937-425497b8727e",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$16839.20"
+    },
+    {
+        "id": "016603b4-7646-4954-be41-36d6a2e31cb3",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$78023.71"
+    },
+    {
+        "id": "f619e14d-88ee-4c36-911e-173f4e00a0c0",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$76510.20"
+    },
+    {
+        "id": "66388b80-54af-4b41-857d-44eda78011b3",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$7201.87"
+    },
+    {
+        "id": "79ca9d20-2ba6-4388-931e-25821fa547a2",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$22780.47"
+    },
+    {
+        "id": "68321bc9-5aa3-41cb-aedf-a00672c5079c",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$46220.64"
+    },
+    {
+        "id": "db1885a5-b711-4c72-bc4e-eca33e750a16",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$14371.53"
+    },
+    {
+        "id": "7487ead3-8550-4a56-a075-218a08a51026",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$60856.02"
+    },
+    {
+        "id": "7eb9aa4c-79f5-45dd-a8fc-1b371524b9a3",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$56750.67"
+    },
+    {
+        "id": "2706bc07-27d4-4b55-a1ed-67cdd5010e69",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$13359.94"
+    },
+    {
+        "id": "7f9c2fea-a325-4a95-b428-3317c16592a8",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$68082.57"
+    },
+    {
+        "id": "27d41aad-1755-4e4e-806b-4dcdc4b274a4",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$70484.14"
+    },
+    {
+        "id": "7f205ac9-fec3-43e7-97a1-327a36a99ef3",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$9184.90"
+    },
+    {
+        "id": "14ea03ef-6dbf-47dd-a96d-c51c5212c9f2",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$75424.13"
+    },
+    {
+        "id": "906e39ab-3bd1-4c39-9521-313d34b4ecbd",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$65146.10"
+    },
+    {
+        "id": "ccf6e24d-2edb-47a3-8174-eaca2c8a0a0d",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$69394.93"
+    },
+    {
+        "id": "601b2353-558b-4c48-b302-2746e990d924",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$70059.60"
+    },
+    {
+        "id": "6e1f3cfb-8045-4c51-b36f-d003e5a8bae8",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$54357.77"
+    },
+    {
+        "id": "daa0433b-c7ed-4f05-8602-9419c1252cce",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$73107.09"
+    },
+    {
+        "id": "313cf228-b333-4d5a-b796-c1fa13cb9bf8",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$9607.03"
+    },
+    {
+        "id": "57618c53-a6f5-42c6-b77b-8c61cb0069e3",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$10526.16"
+    },
+    {
+        "id": "ebd6d6db-9309-479f-af3a-981242f77113",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$69925.40"
+    },
+    {
+        "id": "78a958ea-9f54-412f-98ce-39f82e5deabf",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$65531.05"
+    },
+    {
+        "id": "1ee260e2-4247-493b-a232-af2aae6372d3",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$71405.37"
+    },
+    {
+        "id": "c47b8ddc-3e2a-459f-9568-337fb9b787c2",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$48817.48"
+    },
+    {
+        "id": "e1d02df4-19fe-4b54-9696-0d750c73fb3d",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$60074.59"
+    },
+    {
+        "id": "649a9b45-68ff-498e-a459-e6ba83853caa",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$71257.92"
+    },
+    {
+        "id": "924d9dea-0722-490f-bd19-8425c82c6182",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$56700.05"
+    },
+    {
+        "id": "15ab586d-1186-476d-8a49-0e8e8fb7cfb2",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$20896.66"
+    },
+    {
+        "id": "34949fd3-a572-477e-8461-72ee4fae1a2e",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$11344.99"
+    },
+    {
+        "id": "acce0f9f-f579-438c-b127-177935b55d0c",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$64884.67"
+    },
+    {
+        "id": "43f15b0e-3903-4e01-9de6-e2f2a84fc224",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$12840.12"
+    },
+    {
+        "id": "34143541-429b-4c6f-9a73-872ab8e2466e",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$52412.70"
+    },
+    {
+        "id": "3bae66ce-efd6-4044-ba74-01b711fb4e0b",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$61216.20"
+    },
+    {
+        "id": "bd7c179b-666a-4408-83ab-92ea04bd44d0",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$40865.36"
+    },
+    {
+        "id": "9542f9bd-fe2c-4fc6-a123-1c61b3bda0da",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$77726.90"
+    },
+    {
+        "id": "4a086738-cb4c-4d78-b994-882583a909d6",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$21512.27"
+    },
+    {
+        "id": "9a49a9b7-f56d-4eb1-b2d6-1caea6beacfa",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$15427.09"
+    },
+    {
+        "id": "7275a2e7-8c51-49dc-bcb0-3156f1b63c9d",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$48893.58"
+    },
+    {
+        "id": "ea267479-f95b-4c52-b5ae-237461de61b6",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$71265.55"
+    },
+    {
+        "id": "cfc24b23-2c5e-4e46-b547-e848ffff27fd",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$15823.37"
+    },
+    {
+        "id": "d09031d8-5148-4812-8514-3bee0a69609d",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$76517.97"
+    },
+    {
+        "id": "b3b5c17c-af9c-48a5-8530-6057d3d3686f",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$56185.80"
+    },
+    {
+        "id": "3f404237-f310-4f11-9e02-e87cbf19d1d6",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$29812.11"
+    },
+    {
+        "id": "cb54dcc3-23cb-4449-9c53-1c9606d04d3b",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$27838.27"
+    },
+    {
+        "id": "f077a51e-90cd-4731-a9dc-6ca64a4deff9",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$44193.41"
+    },
+    {
+        "id": "e8420eb0-558d-4c23-a690-fab59ff51c2f",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$12354.02"
+    },
+    {
+        "id": "957c3c36-88af-404c-99f6-f04f503a4117",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$75330.17"
+    },
+    {
+        "id": "3b87603d-76a4-4bf4-a083-a9e0d23a01ec",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$78447.90"
+    },
+    {
+        "id": "75a8d052-1f33-4f35-9d22-6a027b86206b",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$25992.43"
+    },
+    {
+        "id": "eb2ba477-c857-449a-ad54-cb7f41cc25e6",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$24697.01"
+    },
+    {
+        "id": "8077a821-f955-47f1-acb5-f888bcef6fa4",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$10408.18"
+    },
+    {
+        "id": "b57ff0b9-f179-4592-8619-7c83606c26f9",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$18522.42"
+    },
+    {
+        "id": "a5ff6add-0899-4dd6-a58f-4c384da2c50e",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$72474.89"
+    },
+    {
+        "id": "686943de-6560-409e-84d3-c67605b3d1f0",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$41802.04"
+    },
+    {
+        "id": "f3df4853-0601-437f-8e4f-195caba22298",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$57063.20"
+    },
+    {
+        "id": "5ee99920-6448-4263-be2f-ba7a09edf274",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$48605.95"
+    },
+    {
+        "id": "f511b882-bc25-4044-8a03-aa93a8b60408",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$39423.88"
+    },
+    {
+        "id": "ba5cb757-8f22-4ef4-8afd-313b03df876e",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$24744.62"
+    },
+    {
+        "id": "38974c0c-e4bb-45d3-9aee-492b19a8d6d3",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$51796.38"
+    },
+    {
+        "id": "fadec12d-0c17-4b64-b672-2aafeac81a0c",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$32981.36"
+    },
+    {
+        "id": "b183b3c9-6856-4fbb-ac1c-7246ac417168",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$20185.64"
+    },
+    {
+        "id": "0cd1cbfa-178d-4354-b8d4-05c09934ed7e",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$16976.54"
+    },
+    {
+        "id": "bd61d9ef-e437-467c-9e4e-774cb75669e7",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$30056.53"
+    },
+    {
+        "id": "277902bb-24be-4142-8d3d-32106b0cbf65",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$37002.93"
+    },
+    {
+        "id": "fbf26d71-b830-452e-9e6b-7925b91c0b6c",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$70775.51"
+    },
+    {
+        "id": "0148c60e-a7b6-428a-af99-c60125c59aef",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$22543.35"
+    },
+    {
+        "id": "fd1bc3aa-7790-428b-b657-70105b04fbf5",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$9741.46"
+    },
+    {
+        "id": "c1ad3106-27b4-450b-b74d-3a9a20f74bfe",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$54918.78"
+    },
+    {
+        "id": "8aa53d83-5dba-4ca9-ae93-cf2e0c094fdd",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$50943.23"
+    },
+    {
+        "id": "918aec29-8bb4-40da-80f7-27e53bfb6d59",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$26420.54"
+    },
+    {
+        "id": "fc495696-c0c7-4095-9263-6bef660da17c",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$73400.14"
+    },
+    {
+        "id": "f5ce4dee-25cc-4ca3-9102-af09de4996bf",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$5401.06"
+    },
+    {
+        "id": "211c546f-110e-4d61-8270-3039f6690e1c",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$79220.23"
+    },
+    {
+        "id": "1c951d6a-435d-4d9a-b3ef-2e9ac7fca2bd",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$56951.01"
+    },
+    {
+        "id": "e418bfc9-a93c-4f31-978e-2ef30c4d4e45",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$40253.62"
+    },
+    {
+        "id": "e6972093-58aa-4b34-85a4-aa225bbb4792",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$41409.20"
+    },
+    {
+        "id": "66de0718-0b9a-4841-bbc8-d6a88c078413",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$69037.68"
+    },
+    {
+        "id": "b0d807ba-fd5f-44fe-8421-b965adaa9a82",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$45611.22"
+    },
+    {
+        "id": "92955f71-5553-4b98-857d-cb606c2e01fc",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$50597.25"
+    },
+    {
+        "id": "fbc89732-1cf2-4d50-a19f-f2aa13dfc0ae",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$44918.21"
+    },
+    {
+        "id": "59de7534-0993-46a5-81f4-02726d0fe333",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$28869.60"
+    },
+    {
+        "id": "a05fab4d-7b48-4a60-be70-a82159e1e091",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$49491.63"
+    },
+    {
+        "id": "ec8c383f-0dcf-4732-b66b-638e903e75eb",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$22704.62"
+    },
+    {
+        "id": "8d20f1b5-44ea-490d-a20f-7a03fdc9e95c",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$56422.13"
+    },
+    {
+        "id": "3f737e85-3984-4711-bf77-1a36e03e0ee5",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$41307.86"
+    },
+    {
+        "id": "07ff6f98-b72e-4fee-9210-894b3727a5cd",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$71080.66"
+    },
+    {
+        "id": "3d1d2239-b595-45b1-8854-3ae4131ce282",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$30430.39"
+    },
+    {
+        "id": "f9d11d0a-2aa0-41f9-9683-43e7e6cb31b5",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$75386.39"
+    },
+    {
+        "id": "82b33e3b-54d5-4dfe-97f7-9c9f08aba5bd",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$6897.26"
+    },
+    {
+        "id": "f08b1b22-ec82-4cb8-9f34-1cbd27f31c40",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$51656.95"
+    },
+    {
+        "id": "92e71057-dbc4-404b-8ca7-baf0050eb146",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$56742.98"
+    },
+    {
+        "id": "6168c290-d0c1-4f7d-9a41-902aa4318cca",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$52790.64"
+    },
+    {
+        "id": "825a4a2c-5556-4a4e-8390-c84bc603472e",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$19799.05"
+    },
+    {
+        "id": "a03818c1-e6d2-456f-afee-cd9164c8dea3",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$46087.72"
+    },
+    {
+        "id": "4395d46e-5241-4a36-9890-4130fdfc5ef8",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$22181.02"
+    },
+    {
+        "id": "38b3486b-5918-405d-b912-2dd1b789e2ac",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$75327.23"
+    },
+    {
+        "id": "d2e746ba-39a0-4905-a28f-e615fd4aef9e",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$58462.89"
+    },
+    {
+        "id": "a0a51b84-b307-44d2-b798-8c39ae6ffb26",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$72262.18"
+    },
+    {
+        "id": "b92c8b81-bb3e-4c6e-8cf6-9b9f71a5e0b6",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$74723.14"
+    },
+    {
+        "id": "05f3fa51-6fad-4415-93b7-d962661f20c4",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$33781.15"
+    },
+    {
+        "id": "446f21b4-58c7-4eb7-9d16-6505aef363c6",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$68819.49"
+    },
+    {
+        "id": "3cb70f5b-fe1e-49cb-92a2-d5bab271d027",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$15189.42"
+    },
+    {
+        "id": "0c267400-f1f8-4003-82e3-ce0976a90e4b",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$74257.82"
+    },
+    {
+        "id": "276dc766-4dea-42e1-b8c6-805ec312ad0f",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$69557.08"
+    },
+    {
+        "id": "5f8c917a-cdb5-433f-80f0-3c9fe7f6b9f5",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$29003.75"
+    },
+    {
+        "id": "27838e13-ed1f-4ac2-93cc-0ad3ee2046b0",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$61901.97"
+    },
+    {
+        "id": "7f3e25a4-3919-4cac-8ced-03cd6e0f2b15",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$49642.20"
+    },
+    {
+        "id": "37cd81ec-7b0c-478e-ab0a-d7a675a0e17d",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$20732.07"
+    },
+    {
+        "id": "a4e221cb-911b-4a4c-b38a-104d902a9402",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$46060.12"
+    },
+    {
+        "id": "063b44f6-61b2-4c94-a7e6-228a897fdb3e",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$50921.24"
+    },
+    {
+        "id": "5a027c01-f568-44da-ab80-f85364680ff4",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$74515.86"
+    },
+    {
+        "id": "f1429c0e-75d3-4e19-bda9-1e747f543c27",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$55295.54"
+    },
+    {
+        "id": "ffe8052c-9a7a-4543-ae87-39a6052baa36",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$22411.45"
+    },
+    {
+        "id": "d912a250-9dfa-43c4-bb97-5d67cd82c364",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$15190.46"
+    },
+    {
+        "id": "4825affb-cd76-49de-b2b1-f280a6103764",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$37375.51"
+    },
+    {
+        "id": "ef79bedc-1837-41d5-84ef-b557a6d1440e",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$21827.89"
+    },
+    {
+        "id": "d469f4a4-b8b1-4645-8063-6ca31852b795",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$74800.59"
+    },
+    {
+        "id": "442068ee-a569-48b6-b61d-a41c076db895",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$7538.75"
+    },
+    {
+        "id": "023b1f74-3588-458c-9108-18091730465f",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$37480.01"
+    },
+    {
+        "id": "015bc0f0-4992-416a-b5a0-a483f5f5aca3",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$44460.60"
+    },
+    {
+        "id": "9412adb6-a7c4-4f48-8c4b-e57d28a6753a",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$50999.58"
+    },
+    {
+        "id": "3561b99a-18f9-4db2-a171-2ba0c303a31c",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$79348.68"
+    },
+    {
+        "id": "9034f3e8-e7c2-4882-ae96-76a51a89c56d",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$19335.24"
+    },
+    {
+        "id": "e2fa1216-bcf6-4536-8930-b68f53fa5497",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$30400.97"
+    },
+    {
+        "id": "d46a2664-3dd4-4aaf-aa67-5226e9bf870f",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$53181.53"
+    },
+    {
+        "id": "a2cdb556-5a1c-416f-af1b-cd2cfa598d70",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$64226.32"
+    },
+    {
+        "id": "8868668b-29f9-4209-8417-8e649a6fdf4a",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$22256.86"
+    },
+    {
+        "id": "6a5f3cce-bfa6-4c16-a58a-d310c4068410",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$10270.48"
+    },
+    {
+        "id": "0fe18a7b-3d92-490a-ba42-1923ae635a43",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$43316.51"
+    },
+    {
+        "id": "e39ef214-63f3-4500-aa88-ada87f4d0245",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$23140.62"
+    },
+    {
+        "id": "e694d775-4b22-48b7-832f-38cdbfbbb4a9",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$75604.68"
+    },
+    {
+        "id": "7f4b1581-0dfb-43d7-9916-ec6278d939d3",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$44396.26"
+    },
+    {
+        "id": "49883323-5e49-4ce5-a9e3-b52677ff7614",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$15205.37"
+    },
+    {
+        "id": "c1d73c90-b441-4543-9f43-ff505907603b",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$19743.53"
+    },
+    {
+        "id": "3caffce1-0be9-43d1-b964-0db0f34d46e4",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$46491.33"
+    },
+    {
+        "id": "ba50d642-06dd-4afd-948c-b52a4678fc96",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$52654.12"
+    },
+    {
+        "id": "311084ba-a85c-495c-8dc6-879902013884",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$68996.27"
+    },
+    {
+        "id": "aad2c0ea-7d01-43a0-b84e-2eb44c0d9f38",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$27927.85"
+    },
+    {
+        "id": "37b1118c-541a-4be5-a325-4e06ceed5f2a",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$45811.23"
+    },
+    {
+        "id": "6c5ea6d3-5030-44ce-85ac-65bfbc09fb5f",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$33891.40"
+    },
+    {
+        "id": "3aa923d7-e9e2-452d-9b75-498fb952901c",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$23012.05"
+    },
+    {
+        "id": "c2fe8266-90fd-492f-be16-914b64a18bda",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$12122.20"
+    },
+    {
+        "id": "101554d7-63c1-4440-8609-63ad43f12494",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$76088.86"
+    },
+    {
+        "id": "382566e8-2863-4c82-94a5-ecad357902c7",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$12877.50"
+    },
+    {
+        "id": "baea05d8-dcf5-41e7-8c13-fe97ad10a2db",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$60974.90"
+    },
+    {
+        "id": "667ce30a-087a-4e06-8449-37dad119f55b",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$17573.54"
+    },
+    {
+        "id": "7ec9bed1-d1c0-4a62-8c34-26547514152c",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$54450.87"
+    },
+    {
+        "id": "71c8b136-cc01-482b-9ddc-04887fdc9286",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$58500.76"
+    },
+    {
+        "id": "716c133b-66d9-4f9a-a38a-8beb8a48c411",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$56183.51"
+    },
+    {
+        "id": "f86c41cf-3577-42da-b5f8-5982649df905",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$9505.94"
+    },
+    {
+        "id": "d2bc64e0-55eb-4c03-a825-f5ee7c5ab728",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$27987.32"
+    },
+    {
+        "id": "f903e2ed-1bfb-4729-9681-d14da0f9e4fd",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$8076.40"
+    },
+    {
+        "id": "2a160c1f-e1b4-4800-ae27-0dd2afb2b401",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$13588.15"
+    },
+    {
+        "id": "d3d6ccbd-2d81-4f32-9d98-aa5648c43e67",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$47193.76"
+    },
+    {
+        "id": "3a862e70-5169-4d4b-972d-36a00c8b8ab8",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$56081.33"
+    },
+    {
+        "id": "9cd94afb-66c5-4b6f-a048-84500e7d6a5c",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$15301.36"
+    },
+    {
+        "id": "57bf920a-8e7d-4a52-8d72-74eb1b1ae4f9",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$33309.39"
+    },
+    {
+        "id": "b881d432-42cf-4248-8374-ce9b2c3e42c2",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$63449.89"
+    },
+    {
+        "id": "16c0e25a-b2fb-4897-aa43-30a269b276ca",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$44197.50"
+    },
+    {
+        "id": "42775780-5015-44ec-8e2c-4ce16235f93a",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$45435.77"
+    },
+    {
+        "id": "9c6a9035-3d17-4500-9ee5-29acc2146672",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$61709.80"
+    },
+    {
+        "id": "af60819c-a649-4b82-a0c4-2dcb74759e9a",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$43180.32"
+    },
+    {
+        "id": "df4d39ec-0e1b-464e-970f-0cf6975b8372",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$59755.97"
+    },
+    {
+        "id": "e5bc95bc-1c8d-480e-8aed-fe6c57547761",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$61337.82"
+    },
+    {
+        "id": "680387a3-d2e7-4f75-a886-855da30e212e",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$18770.09"
+    },
+    {
+        "id": "7e4aee58-d6bc-4e82-b2b4-b6330ff97228",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$9319.10"
+    },
+    {
+        "id": "8960bc4b-85a8-4e9f-b539-2cdc6654d729",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$44103.66"
+    },
+    {
+        "id": "a8878f7d-9dae-4f48-a3f5-a866f4db1a5c",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$16864.36"
+    },
+    {
+        "id": "81aa7670-9884-4af8-a9d1-8b76c5a7664d",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$70236.04"
+    },
+    {
+        "id": "7fd056fe-5acc-4081-927c-7f503efd3a4d",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$78452.54"
+    },
+    {
+        "id": "cc91a5ee-f4bc-48b8-9eb4-c1ba54730d93",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$9525.29"
+    },
+    {
+        "id": "f6d979b1-5a7e-4562-b82a-00e3f5378583",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$48691.16"
+    },
+    {
+        "id": "f7160817-8e80-42db-a768-5d5b5659190b",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$55182.84"
+    },
+    {
+        "id": "794837a1-cb53-46b7-9738-8ec4446d1666",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$34446.89"
+    },
+    {
+        "id": "e9d45cdc-489d-4700-9654-f0d19dd0db2b",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$40806.75"
+    },
+    {
+        "id": "596f7140-d52c-465c-aaa6-93455c296a1e",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$71483.56"
+    },
+    {
+        "id": "35355389-36d7-4d7a-96d5-1e4e12a1591d",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$25486.51"
+    },
+    {
+        "id": "45bbbd68-5908-4c62-965a-3e3f94d6d34e",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$50894.90"
+    },
+    {
+        "id": "1e754c04-7882-4e38-8995-c500c8b4444e",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$49958.22"
+    },
+    {
+        "id": "2843b670-8ec0-4069-bf7e-2988183cc9b9",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$20287.27"
+    },
+    {
+        "id": "a389029e-da55-46bf-8be8-93c393ed91f8",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$72701.51"
+    },
+    {
+        "id": "c6b9391c-f030-422a-83ae-c7cdfc1dc515",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$42541.51"
+    },
+    {
+        "id": "28ec5fe0-157d-41cc-9bca-c9261b393c48",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$68039.21"
+    },
+    {
+        "id": "1f477d65-1483-4aca-81cb-0f7f9f2fa498",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$75585.88"
+    },
+    {
+        "id": "851ef93d-180f-4a7d-9d55-9e610acf00d5",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$51950.72"
+    },
+    {
+        "id": "ad33441f-9a38-417a-9dce-f2e337dcc4a6",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$30507.46"
+    },
+    {
+        "id": "b6c52fb4-cb32-4c50-9828-2bfdc704a142",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$32570.67"
+    },
+    {
+        "id": "474b51d4-9a80-43af-878e-8fbb5c848e5b",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$44027.69"
+    },
+    {
+        "id": "6df3d245-d1b1-4613-9587-09bfa64816bf",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$47304.73"
+    },
+    {
+        "id": "c8462c73-03dd-45c5-8310-c30f8a01ff1b",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$32798.76"
+    },
+    {
+        "id": "c3c1ebe8-b167-4072-9267-68255492a902",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$10866.27"
+    },
+    {
+        "id": "b0bad981-36d5-44de-8d3d-9d0a71f16eb3",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$78072.08"
+    },
+    {
+        "id": "86589fad-1e69-40e7-8b37-66266c89b54c",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$75326.54"
+    },
+    {
+        "id": "e05b88fa-c14d-42c8-916f-7493a2f4acb2",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$13086.24"
+    },
+    {
+        "id": "082ff084-5b7a-4633-adc5-894bdf1b2d37",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$62287.29"
+    },
+    {
+        "id": "ce125509-6128-4336-8800-da2cd34fe19d",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$71553.07"
+    },
+    {
+        "id": "dba38a4e-dd69-4601-b05c-41173146bb98",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$8381.57"
+    },
+    {
+        "id": "dca6381f-06e5-49de-8939-a8d558207efb",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$68269.63"
+    },
+    {
+        "id": "6616431c-b076-4d2d-a0ea-a2caf7e6f85f",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$45141.82"
+    },
+    {
+        "id": "834059f3-687c-4adb-bdb8-9ad89769a13f",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$77379.07"
+    },
+    {
+        "id": "12c5c154-74e5-4eb6-a9c0-31fae0f912a2",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$47369.84"
+    },
+    {
+        "id": "664c4b6c-e4d7-4cce-b452-1c57eca38efe",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$24509.45"
+    },
+    {
+        "id": "2b768af8-280e-4a17-b405-cea8b6dd2deb",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$35918.92"
+    },
+    {
+        "id": "363af559-b3e9-4295-8682-1649d5af4f81",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$17308.01"
+    },
+    {
+        "id": "7a32f3cc-f295-4a0b-8883-acf40a58098d",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$78381.68"
+    },
+    {
+        "id": "7cd26143-9caf-421d-8368-78a27a5e79bd",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$73671.29"
+    },
+    {
+        "id": "e3985157-611f-422a-b331-c87c1ef7864e",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$29477.75"
+    },
+    {
+        "id": "c1ccde49-4026-400b-b575-86c17f5084f6",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$31082.97"
+    },
+    {
+        "id": "d5915dca-1e92-49bf-abbb-fdbd6ea19d13",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$66395.13"
+    },
+    {
+        "id": "6b4e2ffa-c4c0-4894-b566-2242091ff188",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$34734.93"
+    },
+    {
+        "id": "dd7a2740-d4d6-47df-bfae-b7a55b1e9c66",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$76025.79"
+    },
+    {
+        "id": "dcc335df-3c3e-410f-9e5a-63d6f6863f71",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$52701.77"
+    },
+    {
+        "id": "67ecb013-3bab-475d-9c94-1fa99fe754d6",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$73230.17"
+    },
+    {
+        "id": "cc474d74-5afd-471e-b950-d3ad4b8159d4",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$65965.79"
+    },
+    {
+        "id": "2060a561-cad2-4e50-866d-bc27047ee72d",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$23425.01"
+    },
+    {
+        "id": "b170139b-e79f-4bd9-a1de-5a1d0537ad7a",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$60690.19"
+    },
+    {
+        "id": "356c061b-1ffb-4ba8-b70f-5592736b6522",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$30048.75"
+    },
+    {
+        "id": "a72dae7a-1d9a-4c73-b012-8958649ae81f",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$21176.73"
+    },
+    {
+        "id": "3501bed3-00a4-445b-80b1-460e415f6dd9",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$32645.19"
+    },
+    {
+        "id": "fd410510-bbed-4c1a-a00b-a7c6b4a18057",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$40607.11"
+    },
+    {
+        "id": "0db2cd6d-3d48-4d9d-9a00-200d60cb927e",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$64758.84"
+    },
+    {
+        "id": "8722d5d1-291b-4cf4-a255-804dd3aeb18e",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$72240.31"
+    },
+    {
+        "id": "035a1442-f5f7-43a2-ade9-c6c31b3a5d80",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$61643.18"
+    },
+    {
+        "id": "6ad42989-27e0-4bc1-a6f8-ffe79537f201",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$42670.70"
+    },
+    {
+        "id": "124eb4d6-7c7f-4ddd-bd56-fd9b9f53a1b0",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$46708.63"
+    },
+    {
+        "id": "7acf1c6f-c2fd-409b-aebb-bc2fb4e83ed6",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$74352.56"
+    },
+    {
+        "id": "4c0623ae-b2cb-4a98-81fc-7311c2f0905a",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$23872.06"
+    },
+    {
+        "id": "a8afd716-6fd3-4020-9c2b-879875ee800b",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$19205.65"
+    },
+    {
+        "id": "77f1fd04-b67b-45d1-ba98-92383f69ca1b",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$78684.52"
+    },
+    {
+        "id": "6c4242a9-b2e9-432e-a352-6b3a33c225ea",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$26717.28"
+    },
+    {
+        "id": "8c9808ac-3351-4f6d-841a-5f8ccd34c9cf",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$14810.01"
+    },
+    {
+        "id": "182bcc07-26f5-4566-999a-70d300567512",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$67563.50"
+    },
+    {
+        "id": "727cac86-5256-40ac-94f1-f8565108b271",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$46751.09"
+    },
+    {
+        "id": "e2dd411e-4b37-482e-9a36-405f78ed6ce8",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$32355.23"
+    },
+    {
+        "id": "46910bda-13ff-4e6a-a08e-c5327c60994e",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$74480.15"
+    },
+    {
+        "id": "577596f4-afed-4109-82ac-fec0bed9206f",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$9902.90"
+    },
+    {
+        "id": "280c7308-5816-4c8b-a16c-7b1b9b3411d0",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$69488.76"
+    },
+    {
+        "id": "6cbce763-4d7e-4b51-bf14-6163a77688c2",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$29992.91"
+    },
+    {
+        "id": "20075c9d-094c-4926-be77-5baea6c34ed2",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$17414.64"
+    },
+    {
+        "id": "a054e1cc-c9d2-48ba-b1f5-ca7a4b563d78",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$45203.48"
+    },
+    {
+        "id": "5a47737f-2583-4282-bd59-546abdc24ac2",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$67827.51"
+    },
+    {
+        "id": "9179469f-2182-4d21-9dad-e7f444507cb3",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$55555.35"
+    },
+    {
+        "id": "aa29b25f-13af-4fb7-8c3e-73f6820b0096",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$8415.53"
+    },
+    {
+        "id": "4de13ff3-5d63-4181-8f12-43b894216f6b",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$70580.28"
+    },
+    {
+        "id": "28597228-40db-49f9-962a-68f3fcbd737b",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$79396.23"
+    },
+    {
+        "id": "a16cad91-38a5-4d71-b36c-0c6e386154d2",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$52573.77"
+    },
+    {
+        "id": "3cd3ea3b-d93d-4cf0-a442-b260eaecbab5",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$45336.59"
+    },
+    {
+        "id": "86071372-30b1-4af4-9b08-f6d7e2ce5667",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$14493.37"
+    },
+    {
+        "id": "cdf9821c-9138-4dea-8e57-cc7374bf0b51",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$28278.12"
+    },
+    {
+        "id": "a8f542bb-0d70-4a5a-9465-6ac2e5d27762",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$16996.53"
+    },
+    {
+        "id": "7979574e-3fc7-4986-8995-7013fde24f7d",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$43426.45"
+    },
+    {
+        "id": "f6ed42ce-d38d-4cb5-82a3-7c6614e52328",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$69632.85"
+    },
+    {
+        "id": "fd31cdd9-3334-4e67-b958-3c4c579155a0",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$55886.89"
+    },
+    {
+        "id": "560d29de-5a84-41a6-bcb8-529e352ea97d",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$45649.15"
+    },
+    {
+        "id": "2eb4dd6a-77e8-496a-bce4-d02a37d0d741",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$44745.78"
+    },
+    {
+        "id": "08982982-e023-4d4f-ad13-1c5c3e160c4a",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$18519.72"
+    },
+    {
+        "id": "af9309f1-cc16-4dc8-89b5-9b06e2bb4467",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$77475.28"
+    },
+    {
+        "id": "57b96759-4a88-4a0b-b137-f65a998cda83",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$34858.40"
+    },
+    {
+        "id": "aff76b14-1afe-4589-8501-8ed165125fe9",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$17452.55"
+    },
+    {
+        "id": "7758c4a4-a728-49be-ba03-dc5de5cd20fd",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$76242.23"
+    },
+    {
+        "id": "02aa08e8-ca4a-429c-a449-256ecba1a8de",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$13196.91"
+    },
+    {
+        "id": "a11bcc36-d220-465b-8ce5-be8f83b16d2b",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$10312.57"
+    },
+    {
+        "id": "e48b2d42-5f97-40aa-9878-d975e4d700fb",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$44426.50"
+    },
+    {
+        "id": "a29cd9fb-a107-4381-9d79-567c52db7e3b",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$29782.68"
+    },
+    {
+        "id": "d80a23e5-3e4a-497c-9730-e036cf7adab8",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$6118.97"
+    },
+    {
+        "id": "52bb7d1b-6c9d-4c1d-b5ff-1adcd363c471",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$74860.90"
+    },
+    {
+        "id": "8280eceb-1da8-4fe9-9dd5-a068dcbc24f6",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$33482.82"
+    },
+    {
+        "id": "e291775a-7268-441a-a22c-5bbe377f4553",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$71874.03"
+    },
+    {
+        "id": "993cd022-51f4-46b6-b912-ca0a0af7973b",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$72631.92"
+    },
+    {
+        "id": "21fc9c04-7069-4097-937e-276e8303ffcd",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$50532.17"
+    },
+    {
+        "id": "57db33f9-01a4-4245-8222-710ed042628c",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$75425.09"
+    },
+    {
+        "id": "5e5aba10-f829-4bb4-95d7-2afed2cc8fc2",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$52171.81"
+    },
+    {
+        "id": "7293041f-f48f-45a2-b2d8-d06088eee31c",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$13221.40"
+    },
+    {
+        "id": "9ad67b5c-4a30-417a-89bc-8f4709b19c71",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$21517.47"
+    },
+    {
+        "id": "f5a7c4b1-d306-48b9-b401-15640ed4d45d",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$30530.90"
+    },
+    {
+        "id": "6fd8123a-bb4d-4c7e-a4f3-13785af9fd2b",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$69916.72"
+    },
+    {
+        "id": "d4597228-6036-4c7f-87ea-227d895515d6",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$64428.01"
+    },
+    {
+        "id": "213920e0-10f0-46f2-8890-63e9f4822770",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$22439.05"
+    },
+    {
+        "id": "ca444ebf-6e7a-4a8b-ad4d-066a9b351267",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$78452.63"
+    },
+    {
+        "id": "47a150f2-c897-4df7-b7c0-3ba92a0c2173",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$11182.30"
+    },
+    {
+        "id": "9589fd5d-c6df-484f-af66-cdc79aaafce0",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$32999.39"
+    },
+    {
+        "id": "c075964a-7dcb-42c9-8b4b-eae642f899a6",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$42346.48"
+    },
+    {
+        "id": "6c408f9a-cc7a-4f2f-a306-8e61b561c812",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$42951.96"
+    },
+    {
+        "id": "c2bdd96a-f04f-4531-b0f6-3e815048cb64",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$32124.10"
+    },
+    {
+        "id": "25c62d99-a40c-4efd-a8fe-199f529e1d79",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$19640.31"
+    },
+    {
+        "id": "825c0280-a5c4-4749-9c80-43060a441f8d",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$9968.67"
+    },
+    {
+        "id": "30dca478-197f-4915-a35e-7489bc59980d",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$30573.19"
+    },
+    {
+        "id": "da38dda2-1f7e-4e22-913a-8f5bb3cc7fa4",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$15951.43"
+    },
+    {
+        "id": "dc84dd5d-607e-4186-9b1b-7f0ef238b8a5",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$59593.11"
+    },
+    {
+        "id": "888bc54c-ef14-49fe-be72-36166f82cc2d",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$62934.30"
+    },
+    {
+        "id": "78e37cb0-f906-4705-b72c-72ce2b8b8d21",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$73196.45"
+    },
+    {
+        "id": "5254ee76-12d5-4488-b00a-be5c8cbc0291",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$7795.03"
+    },
+    {
+        "id": "2f3badd1-19c2-41be-a566-1894522963f7",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$53245.84"
+    },
+    {
+        "id": "cf9e32ca-3d2e-4f21-9f6a-4a57a767f7d5",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$52171.03"
+    },
+    {
+        "id": "96dd86bb-63da-42c3-bba5-d896eaf6743d",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$51262.02"
+    },
+    {
+        "id": "aa7e63dd-0aff-45bd-a29b-e80f5872f935",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$57850.14"
+    },
+    {
+        "id": "805d3e97-17ec-4886-9ff5-a7ae25e4f6ec",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$29997.21"
+    },
+    {
+        "id": "3c5acfde-de0e-4c6f-8aca-6990cb893274",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$43999.37"
+    },
+    {
+        "id": "a5f8d7bf-6b88-47f8-9730-c90025a09952",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$6396.42"
+    },
+    {
+        "id": "147d5b78-00fa-4104-b747-ce8b00a13029",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$45523.70"
+    },
+    {
+        "id": "54f9defc-3f4e-4876-9740-459531adb33f",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$41553.35"
+    },
+    {
+        "id": "4afff736-4cc0-464f-a74f-50467b13980c",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$59120.22"
+    },
+    {
+        "id": "c5e815f2-0c0f-4edb-a87f-61e305f0fa07",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$72143.39"
+    },
+    {
+        "id": "c491e7c6-23ea-4feb-b1e7-0b7630350b4d",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$60844.71"
+    },
+    {
+        "id": "b65e9980-d88e-4495-9a1e-b35375886523",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$27008.66"
+    },
+    {
+        "id": "76be0516-e54b-47a7-9957-18389f77f824",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$37258.26"
+    },
+    {
+        "id": "7f2916b5-fd2f-4c4e-a56c-6b7ccc22cfdb",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$12204.48"
+    },
+    {
+        "id": "257ae4d8-c026-401b-a385-bd34395c7c25",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$50937.72"
+    },
+    {
+        "id": "f1bbef13-937a-40ce-84e4-1dd221895bf0",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$19745.25"
+    },
+    {
+        "id": "98373560-e197-40bb-8fd8-d8a14685219f",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$15563.16"
+    },
+    {
+        "id": "b5b3a8bb-04f0-4ebf-a8c0-a5ed4144e0f6",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$35100.11"
+    },
+    {
+        "id": "d77b673b-44c7-4877-b532-68a4f136e198",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$58366.80"
+    },
+    {
+        "id": "04f6befd-e68f-4cac-b692-fb3ae2b301c9",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$16717.40"
+    },
+    {
+        "id": "00131f5c-b02f-4725-8080-9a8db5242e86",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$6178.10"
+    },
+    {
+        "id": "e49fe5f8-49f7-4e63-a9be-2f89388cb94e",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$43325.80"
+    },
+    {
+        "id": "98924ff3-5a69-4559-a903-31dab20f894a",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$31477.68"
+    },
+    {
+        "id": "2eff3378-9b02-45b7-88f9-299e2fbff67d",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$29570.59"
+    },
+    {
+        "id": "6aa58a9d-d755-420b-a269-9b93e2db1d7d",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$20289.29"
+    },
+    {
+        "id": "9932fe47-d841-4d1a-86ad-07cd2b809363",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$18645.75"
+    },
+    {
+        "id": "35e51e5b-8a31-4fad-9230-adc92b18dbbc",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$78182.73"
+    },
+    {
+        "id": "f01749fb-b229-47a0-b1ac-0e38a7410a0b",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$5609.79"
+    },
+    {
+        "id": "2d56754a-ad8c-4eb4-bbd9-b538b39b69f7",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$31811.76"
+    },
+    {
+        "id": "c2447c44-8a64-4bc9-9c25-61bc757fee59",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$16064.58"
+    },
+    {
+        "id": "87c1f1b5-4eab-496d-ad87-da3db1e73871",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$5970.63"
+    },
+    {
+        "id": "fa74628e-ed4f-4dac-aa71-15a4df2090f7",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$59727.11"
+    },
+    {
+        "id": "5d72f24a-f302-4f07-bec5-de95cc808c7a",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$14367.21"
+    },
+    {
+        "id": "b2940f25-d870-4611-83db-bfba90c0fe95",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$63949.16"
+    },
+    {
+        "id": "5c845a93-9418-4600-b84f-63068f3a9f64",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$21475.44"
+    },
+    {
+        "id": "3bcaff6c-8ae0-4a57-b4bf-eba9c70b6441",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$13696.31"
+    },
+    {
+        "id": "955502e1-05a1-4d71-9c0b-171ca93b4ccb",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$56644.91"
+    },
+    {
+        "id": "68c30608-6ac0-4b18-9e38-8337462acd56",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$63153.72"
+    },
+    {
+        "id": "4ce1c6e1-8219-4f94-ae47-6673dc776f26",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$71274.01"
+    },
+    {
+        "id": "a4a64c2b-6627-45fb-b76f-864d9c1b4316",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$67680.20"
+    },
+    {
+        "id": "00690741-f7eb-4e2d-a4ec-6a8dd775f076",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$41827.87"
+    },
+    {
+        "id": "fdb7a1a6-fcda-4789-a4c1-54d0dccea4d4",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$78368.61"
+    },
+    {
+        "id": "75d4bc17-b8fc-41a8-807b-ff4938b69a2d",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$47900.92"
+    },
+    {
+        "id": "da0ca0c4-243d-44d9-b1f7-74544083876b",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$14533.47"
+    },
+    {
+        "id": "53e5f4c6-2d6f-4152-ae8a-b7d340f77364",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$45850.36"
+    },
+    {
+        "id": "90c7cbfb-db94-4b6f-8c87-2f025f330d20",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$69646.54"
+    },
+    {
+        "id": "72859356-59e0-4df7-9d0c-7bd8b0438862",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$14693.65"
+    },
+    {
+        "id": "ad567787-fa7d-4b76-905f-80cd36cd1d45",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$72904.33"
+    },
+    {
+        "id": "306e3e73-d013-43c9-84f8-c2277c5ab774",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$71919.15"
+    },
+    {
+        "id": "b471a6ec-da6a-4cdf-a082-f3b401840dc0",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$24906.96"
+    },
+    {
+        "id": "afec5287-bd8e-4011-a9da-a9478ef35eac",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$25603.22"
+    },
+    {
+        "id": "5eaeb1ef-8b0e-4220-8c3e-4ad6b87c83b4",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$67467.38"
+    },
+    {
+        "id": "72e28fdc-ba93-4628-9898-ca19aa37d60b",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$10678.51"
+    },
+    {
+        "id": "ed02511c-b4e8-4c6d-8824-4e2393cbe25d",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$34492.80"
+    },
+    {
+        "id": "209d9839-fb42-4664-abfd-91419e06a05d",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$32199.68"
+    },
+    {
+        "id": "20a97121-2ee8-4892-bdac-cf47615cceac",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$54974.79"
+    },
+    {
+        "id": "d591240c-6ef0-4fd9-956d-c8002be9e210",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$57158.32"
+    },
+    {
+        "id": "86c99d0d-9464-469d-8da2-5745083d81a2",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$10329.77"
+    },
+    {
+        "id": "4aa639af-88d8-4d61-8eb3-8641d4657b4c",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$47316.92"
+    },
+    {
+        "id": "328c5c4b-81f1-4894-b961-a52ab077dd8b",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$53841.59"
+    },
+    {
+        "id": "787f0067-1df1-4e61-b9b4-8aafe66a7755",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$46862.75"
+    },
+    {
+        "id": "0106ca53-39fb-42f8-b1ff-44e88695a086",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$23578.23"
+    },
+    {
+        "id": "38d4bf45-1e53-449c-8cd7-388e85a7392c",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$34475.65"
+    },
+    {
+        "id": "7bc6a133-3a77-42ec-b751-7da1fd9bf350",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$47976.96"
+    },
+    {
+        "id": "b8414546-4c01-43c7-a1bf-175b2a298e7f",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$15056.03"
+    },
+    {
+        "id": "258b7a22-8c80-492e-8af4-0f1901d40469",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$15554.84"
+    },
+    {
+        "id": "f01148d7-4c3a-47b2-b2de-78cfd65f5aca",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$41248.40"
+    },
+    {
+        "id": "eb1d6b3c-8569-49fb-be06-1f74c48c1272",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$38091.29"
+    },
+    {
+        "id": "792b355b-11a1-49b4-ab0f-882a2e965d2f",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$76060.44"
+    },
+    {
+        "id": "fb83fb8d-2314-414c-b560-501530aef0b1",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$61502.28"
+    },
+    {
+        "id": "2d5296da-3d45-4cc2-8ad9-51d3e12dcf74",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$41616.53"
+    },
+    {
+        "id": "0513951f-0605-4a0b-bb43-984bc45c6ec9",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$40623.20"
+    },
+    {
+        "id": "5087665d-1337-4ea9-8fdf-281dbf650f1c",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$29433.50"
+    },
+    {
+        "id": "73fbcd47-53f6-424a-9ed4-7c1392f68507",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$51033.43"
+    },
+    {
+        "id": "0a91dffa-040e-41d7-966b-bf4db6b4c38f",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$57742.93"
+    },
+    {
+        "id": "fcbaa4bf-c7b9-46e8-8917-93e40afbc64a",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$67689.49"
+    },
+    {
+        "id": "f21f7823-de6e-4cb2-938c-083b4278e758",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$19974.83"
+    },
+    {
+        "id": "9a096c26-0299-460c-a833-7bd43bf8c6ac",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$45580.54"
+    },
+    {
+        "id": "8c83f3f4-ee76-42cc-a5e9-92ab61ee665f",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$54433.46"
+    },
+    {
+        "id": "8b28a0b7-830e-45b1-af83-f636b6948559",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$62868.62"
+    },
+    {
+        "id": "79b9b49e-bd84-4d66-ad8d-27293cc3f7a8",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$16339.22"
+    },
+    {
+        "id": "e271bb5f-af3c-47bb-a3a1-db5d7c3e22fc",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$59148.56"
+    },
+    {
+        "id": "f3e6ad20-3254-4874-9221-ea85fcba402c",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$24583.91"
+    },
+    {
+        "id": "35a43309-7d7c-458e-82c5-25a1f5b5fcc2",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$54157.86"
+    },
+    {
+        "id": "c35f5723-7428-4308-a357-cfcc1c4afd95",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$49553.33"
+    },
+    {
+        "id": "e5035c14-4458-4614-9faa-07cdf8db3e0f",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$23960.38"
+    },
+    {
+        "id": "fff05859-9060-43a3-8d9b-d2a41bbb0636",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$70952.25"
+    },
+    {
+        "id": "221b3f16-4b35-43ad-80f3-3795f1bd607e",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$66455.33"
+    },
+    {
+        "id": "56983bda-396a-4b46-a9b9-7b67f45f8125",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$37739.23"
+    },
+    {
+        "id": "f3e9bb1d-8d69-4602-95da-ff0e50e27aa3",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$19475.92"
+    },
+    {
+        "id": "7171be03-f0c6-4d68-8a96-fe741a1dfa06",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$35998.67"
+    },
+    {
+        "id": "04691952-fede-4733-babc-8dca77de93fd",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$55841.75"
+    },
+    {
+        "id": "1a3e639a-3fbe-4b15-b7e2-052ac253ffff",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$55943.80"
+    },
+    {
+        "id": "b6376b4e-01f4-44b1-8ed9-3750d8a839b5",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$6884.17"
+    },
+    {
+        "id": "93fec27b-6cad-4662-afe8-57621da9b7d4",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$24897.03"
+    },
+    {
+        "id": "94f2acef-f273-4e3a-840c-82376a227f8c",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$68240.87"
+    },
+    {
+        "id": "b7ef116e-4fb9-4afe-876a-46959b3c57d6",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$60292.33"
+    },
+    {
+        "id": "e8aad028-9255-494b-9208-8dc9cd0527fb",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$47069.56"
+    },
+    {
+        "id": "a0ab2c6d-1b10-4443-b3ea-c310c48e8c55",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$16968.89"
+    },
+    {
+        "id": "808d5c9d-ff5f-46d8-8477-c15ae6d95519",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$53765.89"
+    },
+    {
+        "id": "1650ec45-3ec6-43eb-9629-5ae60570b1c5",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$32663.08"
+    },
+    {
+        "id": "0d742aa5-51e0-4a8b-a187-6f2c478aedcf",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$25615.44"
+    },
+    {
+        "id": "68b3fbda-21c6-43f2-b24b-b1e1c33daf61",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$28439.95"
+    },
+    {
+        "id": "8efad08e-d2af-4441-9ee2-9ca002760b62",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$10467.22"
+    },
+    {
+        "id": "4a0026c6-a822-41c9-b780-4b2679fa2e00",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$56594.48"
+    },
+    {
+        "id": "528e982b-57dd-488f-8aec-86c546b57529",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$41517.82"
+    },
+    {
+        "id": "aa0aa4e8-2c5d-4400-9ee8-39c0c8152c91",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$59748.79"
+    },
+    {
+        "id": "f1f07b12-c0c7-4d4c-80df-2d7a027abf67",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$74688.92"
+    },
+    {
+        "id": "c464719e-5aeb-44f5-aa22-ec7378375c67",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$23117.63"
+    },
+    {
+        "id": "c40bb14f-d6a6-4b8e-93f0-c5bfa177d629",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$25874.60"
+    },
+    {
+        "id": "6f9d61ac-b939-4dff-a1c7-eae1f2245de3",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$52020.72"
+    },
+    {
+        "id": "3fef8fe4-2d46-47ee-8198-873fd3acd086",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$12908.84"
+    },
+    {
+        "id": "58ba6a36-8b9f-4d2b-8e08-85d5904c8aa1",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$22937.49"
+    },
+    {
+        "id": "e3652adb-edc5-48e6-a14b-8a605684a87a",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$28790.23"
+    },
+    {
+        "id": "b64b7877-59b4-4056-804d-31d5bbab11b6",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$9329.98"
+    },
+    {
+        "id": "c7ca6c79-db7a-4e83-abf4-3d94e40123f0",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$48379.84"
+    },
+    {
+        "id": "5ea454ba-18fd-43a5-b50b-ca2567fa91c0",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$7318.93"
+    },
+    {
+        "id": "074c62d5-87c8-433b-ab43-5d272e71a097",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$67756.27"
+    },
+    {
+        "id": "c8bf100c-d1af-4830-9689-63f100086944",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$26944.13"
+    },
+    {
+        "id": "5c3ec26f-c297-4d98-a397-2be116c4fac7",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$54001.89"
+    },
+    {
+        "id": "e658c999-311e-4e69-9135-87af30e92837",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$31140.09"
+    },
+    {
+        "id": "77a91523-814a-46a2-8fea-a58c29a987d5",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$34060.42"
+    },
+    {
+        "id": "661a2780-53b1-4817-b6ac-d5b6bb990cc1",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$77929.43"
+    },
+    {
+        "id": "d8573720-afab-49d0-8679-93f266838b07",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$37998.90"
+    },
+    {
+        "id": "2d625014-f9aa-4e3d-a397-f6447d0c68ef",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$39446.48"
+    },
+    {
+        "id": "ecd0ca98-d5b5-453e-82d0-1d7a97d82bb6",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$31573.19"
+    },
+    {
+        "id": "b7e5d7c8-4fef-4f8b-a965-24ab300e6332",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$62164.23"
+    },
+    {
+        "id": "d48bed7a-a442-4151-8016-8d3c6af23470",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$46512.84"
+    },
+    {
+        "id": "33fb53c3-e35e-433e-8046-c407fcb80db6",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$64633.74"
+    },
+    {
+        "id": "08781630-7ba4-42d3-b99b-b1db275f8d9d",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$77256.12"
+    },
+    {
+        "id": "276d98e0-4d28-4860-b1b2-ed724aa0cad7",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$79176.07"
+    },
+    {
+        "id": "df9b7a2e-9a31-40da-a80a-dcc29d555dc9",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$69574.44"
+    },
+    {
+        "id": "ad298cba-96b0-4464-9007-553be21ac857",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$74458.54"
+    },
+    {
+        "id": "1b92bc64-458b-47a6-9131-150db929685e",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$27997.24"
+    },
+    {
+        "id": "59b1c3be-a084-4356-96a5-d1d668383994",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$29413.80"
+    },
+    {
+        "id": "267d1ac2-42bf-4bd7-a9be-53a59d0ac5d7",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$12498.34"
+    },
+    {
+        "id": "ef9a22ee-822f-4b01-83cb-486569ea9b31",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$18290.45"
+    },
+    {
+        "id": "2b415839-714f-4756-a462-7811c111b879",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$24355.34"
+    },
+    {
+        "id": "cbda9c2a-82b2-44bf-a339-e7b86a52a7ca",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$47509.69"
+    },
+    {
+        "id": "883a832a-6545-43a3-8351-498257b3d2ae",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$34123.92"
+    },
+    {
+        "id": "f0a89dee-9830-4334-b9f8-1a8f6c699117",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$38427.09"
+    },
+    {
+        "id": "d8d31cad-a832-45c0-b66c-54b1a5f809f5",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$7549.61"
+    },
+    {
+        "id": "83f01642-7101-4f70-baa0-7f53b07f0630",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$46893.88"
+    },
+    {
+        "id": "3d170e3c-737f-47a6-9790-740255dc0b38",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$62533.95"
+    },
+    {
+        "id": "477731e2-56d2-4be0-b57d-c64e36d6b7d3",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$58337.25"
+    },
+    {
+        "id": "a54f7a5e-bbc2-45bc-adc6-d9f1bf5ef951",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$7531.93"
+    },
+    {
+        "id": "1c2c59b0-3b86-4065-9b08-5e5152f94ffe",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$21422.67"
+    },
+    {
+        "id": "1cb7e61a-cf25-42d0-bea0-1313b2d074bf",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$54802.80"
+    },
+    {
+        "id": "c624e1e9-f625-437b-94c4-df000e0bfe14",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$66852.53"
+    },
+    {
+        "id": "5e287868-0c51-40ca-8ef0-7a52569ae028",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$77020.83"
+    },
+    {
+        "id": "696af6b5-de42-49aa-8a44-7bd0e7ebcf70",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$63251.51"
+    },
+    {
+        "id": "dddc53a8-4e01-4bfe-80db-c70202deaa66",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$72839.00"
+    },
+    {
+        "id": "33f0b6ac-bb3e-4303-a07b-71afea7128d3",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$49493.09"
+    },
+    {
+        "id": "0f003381-08f0-4766-bc62-d59e26657288",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$11462.86"
+    },
+    {
+        "id": "b88539e1-8b54-4f93-9596-2fcae0728dcf",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$45974.64"
+    },
+    {
+        "id": "96be33ad-33b5-4c99-9ffe-22ee41e7d2c3",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$54079.81"
+    },
+    {
+        "id": "39bd3338-b24c-4c8b-b90a-9e8c22dfb0fc",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$52063.48"
+    },
+    {
+        "id": "21200d83-f92a-4d3b-ad6b-889951a5b69e",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$52681.46"
+    },
+    {
+        "id": "f39d4a29-92ea-41fc-85d9-bfb1b084c743",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$61189.74"
+    },
+    {
+        "id": "95d26fdf-6683-4d85-9703-a9bbfcf52c67",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$45241.83"
+    },
+    {
+        "id": "30d07af6-f5a8-40ab-bbd2-5f3f0857f865",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$68574.62"
+    },
+    {
+        "id": "c1fd2f2b-6c22-482c-b9e2-ff38d5fa6f28",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$77663.62"
+    },
+    {
+        "id": "80d61788-5239-4a59-911d-ef321e082613",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$29012.76"
+    },
+    {
+        "id": "5e0b993f-cedc-42a6-904b-0dcfe22bbc45",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$16355.42"
+    },
+    {
+        "id": "0fc2634e-5fc8-4a0d-86b2-f94f46bf6b6a",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$77805.26"
+    },
+    {
+        "id": "4177fa2c-aea1-47f1-a495-3067303e35aa",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$47111.16"
+    },
+    {
+        "id": "2ef63d9a-7148-4cfd-8401-27b4a751dd1c",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$42335.93"
+    },
+    {
+        "id": "abb99f23-2866-49c1-8b22-b894732b1563",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$12781.04"
+    },
+    {
+        "id": "42be96ac-3a58-4e88-a1a4-b19b8e6bd456",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$72280.99"
+    },
+    {
+        "id": "6293204e-e02f-4634-bae4-223110639d21",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$6863.38"
+    },
+    {
+        "id": "e921bf44-55a7-42b9-a053-b74a7bab7d53",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$52502.91"
+    },
+    {
+        "id": "d01cebd8-7e9b-4a9f-bc17-80bc027acbad",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$18844.29"
+    },
+    {
+        "id": "3e6c7b51-53a2-434a-bb31-07f965bbef96",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$19619.17"
+    },
+    {
+        "id": "0387d9a4-b2d0-47d3-888b-cfe79f2a7262",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$52857.33"
+    },
+    {
+        "id": "531088fc-9d44-4fca-8527-8f50561b7d96",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$38407.81"
+    },
+    {
+        "id": "431e470b-9ace-4fa7-827a-af8c70996218",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$20113.12"
+    },
+    {
+        "id": "6ed638e6-2c2d-4fbf-922b-b39113ff752b",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$9348.63"
+    },
+    {
+        "id": "3dd76d5c-6348-4de9-a0c2-97c05b21b9d4",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$18992.62"
+    },
+    {
+        "id": "182d7571-18c1-4969-a969-e23a5e00a28c",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$45899.71"
+    },
+    {
+        "id": "e3e6ea42-9d24-4db2-8980-c222dbc1d125",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$33422.98"
+    },
+    {
+        "id": "a1106f88-771e-441d-abc3-90ec56573a9e",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$7093.39"
+    },
+    {
+        "id": "9f58d9e3-c021-4c09-8ac1-96667485e0f9",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$17011.80"
+    },
+    {
+        "id": "6f5fad1f-0b60-40bd-809b-0a95595a9e4e",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$43585.81"
+    },
+    {
+        "id": "37605c5e-ef62-4c21-89fe-a13532a5336e",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$59272.65"
+    },
+    {
+        "id": "a3e40367-c277-4782-8f9b-bb6a8175057d",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$55188.73"
+    },
+    {
+        "id": "00b2038b-e46a-4808-8fee-8ef54123f0ef",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$63042.37"
+    },
+    {
+        "id": "fbc3c50e-8594-4ff3-af97-5608cdff3d3b",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$47349.70"
+    },
+    {
+        "id": "b4fe39f3-166b-4ff2-a3eb-2a4da5d33e21",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$49747.55"
+    },
+    {
+        "id": "e16dd2d3-d6f2-444d-9246-f630761dc809",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$71052.16"
+    },
+    {
+        "id": "98cc65c7-b729-49ff-9010-59c33e00f122",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$43685.18"
+    },
+    {
+        "id": "becf87b7-d8bc-4987-98e9-8b7ca78aca75",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$77956.21"
+    },
+    {
+        "id": "03a60a46-cb87-402f-b07f-91f6f6dd2a32",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$13594.34"
+    },
+    {
+        "id": "67aed795-9c1d-4e7f-900e-c62ad09ccf71",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$32859.63"
+    },
+    {
+        "id": "5d2bd6c0-f820-46c9-bc38-66895f1b0cde",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$35960.75"
+    },
+    {
+        "id": "0e850819-2042-4a1d-9a8f-138a45edeed0",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$12955.75"
+    },
+    {
+        "id": "fc1201d4-b598-46df-85ed-0985e581ef21",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$5172.89"
+    },
+    {
+        "id": "f705de5f-96a6-4166-836f-d16d2f2f3725",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$39473.08"
+    },
+    {
+        "id": "ea554057-9283-4a9f-886a-d99a83b43804",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$59527.91"
+    },
+    {
+        "id": "acf03278-ae77-43ab-91ce-fd812cb0e614",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$11360.87"
+    },
+    {
+        "id": "52c2fc63-3341-4cd7-aea3-d7e5c2a5c99d",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$34522.42"
+    },
+    {
+        "id": "bf041ba2-cfa7-4211-8786-a0275d16b471",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$72106.91"
+    },
+    {
+        "id": "a952ce12-d142-4288-9187-2e9428143237",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$36036.18"
+    },
+    {
+        "id": "4ccce782-28d2-46f8-822b-059326ee7549",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$39995.21"
+    },
+    {
+        "id": "b6fd4cf3-4708-43e9-908c-3d92778055bf",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$66813.11"
+    },
+    {
+        "id": "8bfcf4fe-5b69-482f-87e4-d42d5593e14b",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$16274.58"
+    },
+    {
+        "id": "6a582bad-73f7-4d51-8f91-e76109da13eb",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$43958.53"
+    },
+    {
+        "id": "66705812-b23f-4b3a-a60b-fd4deb75ca14",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$46428.89"
+    },
+    {
+        "id": "51566dca-fdd0-4c5e-83f4-95e0bb572a61",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$34857.29"
+    },
+    {
+        "id": "5d390f5f-7455-4252-906a-0b3e7e0e1905",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$7240.12"
+    },
+    {
+        "id": "123efdf6-d6c2-4ad3-a124-2e68f82e7503",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$67369.11"
+    },
+    {
+        "id": "83efe588-75a2-4c79-9df8-7c5a88c23c81",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$79942.22"
+    },
+    {
+        "id": "d3f1845b-d2e3-4f84-af7f-709aeecccce7",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$73740.53"
+    },
+    {
+        "id": "4892dc4c-26f0-47f7-88b9-b1ad907cd50d",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$31873.56"
+    },
+    {
+        "id": "34da25b4-ddef-4fa6-b5e2-6d039fdb4f37",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$52985.94"
+    },
+    {
+        "id": "f9a8a1c3-8594-4d68-ac88-6adf00d8419e",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$32091.07"
+    },
+    {
+        "id": "387eb8db-13b7-454d-837d-eba4b8c95a95",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$28623.98"
+    },
+    {
+        "id": "cf720168-97cf-461d-91de-859c80a3dfad",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$67176.26"
+    },
+    {
+        "id": "77654b55-5c76-49c0-871f-ecd65ac76cbd",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$63508.14"
+    },
+    {
+        "id": "df85da8d-d5e1-4fdc-9974-4fed9afad915",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$10171.26"
+    },
+    {
+        "id": "b14723e1-6ca2-4fc8-a8f2-d8f3b6811fa9",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$25742.07"
+    },
+    {
+        "id": "175874e8-5d20-49b8-9d6e-690ba4da61b6",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$31421.08"
+    },
+    {
+        "id": "e2c227ef-c333-4fc9-b7f6-1ecb6a71121a",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$56465.83"
+    },
+    {
+        "id": "05286965-08dc-47d0-b94a-ffee6f2cf8a9",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$57022.22"
+    },
+    {
+        "id": "bcdd9100-0100-45a3-9d92-c4073e00d6b0",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$30954.60"
+    },
+    {
+        "id": "4631a4f0-f945-47c0-9d35-6ca9b15bf80b",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$9923.61"
+    },
+    {
+        "id": "9120fc15-ae3b-4fca-b47d-b45062e3ba07",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$53387.96"
+    },
+    {
+        "id": "61bbb510-b578-4590-ae50-36e8503be213",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$12383.58"
+    },
+    {
+        "id": "e312de5a-cc3f-4ff6-84e1-a172fe58cfc8",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$52357.05"
+    },
+    {
+        "id": "1a75db56-5413-4834-8875-d4f17b3e1446",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$74501.41"
+    },
+    {
+        "id": "a620e97d-9bf4-4da7-b456-ec5c7fc5f810",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$16701.29"
+    },
+    {
+        "id": "ec37c269-8f70-471f-bb7b-3fad2f6bb4ed",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$12149.62"
+    },
+    {
+        "id": "cea16b43-e8a0-4008-9083-0a4945c158a6",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$12072.19"
+    },
+    {
+        "id": "d43d42cf-7264-4b41-ab26-c1ed58293c09",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$5140.66"
+    },
+    {
+        "id": "3570de97-3b54-44ee-abbf-e0ef7d21aaa7",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$6223.15"
+    },
+    {
+        "id": "2a719bcd-55ed-401d-84e3-954431614137",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$19516.40"
+    },
+    {
+        "id": "139b6281-b66c-4064-9547-a49fc4befd16",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$27856.49"
+    },
+    {
+        "id": "4e2957b2-d463-4562-9ab4-835957523901",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$30361.91"
+    },
+    {
+        "id": "4d2ddebf-b257-4afd-ba84-1042b27e5ab4",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$67424.04"
+    },
+    {
+        "id": "b454453a-249d-4daa-ad6b-5568d9084764",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$37418.87"
+    },
+    {
+        "id": "a9736cd5-8de5-4333-9b58-5b8f6b497445",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$13103.11"
+    },
+    {
+        "id": "54f6dd50-e4ec-44ce-b4b7-93cec03ceeee",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$22493.01"
+    },
+    {
+        "id": "bd70d856-1db8-47ee-b480-60feba917560",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$32561.56"
+    },
+    {
+        "id": "e129d52e-14d8-4249-966e-6cf812790edb",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$45362.92"
+    },
+    {
+        "id": "75fe6ad8-44ce-425b-a551-6b27468a581b",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$35617.66"
+    },
+    {
+        "id": "d288a483-95ae-4167-86cf-b7af0983bdba",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$19327.74"
+    },
+    {
+        "id": "1c09533e-feb0-42a2-8dc5-d86b87221479",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$76821.23"
+    },
+    {
+        "id": "98f15269-6118-4d19-873f-246482aaf162",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$53301.14"
+    },
+    {
+        "id": "1dc07551-6049-42a8-b3aa-a0d2a1ed09f9",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$74059.30"
+    },
+    {
+        "id": "ccffd731-f33a-49c2-b3aa-ea1bfd48d8a6",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$32416.21"
+    },
+    {
+        "id": "c46bb820-ec86-4fbd-8de8-b3bff974c9b0",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$7398.59"
+    },
+    {
+        "id": "24c82431-b9f7-4565-af1f-7fc1ebcaf789",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$71511.37"
+    },
+    {
+        "id": "a4bbcbec-9872-4884-a838-cd136a24ee44",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$36113.73"
+    },
+    {
+        "id": "9f2b02f5-092a-4f71-a724-346544895131",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$72394.77"
+    },
+    {
+        "id": "62b715f9-b36d-4344-8a53-8c3b0c56c758",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$66615.84"
+    },
+    {
+        "id": "32c732d4-b225-442b-a3d8-359c197258fe",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$73675.17"
+    },
+    {
+        "id": "6f346d41-4609-48a1-88a9-6622f1e5dde6",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$5633.64"
+    },
+    {
+        "id": "9d3e8833-2f8d-4b79-906f-3707d1a42b65",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$15058.85"
+    },
+    {
+        "id": "b51623a8-31c8-4f71-a4ff-7f59ded4795c",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$5497.34"
+    },
+    {
+        "id": "9104b1ce-671a-4bf1-b86c-b805d1939ab0",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$57031.27"
+    },
+    {
+        "id": "451da920-d6ef-44a5-834b-c452637cf0a1",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$22842.56"
+    },
+    {
+        "id": "95290c3b-6bf1-4e38-bfe8-bb1e9ac5785a",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$8705.68"
+    },
+    {
+        "id": "54cce87d-71c9-4481-886a-b9c887bf6a2f",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$62065.45"
+    },
+    {
+        "id": "f4dcde55-e5d4-41c9-a1df-84614f4d49a3",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$63003.98"
+    },
+    {
+        "id": "1096186e-daf1-490f-aa15-0bdeb236cb54",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$40147.66"
+    },
+    {
+        "id": "1f43d127-0161-4d56-a7cf-326b7f290ce7",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$6855.40"
+    },
+    {
+        "id": "df6577e7-374f-4f76-9782-d21283386216",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$75398.31"
+    },
+    {
+        "id": "5c045a87-2197-491e-be6c-23b36c1fc5ec",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$31196.94"
+    },
+    {
+        "id": "e9e8c149-1c10-448e-a8c6-8447c8f68740",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$21234.33"
+    },
+    {
+        "id": "2ac6d2e4-3d44-45a1-b069-e92648615514",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$50244.68"
+    },
+    {
+        "id": "fb2bd147-27e5-4c7f-899a-ad5754120692",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$32624.10"
+    },
+    {
+        "id": "e493228e-07c1-4a9f-9fe2-7272341c918c",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$5384.98"
+    },
+    {
+        "id": "045b1a83-c367-4925-a210-a8856f3211b2",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$42402.26"
+    },
+    {
+        "id": "b5e8fe55-6e90-44e8-8ffb-869108541632",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$29587.25"
+    },
+    {
+        "id": "e37ee3d4-2d03-4cde-b3fd-e066b42b84f7",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$56376.23"
+    },
+    {
+        "id": "0a78ffe0-b4e1-4902-bdfc-8250427fc740",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$14985.81"
+    },
+    {
+        "id": "bbe81619-ee32-44a7-a106-bca6a2af0aec",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$27960.34"
+    },
+    {
+        "id": "49ba1b90-1327-4f9f-8408-b651da390532",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$61546.38"
+    },
+    {
+        "id": "17ce0174-7c94-478c-ad45-4c8a3ee71fd2",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$76283.82"
+    },
+    {
+        "id": "dede6c4c-30a1-4cc6-80e2-817510727e35",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$36603.59"
+    },
+    {
+        "id": "5c7bead5-c442-40b6-96fd-c66607decd6d",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$41269.22"
+    },
+    {
+        "id": "bf502c12-74f2-48ee-b0e8-50622eb2ef4a",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$9911.85"
+    },
+    {
+        "id": "8a25be59-b69d-4fa5-b0d9-5fb6ec3ff329",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$45693.85"
+    },
+    {
+        "id": "346f58a1-9d5e-45b6-9258-83f475cfe9f5",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$58993.65"
+    },
+    {
+        "id": "cfac6c81-69bd-4567-b07f-e4aa2528682d",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$74034.77"
+    },
+    {
+        "id": "47954a38-17ab-4d0e-8ba6-bddcdd60d74d",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$61685.03"
+    },
+    {
+        "id": "7efefefa-3182-49ad-a4da-5f9ede18a117",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$77656.68"
+    },
+    {
+        "id": "7da453ca-f747-4659-86cf-104233b1a73e",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$6752.62"
+    },
+    {
+        "id": "1d3780ea-f37d-40b0-bbf2-126dc74f90a4",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$19565.97"
+    },
+    {
+        "id": "17f225c2-cb18-4ed1-93d7-8f07977ebc45",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$33075.88"
+    },
+    {
+        "id": "1a86b329-c4fa-4312-a4aa-f4670a424be6",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$50886.92"
+    },
+    {
+        "id": "8907ebb4-78ec-4416-be57-3d82e9c4d127",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$46592.15"
+    },
+    {
+        "id": "d94beb9f-ab3b-428c-b32e-e55108f12298",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$29411.67"
+    },
+    {
+        "id": "08f49e56-5f66-49d2-bc88-c2b585f70b61",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$40854.21"
+    },
+    {
+        "id": "f1898f99-9c7d-40c4-8209-3285d27d66f2",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$37583.47"
+    },
+    {
+        "id": "1ba536ba-0bb9-4457-8225-5a0bcd21e64a",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$57735.26"
+    },
+    {
+        "id": "c5d8a19c-7be4-42bb-988d-5560d2f41a0c",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$39452.53"
+    },
+    {
+        "id": "88ea1aee-c1ad-4c79-95bf-fc1343959b57",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$34093.86"
+    },
+    {
+        "id": "877f2054-8228-4170-80e4-4d77e6255dc8",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$17562.17"
+    },
+    {
+        "id": "6c7dadd7-e925-47cb-ae67-3116e05e2983",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$46096.39"
+    },
+    {
+        "id": "7debadc8-9af4-4571-b83e-df41657ed8b8",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$61220.29"
+    },
+    {
+        "id": "be2d9124-77f9-4d4d-8561-798b04782ae9",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$43678.85"
+    },
+    {
+        "id": "67c09c48-cb22-43af-91f5-98b7468a4154",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$33088.52"
+    },
+    {
+        "id": "a999c7ce-b855-4dd1-a690-272839dfff10",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$47151.07"
+    },
+    {
+        "id": "aaa622d3-8821-468b-b813-b9e91d4f6fa0",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$8800.75"
+    },
+    {
+        "id": "7b88d853-ec43-4211-aceb-b7013d092d68",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$53643.25"
+    },
+    {
+        "id": "83629ef9-96d1-403c-bffb-9c6b194f6a64",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$60624.97"
+    },
+    {
+        "id": "6ab7d6f9-96a0-44f1-9513-88801f90f6fb",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$22180.50"
+    },
+    {
+        "id": "81ad928a-bf07-4a47-8d3d-cff361505122",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$44391.59"
+    },
+    {
+        "id": "f8e673ee-9337-4202-a28d-d3f1b12430f7",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$72271.47"
+    },
+    {
+        "id": "716a1c2d-0ca7-483c-9dda-7e9b2b78c353",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$70691.46"
+    },
+    {
+        "id": "34b21095-6912-48a5-aecb-47843f12e34a",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$63036.08"
+    },
+    {
+        "id": "06797991-c51d-482f-a9e8-1c8c6de365a0",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$62728.77"
+    },
+    {
+        "id": "04c2a3ff-a0d1-4ef0-be68-85080d773eec",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$24242.33"
+    },
+    {
+        "id": "14199584-855f-480f-9f58-8b19948b119a",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$44336.72"
+    },
+    {
+        "id": "bf2232d4-d6cc-4e9c-b50d-a72f3ead2631",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$55071.78"
+    },
+    {
+        "id": "edc321ce-d7b6-47b5-aa90-ced81901c799",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$71744.79"
+    },
+    {
+        "id": "97fdfee7-a307-446b-b87e-d258e1576cd2",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$25802.33"
+    },
+    {
+        "id": "709f7d41-5f42-42b3-bfb7-c9d93057906e",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$5712.75"
+    },
+    {
+        "id": "5c7f3d7d-2e18-41d2-a586-1df0a9c03097",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$37678.51"
+    },
+    {
+        "id": "7402b7ec-4815-4ac8-af66-59672ca2b1cd",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$39470.94"
+    },
+    {
+        "id": "595f0d82-40d6-4495-ba45-1cbb52cfb2a2",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$63852.71"
+    },
+    {
+        "id": "33d56ef7-4a5c-4d5b-ad72-93886ddf317d",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$28983.58"
+    },
+    {
+        "id": "33d0868b-f4f3-4159-be74-41c2a8e42d7c",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$52906.85"
+    },
+    {
+        "id": "6795f960-d847-43e2-80a3-f145a9118188",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$38217.35"
+    },
+    {
+        "id": "9fd42d7b-028b-49a0-ad9f-164598060640",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$72047.72"
+    },
+    {
+        "id": "a391a862-fef4-4f10-a2b7-0b9ab39cec7f",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$35009.93"
+    },
+    {
+        "id": "2e7f0cae-f76e-4a56-87d6-9e916ea879df",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$39015.21"
+    },
+    {
+        "id": "e4289eeb-4035-4ea1-a46f-a4a3ea710748",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$75714.26"
+    },
+    {
+        "id": "f90584aa-4302-482d-8dea-4157908db76c",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$20094.09"
+    },
+    {
+        "id": "2c931c8c-8eaa-4a46-a850-13c8ef8abdd8",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$7389.40"
+    },
+    {
+        "id": "83887159-3794-4dc8-bba7-77a629c5e55d",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$23478.51"
+    },
+    {
+        "id": "3753b1cf-4bbf-477a-b5c5-739277b07416",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$72613.91"
+    },
+    {
+        "id": "a193f721-0194-4367-bc57-4ca25a54a349",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$22223.60"
+    },
+    {
+        "id": "330be3d7-d198-480a-9a5c-f558910ca3d6",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$12757.97"
+    },
+    {
+        "id": "96df08e3-33e8-49c2-aff2-76d2db935d52",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$71122.98"
+    },
+    {
+        "id": "d8f5d338-eae0-4cd9-b0f3-7ce82ca59887",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$11947.22"
+    },
+    {
+        "id": "ebfb17d0-0144-4b7a-b047-e298c985584a",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$20003.18"
+    },
+    {
+        "id": "5064a512-78ac-4ca2-880e-25300e321996",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$23954.45"
+    },
+    {
+        "id": "5e738a0d-fb62-4527-9353-1582d87e8f26",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$38865.63"
+    },
+    {
+        "id": "b0fb1649-8655-4237-94e3-6e1064735f92",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$45914.05"
+    },
+    {
+        "id": "67dfa25e-cadf-41a0-a977-03ee9f6640a5",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$63993.24"
+    },
+    {
+        "id": "50f68b7e-9716-4210-93f1-533b3d2022c0",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$44406.40"
+    },
+    {
+        "id": "c938e17e-9e37-43f2-97da-530f38f5eac2",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$26839.17"
+    },
+    {
+        "id": "720c242e-34d9-4d0d-8eaf-27c3ff9e3c1e",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$69735.55"
+    },
+    {
+        "id": "88d4e49a-9271-4ebb-8dbb-f8b571f5e0dc",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$5210.06"
+    },
+    {
+        "id": "1738e267-b112-4585-a3dc-64819029dc54",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$60290.11"
+    },
+    {
+        "id": "c56b8da0-f4db-47d4-b0ba-095e11575fd1",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$32746.88"
+    },
+    {
+        "id": "abb62699-c374-43d0-9c9f-a36762d35a16",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$71846.52"
+    },
+    {
+        "id": "2511e36a-2688-4dc5-be88-7fceff98fdc0",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$59579.89"
+    },
+    {
+        "id": "7581646e-90fe-4f47-8c40-c86d4ecf9f0d",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$49267.17"
+    },
+    {
+        "id": "e3611e3e-7bd1-40f0-82b8-46d0fc642789",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$34637.80"
+    },
+    {
+        "id": "402e984b-bf3a-43fe-b664-7a129fcdd1b3",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$78767.28"
+    },
+    {
+        "id": "b4514815-0df8-4685-85b0-665acc523319",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$17731.85"
+    },
+    {
+        "id": "1cd6082e-42a8-4d20-ae0d-a687a2a01b66",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$49354.40"
+    },
+    {
+        "id": "1d166e83-3141-4da9-bc44-b2f1cccd3037",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$31482.61"
+    },
+    {
+        "id": "ce6ee0a7-db6c-4382-804c-c5eb9a3af1b9",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$8802.32"
+    },
+    {
+        "id": "15e2c0d2-9804-4f40-a809-104c2d821487",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$70580.04"
+    },
+    {
+        "id": "869dd6f9-6d1d-4fce-bb2c-93637e9596b2",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$5076.98"
+    },
+    {
+        "id": "121e7a36-4638-47c8-b8f7-857d8f9630e7",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$76388.23"
+    },
+    {
+        "id": "016679ce-77d9-4492-902f-5dc1b9f89a79",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$41945.51"
+    },
+    {
+        "id": "d1505377-22a7-4ae3-8c6f-00f95e6d9902",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$56062.16"
+    },
+    {
+        "id": "bea1145b-6378-425a-a363-355be44fe4a4",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$48515.17"
+    },
+    {
+        "id": "25e858c1-63ae-4f6e-8cef-1f1d561e904a",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$35288.99"
+    },
+    {
+        "id": "d09221da-cd86-41a3-bea8-0a3bf0871bb2",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$10286.86"
+    },
+    {
+        "id": "f5b549c1-90b8-4ce7-9737-7fde46ad3ad5",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$11427.53"
+    },
+    {
+        "id": "9dbfa2fc-1f85-4c4b-b9cd-12b16ad1e999",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$31050.54"
+    },
+    {
+        "id": "89af35d8-8bc6-4217-a063-cd065266b449",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$75522.28"
+    },
+    {
+        "id": "0348d23b-e6e9-42d4-953d-742dd1b57772",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$66776.43"
+    },
+    {
+        "id": "8f4f1b0d-208f-4b6f-8c71-e1b075da4e5e",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$74570.46"
+    },
+    {
+        "id": "eeb9c84a-8d0e-4609-99a0-bffe9a10230d",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$63694.61"
+    },
+    {
+        "id": "4fca6beb-daa7-4f07-8658-eae957d9a1a8",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$24141.09"
+    },
+    {
+        "id": "4a5bc2c9-7472-4d0c-ba89-862f4a15a4f0",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$19178.17"
+    },
+    {
+        "id": "63f8e30b-4cfd-42ea-bba1-0a8e42717aa4",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$33640.95"
+    },
+    {
+        "id": "d5c23473-a1c8-44c3-ad1f-67e513be4dcc",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$23296.30"
+    },
+    {
+        "id": "b5018ec9-4c28-4463-87af-7a42c9fabde4",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$70202.97"
+    },
+    {
+        "id": "419ac89d-4e23-41a5-8031-81a5ba314c0e",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$15211.45"
+    },
+    {
+        "id": "bb184a2f-2096-439d-8b5b-3de2e100e5bd",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$61042.24"
+    },
+    {
+        "id": "f3bbe5f4-2c12-4991-9404-c4af80131e52",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$60066.57"
+    },
+    {
+        "id": "759f9385-0c6c-42a9-a18f-076c55eba1e0",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$43656.41"
+    },
+    {
+        "id": "85583af4-1612-4038-b192-20a3d9cf58e9",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$43805.17"
+    },
+    {
+        "id": "463d5ec5-572b-4698-8e3c-5f49016479c4",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$41459.13"
+    },
+    {
+        "id": "e77b34f0-c806-4bc2-8756-7e620d9430e8",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$37471.90"
+    },
+    {
+        "id": "e9422627-8e99-49d6-83d9-55527b7b7cba",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$75994.32"
+    },
+    {
+        "id": "3972704d-6990-47bd-ad8c-9fa96fda5179",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$62956.37"
+    },
+    {
+        "id": "367a3238-e302-4bc2-940c-33546a44bf0e",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$51210.98"
+    },
+    {
+        "id": "856401bc-7179-45c0-b1ce-8534af1d90c7",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$39918.42"
+    },
+    {
+        "id": "ba057525-c8f9-4b75-a4ed-9d54d065494f",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$72465.07"
+    },
+    {
+        "id": "5d3b1e6a-8c32-442c-bc07-1cf7237c84d1",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$41953.82"
+    },
+    {
+        "id": "61e7e93e-4444-4b60-8ca7-a09c4c9848fe",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$54643.60"
+    },
+    {
+        "id": "781d79d4-b1c9-4894-9f42-da619a54449e",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$14703.08"
+    },
+    {
+        "id": "4b9c358e-160d-4de4-b867-f13db820242a",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$13337.78"
+    },
+    {
+        "id": "a278e0c1-f3be-45b7-9373-bf175f469755",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$31313.04"
+    },
+    {
+        "id": "84eb5a2b-3348-4ab4-8959-39e4de89b2f9",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$67635.43"
+    },
+    {
+        "id": "47fba550-32c4-4da0-a62f-8883d9686f9b",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$28554.75"
+    },
+    {
+        "id": "3c41855f-f650-4efd-a809-aa6eddce3d83",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$53885.62"
+    },
+    {
+        "id": "613394b5-d552-4d1d-a916-5961e499da23",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$18584.74"
+    },
+    {
+        "id": "7422ac14-db6b-416f-965f-f52d83ea30a0",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$63969.99"
+    },
+    {
+        "id": "8e0f8a22-3e78-486a-911c-f7cfb765cd66",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$53478.42"
+    },
+    {
+        "id": "3e1e9975-525c-4647-8216-93b954abf6c6",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$18863.73"
+    },
+    {
+        "id": "ff04e57b-a8ac-4da5-b5cc-eb8e6100f6a0",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$36777.77"
+    },
+    {
+        "id": "056f4fb6-0f6e-44b9-99c9-3bb0714eb14f",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$28205.60"
+    },
+    {
+        "id": "0b073d21-087d-473f-8b6c-e6a89d279bb2",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$32063.33"
+    },
+    {
+        "id": "7f226e7e-4cd4-489e-9273-08fd91e9699d",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$68209.05"
+    },
+    {
+        "id": "35881bf0-786f-4cd4-93a9-f93503b39d49",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$40027.59"
+    },
+    {
+        "id": "57780136-f6c6-4282-8b4d-fbfdbfb62350",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$74502.39"
+    },
+    {
+        "id": "bdd355c0-775e-46e3-bdce-3ade2ad59af4",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$25256.53"
+    },
+    {
+        "id": "6a98d69e-0a22-472a-9bee-082a3fb5c5d9",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$14581.50"
+    },
+    {
+        "id": "c0971197-164c-4e4d-946e-052ddf4c1fed",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$7048.49"
+    },
+    {
+        "id": "1ad52b20-950b-477c-b217-c552c7eadc1d",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$56602.04"
+    },
+    {
+        "id": "5beac6fa-53cd-4566-b57d-e6336c3de57d",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$72098.07"
+    },
+    {
+        "id": "bc718068-3204-4510-9022-bfd06832c9d8",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$70032.80"
+    },
+    {
+        "id": "dd6d4ccf-a30b-4f64-ac2b-6d3d4bf328c7",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$23991.14"
+    },
+    {
+        "id": "d66ba520-d6bb-461d-9487-f3e93aaa4892",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$74129.25"
+    },
+    {
+        "id": "166f7d95-29f2-4452-a3b0-5312d53dd089",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$71137.64"
+    },
+    {
+        "id": "902e5b44-4789-438f-a162-403cc222c4ce",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$34292.44"
+    },
+    {
+        "id": "f4832dc8-067e-4231-8a87-f17993998f11",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$73662.33"
+    },
+    {
+        "id": "f78b863e-5b70-4dd6-aaaf-b3816d56adbb",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$51082.68"
+    },
+    {
+        "id": "1db5789d-a2f8-49cf-9215-5cbe6ea102ec",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$18098.66"
+    },
+    {
+        "id": "34fd8464-cece-44ec-8bdf-08f443a22a41",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$59408.40"
+    },
+    {
+        "id": "4fdaf456-4edd-41f5-a59e-61d054400692",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$73708.17"
+    },
+    {
+        "id": "b10f082a-6d94-4e4b-99bb-0f9935b8663f",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$16303.59"
+    },
+    {
+        "id": "cd988795-d19e-4550-90a8-d826194a433d",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$61529.42"
+    },
+    {
+        "id": "58704fe5-7c65-4e31-b25b-84de74ae7784",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$79509.42"
+    },
+    {
+        "id": "023036b0-4038-4535-866d-81cf0b6335d6",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$14816.15"
+    },
+    {
+        "id": "ab1d8b80-5ed7-432a-90eb-a213317c1280",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$36137.64"
+    },
+    {
+        "id": "a68de40c-83d0-476c-bbbd-7f444be351fa",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$57774.66"
+    },
+    {
+        "id": "03c86ec0-d52d-43fc-9831-5e7a7505ef5d",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$48379.75"
+    },
+    {
+        "id": "d54c9794-a467-490c-807f-02f9f73fc8a4",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$39807.30"
+    },
+    {
+        "id": "7e01ea89-60ea-4ac6-b59d-7a2b41e78a2f",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$50262.62"
+    },
+    {
+        "id": "f1251896-25cc-48a0-99d3-f7c81ab28a27",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$67148.18"
+    },
+    {
+        "id": "c160dfd5-ce11-48e6-9fa1-105490209a82",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$18506.32"
+    },
+    {
+        "id": "40c589aa-e0c4-45c0-8bee-42a1b9ea5425",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$73462.13"
+    },
+    {
+        "id": "f5af49aa-5709-46dd-a995-c752ccca254a",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$50261.84"
+    },
+    {
+        "id": "96622879-b5e4-4393-9849-8f803ca98e75",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$13402.61"
+    },
+    {
+        "id": "8fcd2ee5-45a8-4dfc-8377-410628e23d6c",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$56252.21"
+    },
+    {
+        "id": "383a5e18-b8f7-4406-956a-72c74e82c3b1",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$33061.90"
+    },
+    {
+        "id": "916978e0-d313-4d00-b79e-3f75cddf768d",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$44892.43"
+    },
+    {
+        "id": "128dac77-999b-4041-a305-a6982a19fd61",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$10059.04"
+    },
+    {
+        "id": "16416517-980f-4b38-bdb1-ba3af46322b3",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$56599.77"
+    },
+    {
+        "id": "a7664fc0-ea2e-48ff-b6e1-66f2aebfb3af",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$54322.85"
+    },
+    {
+        "id": "4dd2acb2-dc46-4519-a859-3e79383e1504",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$62649.13"
+    },
+    {
+        "id": "1bd98df1-2a89-48ff-9ef6-896d090ff50d",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$45225.24"
+    },
+    {
+        "id": "d7fda08e-21e5-41a6-80a4-ee2dab5aeae0",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$20934.86"
+    },
+    {
+        "id": "13258aec-94d1-4b2f-ac72-cb51d8a9d0ce",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$46193.25"
+    },
+    {
+        "id": "2eca4347-657f-43c9-afe1-33093996cf20",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$23845.87"
+    },
+    {
+        "id": "f3ed97b1-29ee-414e-8c92-aac2d6cbdc05",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$10663.66"
+    },
+    {
+        "id": "d8c12055-0dd1-4382-b0da-ca2db79b4d28",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$27046.01"
+    },
+    {
+        "id": "e7afd1f3-0910-4d9a-8a81-48806fbb4f6a",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$65380.87"
+    },
+    {
+        "id": "3a6af142-8bea-4696-8779-fd9f004bebfd",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$29873.66"
+    },
+    {
+        "id": "2f041497-8a3f-41ad-83a0-1f31721bcc2a",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$73340.63"
+    },
+    {
+        "id": "336e567d-e74c-4eb3-9f6c-12fa05f7022e",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$71943.74"
+    },
+    {
+        "id": "5ce196d1-8af2-4961-9b8e-bf305c393d1f",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$23302.17"
+    },
+    {
+        "id": "869dc5ee-91a7-460d-827e-cebb98b59d73",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$52517.86"
+    },
+    {
+        "id": "d10f73e8-cef1-4b81-b124-74a619291a85",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$70280.42"
+    },
+    {
+        "id": "fc7b6df5-e104-4929-b933-37ebc2ae2f3f",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$56751.52"
+    },
+    {
+        "id": "7766f134-536f-4ece-b92a-a95dcbeeb062",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$67744.73"
+    },
+    {
+        "id": "1112eaa4-d52e-444a-a904-7d1d1c809bbd",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$64883.48"
+    },
+    {
+        "id": "d9eb6a7f-2010-4382-b9b5-bc891ec5653d",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$36804.61"
+    },
+    {
+        "id": "5ab496cd-2ced-4505-a554-389883121748",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$6200.41"
+    },
+    {
+        "id": "f9cd76cc-8e60-44a3-a815-44a534dab209",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$20141.60"
+    },
+    {
+        "id": "cbd5437e-5341-4c12-b389-1fd2409ab711",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$31552.50"
+    },
+    {
+        "id": "1547df45-559b-4b9a-b97c-ab2d66382494",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$28386.36"
+    },
+    {
+        "id": "b1aa4017-a702-40d7-af6c-a087d65469b8",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$52956.14"
+    },
+    {
+        "id": "923c8187-f4bf-4167-841c-ef5ef192ea64",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$27493.70"
+    },
+    {
+        "id": "6115c270-8d82-4180-8eab-43bed0c4ce4a",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$52394.63"
+    },
+    {
+        "id": "0ef90bfd-8e0f-462a-aaa3-3ea91cdde15d",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$5447.52"
+    },
+    {
+        "id": "fdcfa6d2-9b2e-4dbb-bf1d-f5cabcf8543c",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$16611.76"
+    },
+    {
+        "id": "377c88ef-6307-4399-a6ef-d27095430e51",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$73391.58"
+    },
+    {
+        "id": "54c1523d-09ec-4a8e-82de-786d5279d13a",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$65776.31"
+    },
+    {
+        "id": "f0155f99-29c1-4f4a-9a73-6539ee5dbfdb",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$38414.29"
+    },
+    {
+        "id": "df693207-303b-45a1-9196-bbe670ecfe08",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$27842.94"
+    },
+    {
+        "id": "b0adad40-6295-47cd-a7ec-b25e3ab4da9a",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$16936.82"
+    },
+    {
+        "id": "c5ba355c-21e7-42a4-9ccc-0012e43eb0fa",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$12810.35"
+    },
+    {
+        "id": "65245795-953d-417e-910b-3eee6b7613a3",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$40030.28"
+    },
+    {
+        "id": "36e41f3a-8fd3-4fc4-a84d-d0be43404d18",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$74251.28"
+    },
+    {
+        "id": "50c02939-8486-4c01-987d-8894a43c67f9",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$33407.57"
+    },
+    {
+        "id": "9cb1849d-53c7-414b-9808-bdf9e1f4602d",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$33612.16"
+    },
+    {
+        "id": "bd6944d1-5e8a-44d0-adbd-01384bbc17ad",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$37738.82"
+    },
+    {
+        "id": "8d923140-c36c-4006-8020-23c732317fba",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$45689.94"
+    },
+    {
+        "id": "eb3e250e-3f2b-4963-8a59-f6c367af251f",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$16519.43"
+    },
+    {
+        "id": "153f8efb-0c30-4b85-8c92-d363ad5e83dc",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$11151.04"
+    },
+    {
+        "id": "5fbca282-6557-439a-be6d-70d5bd5d1dba",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$11693.57"
+    },
+    {
+        "id": "45fe832c-07e7-4b5d-b638-9137b9c0ee2a",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$14758.14"
+    },
+    {
+        "id": "742f6c3d-d96e-42f6-8def-36cfcb054006",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$65361.09"
+    },
+    {
+        "id": "c80f5193-e220-4a7a-949a-14f9d2bc99a2",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$51130.81"
+    },
+    {
+        "id": "1dcc2412-de7a-4ed3-b309-5cba78da1805",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$24177.00"
+    },
+    {
+        "id": "55ad75c4-d6e4-461f-923c-c36fb1a37ebd",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$10655.99"
+    },
+    {
+        "id": "57c5859f-20e9-4083-8d49-209167ca04ec",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$41024.49"
+    },
+    {
+        "id": "d956bc3a-bfa9-47f4-bfdf-729186dede70",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$10148.68"
+    },
+    {
+        "id": "81301797-d943-4572-9f06-dad815bb44f6",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$50534.53"
+    },
+    {
+        "id": "01994a11-1104-434e-b2b0-a7a8e9e2dbe4",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$32317.73"
+    },
+    {
+        "id": "636ae84f-f23c-4e2b-8da2-88a9fcf25105",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$53541.25"
+    },
+    {
+        "id": "8f57e4d8-3bf5-43a8-998e-f24143bb9f77",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$28496.33"
+    },
+    {
+        "id": "546c603d-339a-41ce-9236-6280312e428e",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$76930.36"
+    },
+    {
+        "id": "e4c18109-fdf9-4809-870d-0c1573b3cfc9",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$15739.35"
+    },
+    {
+        "id": "ae312341-4456-4408-bee3-ef59a299f81a",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$55754.82"
+    },
+    {
+        "id": "3601b74f-7a29-49ec-94ae-0bf6887d313b",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$36261.09"
+    },
+    {
+        "id": "844a0417-aaea-47d4-9d73-7ea83f3c136e",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$22183.87"
+    },
+    {
+        "id": "8751eaef-dcf1-4602-876a-ebcdb7d3e9c4",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$69237.02"
+    },
+    {
+        "id": "85436221-eb05-4cda-b6d6-9120d7c3f734",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$35371.26"
+    },
+    {
+        "id": "53638bb1-2090-42c3-8046-0f214c66c012",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$39685.12"
+    },
+    {
+        "id": "96e0a41b-0864-4357-9878-f459a4833a2e",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$43370.48"
+    },
+    {
+        "id": "60643684-f314-4b63-89cc-beda94064d21",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$48956.65"
+    },
+    {
+        "id": "3664ed27-a156-4159-9f98-17f99d298032",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$16046.56"
+    },
+    {
+        "id": "ace46083-3b21-4cac-8510-16840824cb5c",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$42331.41"
+    },
+    {
+        "id": "a7d847e1-32d8-4c65-a0ab-6dd15f89232c",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$24711.92"
+    },
+    {
+        "id": "72e14525-42d9-4380-a3a5-644a8af59a6d",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$45155.37"
+    },
+    {
+        "id": "4fcf6a1d-3c23-493e-a93b-e888b9ec3b14",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$60349.05"
+    },
+    {
+        "id": "7ab98ee5-c52e-49d5-897f-83df1df1146f",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$56193.13"
+    },
+    {
+        "id": "eb1f7999-73ae-4bbb-95f4-ced5bf872fb3",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$27676.83"
+    },
+    {
+        "id": "f9e14030-ab45-4945-88a8-2b198eb02b1c",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$12221.49"
+    },
+    {
+        "id": "ddd0ccf3-439a-4078-abff-5e1b866b02a9",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$71421.61"
+    },
+    {
+        "id": "fd946c61-faf8-4a8b-878f-c00d5ef11d26",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$35958.77"
+    },
+    {
+        "id": "076addab-33ad-42c7-ba85-4ceb4a629e60",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$35636.62"
+    },
+    {
+        "id": "96b1bd5e-5150-4010-b7a1-ace542fd0ed3",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$61469.30"
+    },
+    {
+        "id": "f7a8f068-7ddb-4f5b-883e-e63aeff20a44",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$14178.71"
+    },
+    {
+        "id": "a9080ce4-cd95-41a5-bc19-80b4db4f21e5",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$37617.39"
+    },
+    {
+        "id": "fd1a00a5-aeac-4ec5-9f59-1139c861144b",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$46574.43"
+    },
+    {
+        "id": "855af204-b529-4e3c-aad2-6f12364216a3",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$53297.14"
+    },
+    {
+        "id": "b2d5aa1b-cf58-45ef-a25e-83f5f9971855",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$47752.47"
+    },
+    {
+        "id": "d86b826e-7e52-4e11-b7ae-63a2b66cd7c1",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$74999.10"
+    },
+    {
+        "id": "95e5db39-c022-4caa-a980-4746d21a43f7",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$73976.63"
+    },
+    {
+        "id": "9450a74a-2aef-4776-ba48-17c6bc22a0a5",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$52676.02"
+    },
+    {
+        "id": "1cd25237-0f57-458f-b1c2-cb0fa0781af4",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$35876.80"
+    },
+    {
+        "id": "9ff4bcb5-6f7f-41bd-bc66-2915996cc13f",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$47725.96"
+    },
+    {
+        "id": "9c9eda5c-74bd-42bb-898a-91f99c66d777",
+        "procurement": "Purchasing Division",
+        "division": "Human Resources",
+        "amount": "$58428.14"
+    },
+    {
+        "id": "8b6a8b50-5619-4b6c-87be-e1bba4cca0fe",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$58317.14"
+    },
+    {
+        "id": "3b0e277b-b468-4d53-b6bf-85336f4446c8",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$45227.00"
+    },
+    {
+        "id": "23c0100e-a791-444b-a7fa-510a914f58c0",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$12854.92"
+    },
+    {
+        "id": "0831ea62-3d78-4d99-97b5-588848312af6",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$42837.76"
+    },
+    {
+        "id": "e32d977a-ad83-4961-8b18-715a6b52d8a5",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$34813.73"
+    },
+    {
+        "id": "aea5ec56-ce91-4c95-87a6-3bee670b2b8b",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$76708.47"
+    },
+    {
+        "id": "b9b8fd92-df5b-40ef-94e6-0a76de869741",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$72886.04"
+    },
+    {
+        "id": "f7290986-a53f-4519-b13b-02b4c32cca39",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$36270.66"
+    },
+    {
+        "id": "4d56b6dc-4a6b-448e-920d-79f758efdc63",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$67358.18"
+    },
+    {
+        "id": "77a03e51-9d0e-4a2d-a0dc-734fd680b423",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$43936.41"
+    },
+    {
+        "id": "798ccd4b-64d4-4539-96d2-edd1970a071a",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$20492.16"
+    },
+    {
+        "id": "ea9ba803-496a-4bb7-abea-e2314fc5048c",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$10372.25"
+    },
+    {
+        "id": "0b176e28-c9fb-40bc-a022-8e2127017829",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$63171.86"
+    },
+    {
+        "id": "5764b957-bac8-4950-9bfc-d5b75bff162b",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$19546.94"
+    },
+    {
+        "id": "859df847-32ad-4361-a78f-ee30f6eabb2d",
+        "procurement": "Purchasing Division",
+        "division": "Sales",
+        "amount": "$14954.50"
+    },
+    {
+        "id": "7e6ed84a-3186-4732-b9d1-7f3c864c5d95",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$75857.80"
+    },
+    {
+        "id": "7ad560be-a2b5-41b7-bf5a-81453e927efe",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$8084.97"
+    },
+    {
+        "id": "009bdec7-85e5-4334-93d8-8fc20b840883",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$53203.87"
+    },
+    {
+        "id": "c13d23be-28bc-44cc-b980-1e3e7fc41ece",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$13854.86"
+    },
+    {
+        "id": "764e8f5d-b10c-44c1-ba48-4081531fdce3",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$12294.90"
+    },
+    {
+        "id": "de46ed4e-ea76-4569-b501-381db086c5cc",
+        "procurement": "Acquisition Department",
+        "division": "Finance",
+        "amount": "$24560.22"
+    },
+    {
+        "id": "7b0ef7f0-ee36-4d45-9d24-8f0e1b6ac9ed",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$60669.65"
+    },
+    {
+        "id": "5c708531-9fd6-460b-8b45-a27f9f11403e",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$58119.34"
+    },
+    {
+        "id": "06f40b62-e307-404f-b696-f3eabf2760d4",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$72464.01"
+    },
+    {
+        "id": "38bdcd3d-d9dc-4560-a8a7-9180fe893cdb",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$27997.20"
+    },
+    {
+        "id": "4d7e7ea1-fed0-4d96-abe2-64ea36d07e23",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$58408.87"
+    },
+    {
+        "id": "ab00010a-5917-41d1-a789-01b68a051c05",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$34658.13"
+    },
+    {
+        "id": "81168a0b-7f2c-4d2f-83e2-f39d9695d381",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$33386.40"
+    },
+    {
+        "id": "56adaea4-f602-47f7-8248-ef59e9abcd95",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$56601.04"
+    },
+    {
+        "id": "733d3f5e-a199-456b-aea2-f8605e314d8f",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$66601.23"
+    },
+    {
+        "id": "b67b0fd4-96fe-4c1e-b614-b0773bf8e469",
+        "procurement": "Vendor Relations Team",
+        "division": "Finance",
+        "amount": "$65047.99"
+    },
+    {
+        "id": "30540660-2d6c-41f5-a1d9-239321a729bb",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$57138.12"
+    },
+    {
+        "id": "0205d40d-4590-4188-b013-c94cf71488f3",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$23834.59"
+    },
+    {
+        "id": "6dfad5c5-ff9a-429e-8d35-075dd5bd6034",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$69007.45"
+    },
+    {
+        "id": "f4da19a2-a263-4101-85a8-ded5a83c4982",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$73434.38"
+    },
+    {
+        "id": "795e5439-985b-44eb-afb7-d37c9a4806e4",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$28455.22"
+    },
+    {
+        "id": "981b9ecb-66bd-4307-8ded-0bed1d62a8d1",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$43938.29"
+    },
+    {
+        "id": "bf43c881-83d5-4199-bf71-d7f02a754681",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$56932.68"
+    },
+    {
+        "id": "f886b1c5-70b7-45d9-b19f-4c4151b66ba8",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$68499.12"
+    },
+    {
+        "id": "d3b8d9cd-7a0d-4129-b3a5-e8cd3c360df4",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$39337.86"
+    },
+    {
+        "id": "3cff9894-eb18-4f88-a1f3-130101c10bd8",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$33177.38"
+    },
+    {
+        "id": "cfdc4790-2343-41d4-bca2-4f684de0fdcc",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$64544.54"
+    },
+    {
+        "id": "3b49e8fb-1ee6-4d42-9ad6-f29f9730cc06",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$53236.11"
+    },
+    {
+        "id": "8fb6364a-ed96-46e8-9729-91248189a9b3",
+        "procurement": "Supply Chain Management",
+        "division": "Finance",
+        "amount": "$27483.61"
+    },
+    {
+        "id": "3e715450-64be-4e6f-951e-df34467403f9",
+        "procurement": "Vendor Relations Team",
+        "division": "Human Resources",
+        "amount": "$37959.30"
+    },
+    {
+        "id": "1cacbb69-4fa9-4bbd-b380-02150e99a0a4",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$17757.29"
+    },
+    {
+        "id": "eb904c3c-1b5a-4cb4-a2a2-591304bb0a69",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$56080.74"
+    },
+    {
+        "id": "0506266e-cd82-488a-8367-34b95aa72784",
+        "procurement": "Supply Chain Management",
+        "division": "Marketing",
+        "amount": "$12375.54"
+    },
+    {
+        "id": "845ddb80-e006-4a73-ac33-76e2c326bb0b",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$48598.97"
+    },
+    {
+        "id": "9e64d4b8-5f03-49e4-98d8-8464e0e50d99",
+        "procurement": "Procurement Office",
+        "division": "Marketing",
+        "amount": "$20155.33"
+    },
+    {
+        "id": "d4824528-38aa-427e-9789-18c3e50836b8",
+        "procurement": "Procurement Office",
+        "division": "Research & Development",
+        "amount": "$64952.18"
+    },
+    {
+        "id": "b097aa4e-cd1e-4470-9aca-dce2e5bef3a7",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$26409.78"
+    },
+    {
+        "id": "8b8c5049-22f8-4dce-90dd-af36a60e1195",
+        "procurement": "Purchasing Division",
+        "division": "Finance",
+        "amount": "$27475.01"
+    },
+    {
+        "id": "baaf557b-6ec8-4e27-aee6-2e8dc638fdd7",
+        "procurement": "Acquisition Department",
+        "division": "Marketing",
+        "amount": "$51807.87"
+    },
+    {
+        "id": "be116be4-60ef-4460-81b9-e72f61dcb5cc",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$57964.55"
+    },
+    {
+        "id": "5a063da4-3493-43a9-9b0f-5c44045f89bd",
+        "procurement": "Supply Chain Management",
+        "division": "Sales",
+        "amount": "$26080.11"
+    },
+    {
+        "id": "dda4b0c7-d438-40e3-b65f-66920822c60b",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$78954.92"
+    },
+    {
+        "id": "3fc4c07d-7842-4491-af1c-a18cc48f860e",
+        "procurement": "Procurement Office",
+        "division": "Sales",
+        "amount": "$60160.12"
+    },
+    {
+        "id": "94f46561-8d5a-4e27-9c14-9e9e050f01a9",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$56776.92"
+    },
+    {
+        "id": "999ca481-1a3b-4043-bc11-a6e06df75dfe",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$16464.41"
+    },
+    {
+        "id": "abedfc99-8289-4caf-ae1f-fbd678095c1b",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$35029.28"
+    },
+    {
+        "id": "dff4d865-7a93-478d-b667-d121833b9052",
+        "procurement": "Procurement Office",
+        "division": "Finance",
+        "amount": "$37453.45"
+    },
+    {
+        "id": "e156456b-238d-4a63-ab55-e8fc1315a0f0",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$9168.54"
+    },
+    {
+        "id": "a48d5a09-dcda-4c77-9eba-f616383ce506",
+        "procurement": "Supply Chain Management",
+        "division": "Human Resources",
+        "amount": "$14005.03"
+    },
+    {
+        "id": "e0a1c8d0-26ae-46b1-8705-c1e868d9a75f",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$58383.49"
+    },
+    {
+        "id": "4afe0a4b-b113-41ef-a607-a317f9ab419a",
+        "procurement": "Vendor Relations Team",
+        "division": "Marketing",
+        "amount": "$49280.37"
+    },
+    {
+        "id": "4c2b5ea2-a57a-4635-9b93-b7ed5b4b7c82",
+        "procurement": "Acquisition Department",
+        "division": "Human Resources",
+        "amount": "$32618.96"
+    },
+    {
+        "id": "e24dea02-777a-4acd-895c-c42b2d0388c0",
+        "procurement": "Procurement Office",
+        "division": "Human Resources",
+        "amount": "$16982.77"
+    },
+    {
+        "id": "2ec850fd-3e79-4eb6-bace-0752e8b69336",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$53170.89"
+    },
+    {
+        "id": "682b6bf4-2766-409c-bb98-66ae5e254b10",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$63967.35"
+    },
+    {
+        "id": "9d130c1b-3038-4861-ad83-5cf4e793c5be",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$48958.65"
+    },
+    {
+        "id": "240e4731-481e-4973-a20d-17d7fdfea188",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$42490.06"
+    },
+    {
+        "id": "23767aff-1606-41a7-981f-45e1e8fa2c81",
+        "procurement": "Acquisition Department",
+        "division": "Sales",
+        "amount": "$40212.44"
+    },
+    {
+        "id": "52a2972e-9d61-4a7c-b6b5-4bad02f0be9d",
+        "procurement": "Purchasing Division",
+        "division": "Marketing",
+        "amount": "$64820.63"
+    },
+    {
+        "id": "12fc50b4-c576-4620-889a-761c588670c1",
+        "procurement": "Purchasing Division",
+        "division": "Research & Development",
+        "amount": "$35444.00"
+    },
+    {
+        "id": "9ab898d6-e81e-4de2-b443-8f5c2fadeb21",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$71115.93"
+    },
+    {
+        "id": "9b36596d-974b-4f93-a28a-c377c9293cc2",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$38361.46"
+    },
+    {
+        "id": "056754b3-7580-411a-b105-252db2cb55d2",
+        "procurement": "Vendor Relations Team",
+        "division": "Sales",
+        "amount": "$59092.77"
+    },
+    {
+        "id": "fdc257d6-3348-4e7f-bb13-73ca3578ab66",
+        "procurement": "Vendor Relations Team",
+        "division": "Research & Development",
+        "amount": "$32151.38"
+    },
+    {
+        "id": "cbac4798-9a44-4e8d-8507-4702663f98d1",
+        "procurement": "Supply Chain Management",
+        "division": "Research & Development",
+        "amount": "$76228.17"
+    },
+    {
+        "id": "ca6ec642-bbe2-45ab-a78d-26ac5a213dad",
+        "procurement": "Acquisition Department",
+        "division": "Research & Development",
+        "amount": "$68853.36"
+    }
+]

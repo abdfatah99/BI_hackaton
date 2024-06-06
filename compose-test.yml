@@ -1,0 +1,31 @@
+version: "3.0"
+
+services:
+    frontend:
+        build: ./FE
+        ports:
+            - "8002:5173"
+        environment:
+            - VITE_BE=http://localhost:8001
+    backend:
+        build: ./BE
+        container_name: "backend_python"
+        ports:
+            - "8001:8000"
+        environment:
+            - DATABASE_USERNAME=postgres
+            - DATABASE_PASSWORD=root
+            - DATABASE_IP=localhost
+            - DATABASE_PORT=5432
+            - DATABASE_NAME=competition_bi
+    db:
+        image: postgres:alpine3.20
+        ports:
+            - "8000:5432"
+        environment:
+            - POSTGRES_HOST_AUTH_METHOD=trust
+        volumes:
+            - bi_app:/var/lib/postgresql/data
+
+volumes:
+    bi_app:
